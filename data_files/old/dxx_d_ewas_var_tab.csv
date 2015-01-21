@@ -1,0 +1,106 @@
+"tab_name","tab_desc","series","module","var","var_desc","comment_var","is_weight","is_comment","is_questionnaire","tab_desc_ewas","var_desc_ewas","analyzable","is_ecological","is_binary","is_ordinal","categorical_ref_group","categorical_levels","var_desc_ewas_sub"
+"dxx_d","DEXA","2005-2006","examination","_MULT_","Imputation Version",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXAEXSTS","Exam Status",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXITOT","Overall Imputation Indicator",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXIHE","Head Imputation Indicator",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXXHEA","Head Area (cm^2)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXAHEBV","Head Bone Invalidity Code",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXXHEBMC","Head Bone Mineral Content (g)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXXHEBMD","Head Bone Mineral Density (g/cm^2)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXAHETV","Head Tissue Invalidity Code",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXXHEFAT","Head Fat (g)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXDHELE","Head Lean excl BMC (g)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXXHELI","Head Lean incl BMC (g)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXDHETOT","Head Total (g)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXDHEPF","Head Percent Fat",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXILA","Left Arm Imputation Indicator",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXXLAA","Left Arm Area (cm^2)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXALABV","Left Arm Bone Invalidity Code",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXXLABMC","Left Arm BMC (g)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXXLABMD","Left Arm BMD (g/cm^2)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXALATV","Left Arm Tissue Invalidity Code",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXXLAFAT","Left Arm Fat (g)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXDLALE","Left Arm Lean excl BMC (g)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXXLALI","Left Arm Lean incl BMC (g)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXDLATOT","Left Arm Total (g)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXDLAPF","Left Arm Percent Fat",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXILL","Left Leg Imputation Indicator",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXXLLA","Left Leg Area (cm^2)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXALLBV","Left Leg Bone Invalidity Code",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXXLLBMC","Left Leg BMC (g)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXXLLBMD","Left Leg BMD (g/cm^2)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXALLTV","Left Leg Tissue Invalidity Code",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXXLLFAT","Left Leg Fat (g)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXDLLLE","Left Leg Lean excl BMC (g)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXXLLLI","Left Leg Lean incl BMC (g)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXDLLTOT","Left Leg Total (g)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXDLLPF","Left Leg Percent Fat",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXIRA","Right Arm Imputation Indicator",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXXRAA","Right Arm Area (cm^2)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXARABV","Right Arm Bone Invalidity Code",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXXRABMC","Right Arm BMC (g)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXXRABMD","Right Arm BMD (g/cm^2)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXARATV","Right Arm Tissue Invalidity Code",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXXRAFAT","Right Arm Fat (g)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXDRALE","Right Arm Lean excl BMC (g)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXXRALI","Right Arm Lean incl BMC (g)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXDRATOT","Right Arm Total (g)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXDRAPF","Right Arm Percent Fat",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXIRL","Right Leg Imputation Indicator",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXXRLA","Right Leg Area (cm^2)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXARLBV","Right Leg Bone Invalidity Code",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXXRLBMC","Right Leg BMC (g)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXXRLBMD","Right Leg BMD(g/cm^2)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXARLTV","Right Leg Tissue Invalidity Code",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXXRLFAT","Right Leg Fat (g)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXDRLLE","Right Leg Lean excl BMC (g)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXXRLLI","Right Leg Lean incl BMC (g)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXDRLTOT","Right Leg Total (g)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXDRLPF","Right Leg Percent Fat",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXILR","Left Ribs Imputation Indicator",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXXLRA","Left Ribs Area (cm^2)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXXLRBMC","Left Ribs BMC (g)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXXLRBMD","Left Ribs BMD (g/cm^2)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXIRR","Right Ribs Imputation Indicator",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXXRRA","Right Ribs Area (cm^2)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXXRRBMC","Right Ribs BMC (g)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXXRRBMD","Right Ribs BMD (g/cm^2)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXITS","Thoracic Spine Imputation Indicator",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXXTSA","Thoracic Spine Area (cm^2)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXXTSBMC","Thoracic Spine BMC (g)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXXTSBMD","Thoracic Spine BMD (g/cm^2)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXILS","Lumbar Spine Imputation Indicator",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXXLSA","Lumbar Spine Area (cm^2)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXXLSBMC","Lumbar Spine BMC (g)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXXLSBMD","Lumbar Spine BMD (g/cm^2)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXIPE","Pelvis Imputation Indicator",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXXPEA","Pelvis Area (cm^2)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXXPEBMC","Pelvis BMC (g)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXXPEBMD","Pelvis BMD (g/cm^2)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXITR","Trunk Imputation Indicator",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXDTRA","Trunk Bone area (cm^2)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXATRBV","Trunk Bone Invalidity Code",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXDTRBMC","Trunk BMC (g)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXDTRBMD","Trunk Bone BMD (g/cm^2)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXATRTV","Trunk Tissue Invalidity Code",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXXTRFAT","Trunk Fat (g)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXDTRLE","Trunk Lean excl BMC (g)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXXTRLI","Trunk Lean incl BMC (g)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXDTRTOT","Trunk Total (g)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXDTRPF","Trunk Percent Fat",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXDSTA","Subtotal Area (cm^2)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXDSTBMC","Subtotal BMC (g)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXDSTBMD","Subtotal BMD (g/cm^2)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXDSTFAT","Subtotal Fat (g)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXDSTLE","Subtotal Lean excl BMC (g)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXDSTLI","Subtotal Lean incl BMC (g)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXDSTTOT","Subtotal (Total excl Head) (g)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXDSTPF","Subtotal Percent Fat",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXDTOA","Total Area (cm^2)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXDTOBMC","Total Bone Mineral Content (g)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXDTOBMD","Total Bone Mineral Density (g/cm^2)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXDTOFAT","Total Fat (g)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXDTOLE","Total Lean excl BMC (g)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXDTOLI","Total Lean incl BMC (g)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXDTOTOT","Total Lean+Fat (g)",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA
+"dxx_d","DEXA","2005-2006","examination","DXDTOPF","Total Percent Fat",NA,0,0,0,"body measures","body measures",1,0,0,0,NA,NA,NA

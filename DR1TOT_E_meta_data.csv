@@ -1,0 +1,165 @@
+tab_name,tab_desc,var,var_desc,module,series,is_comment,is_weight
+dr1tot_e,Total Nutrients -- First Day,SEQN,Respondent sequence number,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,WTDRD1,Dietary day one sample weight,Dietary,2007-2008,0,1
+dr1tot_e,Total Nutrients -- First Day,WTDR2D,Dietary two-day sample weight,Dietary,2007-2008,0,1
+dr1tot_e,Total Nutrients -- First Day,DR1DRSTZ,Dietary recall status,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1EXMER,Interviewer ID code,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRABF,Breast-fed infant (either day),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRDINT,Number of days of intake,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1DBIH,# of days b/w intake and HH interview,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1DAY,Intake day of the week,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1LANG,Language respondent used mostly,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1MNRSP,Main respondent for this interview,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1HELPD,Helped in responding for this interview,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DBQ095Z,Type of table salt used,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DBD100,How often add salt to food at table,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRQSPREP,Salt used in preparation?,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRQSDIET,On special diet?,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRQSDT1,Weight loss/Low calorie diet,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRQSDT2,Low fat/Low cholesterol diet,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRQSDT3,Low salt/Low sodium diet,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRQSDT4,Sugar free/Low sugar diet,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRQSDT5,Low fiber diet,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRQSDT6,High fiber diet,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRQSDT7,Diabetic diet,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRQSDT8,Weight gain/Muscle building diet,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRQSDT9,Low carbohydrate diet,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRQSDT10,High protein diet,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRQSDT91,Other special diet,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TNUMF,Number of foods reported,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TKCAL,Energy (kcal),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TPROT,Protein (gm),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TCARB,Carbohydrate (gm),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TSUGR,Total sugars (gm),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TFIBE,Dietary fiber (gm),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TTFAT,Total fat (gm),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TSFAT,Total saturated fatty acids (gm),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TMFAT,Total monounsaturated fatty acids (gm),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TPFAT,Total polyunsaturated fatty acids (gm),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TCHOL,Cholesterol (mg),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TATOC,Vitamin E as alpha-tocopherol (mg),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TATOA,Added alpha-tocopherol (Vitamin E) (mg),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TRET,Retinol (mcg),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TVARA,"Vitamin A, RAE (mcg)",Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TACAR,Alpha-carotene (mcg),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TBCAR,Beta-carotene (mcg),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TCRYP,Beta-cryptoxanthin (mcg),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TLYCO,Lycopene (mcg),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TLZ,Lutein + zeaxanthin (mcg),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TVB1,Thiamin (Vitamin B1) (mg),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TVB2,Riboflavin (Vitamin B2) (mg),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TNIAC,Niacin (mg),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TVB6,Vitamin B6 (mg),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TFOLA,Total folate (mcg),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TFA,Folic acid (mcg),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TFF,Food folate (mcg),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TFDFE,"Folate, DFE (mcg)",Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TCHL,Total choline (mg),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TVB12,Vitamin B12 (mcg),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TB12A,Added vitamin B12 (mcg),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TVC,Vitamin C (mg),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TVD,Vitamin D (D2 + D3) (mcg),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TVK,Vitamin K (mcg),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TCALC,Calcium (mg),Dietary,2007-2008,1,0
+dr1tot_e,Total Nutrients -- First Day,DR1TPHOS,Phosphorus (mg),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TMAGN,Magnesium (mg),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TIRON,Iron (mg),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TZINC,Zinc (mg),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TCOPP,Copper (mg),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TSODI,Sodium (mg),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TPOTA,Potassium (mg),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TSELE,Selenium (mcg),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TCAFF,Caffeine (mg),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TTHEO,Theobromine (mg),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TALCO,Alcohol (gm),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TMOIS,Moisture (gm),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TS040,SFA 4:0 (Butanoic) (gm),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TS060,SFA 6:0 (Hexanoic) (gm),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TS080,SFA 8:0 (Octanoic) (gm),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TS100,SFA 10:0 (Decanoic) (gm),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TS120,SFA 12:0 (Dodecanoic) (gm),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TS140,SFA 14:0 (Tetradecanoic) (gm),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TS160,SFA 16:0 (Hexadecanoic) (gm),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TS180,SFA 18:0 (Octadecanoic) (gm),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TM161,MFA 16:1 (Hexadecenoic) (gm),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TM181,MFA 18:1 (Octadecenoic) (gm),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TM201,MFA 20:1 (Eicosenoic) (gm),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TM221,MFA 22:1 (Docosenoic) (gm),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TP182,PFA 18:2 (Octadecadienoic) (gm),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TP183,PFA 18:3 (Octadecatrienoic) (gm),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TP184,PFA 18:4 (Octadecatetraenoic) (gm),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TP204,PFA 20:4 (Eicosatetraenoic) (gm),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TP205,PFA 20:5 (Eicosapentaenoic) (gm),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TP225,PFA 22:5 (Docosapentaenoic) (gm),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TP226,PFA 22:6 (Docosahexaenoic) (gm),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1_300,Compare food consumed yesterday to usual,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1_320Z,Total plain water drank yesterday (gm),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1_330Z,Total tap water drank yesterday (gm),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1BWATZ,Total bottled water drank yesterday (gm),Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DR1TWS,Tap water source,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD340,Shellfish eaten during past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD350A,Clams eaten during past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD350AQ,# of times clams eaten in past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD350B,Crabs eaten during past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD350BQ,# of times crabs eaten in past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD350C,Crayfish eaten during past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD350CQ,# of times crayfish eaten past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD350D,Lobsters eaten during past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD350DQ,# of times lobsters eaten past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD350E,Mussels eaten during past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD350EQ,# of times mussels eaten in past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD350F,Oysters eaten during past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD350FQ,# of times oysters eaten in past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD350G,Scallops eaten during past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD350GQ,# of times scallops eaten past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD350H,Shrimp eaten during past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD350HQ,# of times shrimp eaten in past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD350I,Other shellfish eaten past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD350IQ,# of times other shellfish eaten,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD350J,Other unknown shellfish eaten past 30 d,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD350JQ,# of times other unknown shellfish eaten,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD350K,Refused on shellfish eaten past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD360,Fish eaten during past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD370A,Breaded fish products eaten past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD370AQ,# of times breaded fish products eaten,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD370B,Tuna eaten during past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD370BQ,# of times tuna eaten in past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD370C,Bass eaten during past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD370CQ,# of times bass eaten in past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD370D,Catfish eaten during past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD370DQ,# of times catfish eaten in past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD370E,Cod eaten during past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD370EQ,# of times cod eaten in past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD370F,Flatfish eaten during past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD370FQ,# of times flatfish eaten past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD370G,Haddock eaten during past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD370GQ,# of times haddock eaten in past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD370H,Mackerel eaten during past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD370HQ,# of times mackerel eaten past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD370I,Perch eaten during past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD370IQ,# of times perch eaten in past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD370J,Pike eaten during past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD370JQ,# of times pike eaten in past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD370K,Pollock eaten during past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD370KQ,# of times pollock eaten in past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD370L,Porgy eaten during past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD370LQ,# of times porgy eaten in past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD370M,Salmon eaten during past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD370MQ,# of times salmon eaten in past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD370N,Sardines eaten during past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD370NQ,# of times sardines eaten past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD370O,Sea bass eaten during past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD370OQ,# of times sea bass eaten past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD370P,Shark eaten during past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD370PQ,# of times shark eaten in past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD370Q,Swordfish eaten during past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD370QQ,# of times swordfish eaten past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD370R,Trout eaten during past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD370RQ,# of times trout eaten in past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD370S,Walleye eaten during past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD370SQ,# of times walleye eaten in past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD370T,Other fish eaten during past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD370TQ,# of times other fish eaten past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD370U,Other unknown fish eaten in past 30 days,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD370UQ,# of times other unknown fish eaten,Dietary,2007-2008,0,0
+dr1tot_e,Total Nutrients -- First Day,DRD370V,Refused on fish eaten past 30 days,Dietary,2007-2008,0,0

@@ -1,0 +1,18 @@
+tab_name,tab_desc,var,var_desc,module,series,is_comment,is_weight
+ocq_d,Occupation,SEQN,Respondent sequence number,questionnaire,2005-2006,0,0
+ocq_d,Occupation,OCD150,Type of work done last week,questionnaire,2005-2006,0,0
+ocq_d,Occupation,OCQ180,Hours worked last week at all jobs,questionnaire,2005-2006,0,0
+ocq_d,Occupation,OCQ200,Check Item,questionnaire,2005-2006,0,0
+ocq_d,Occupation,OCQ210,Usually work 35 or more hours per week,questionnaire,2005-2006,0,0
+ocq_d,Occupation,OCD231,Industry group code: current job,questionnaire,2005-2006,0,0
+ocq_d,Occupation,OCD241,Occupation group code: current job,questionnaire,2005-2006,0,0
+ocq_d,Occupation,OCQ260,Description of job/work situation,questionnaire,2005-2006,0,0
+ocq_d,Occupation,OCQ265,Which best describes hours worked?,questionnaire,2005-2006,0,0
+ocq_d,Occupation,OCD270,Number of months working in the main job,questionnaire,2005-2006,0,0
+ocq_d,Occupation,OCQ290G,Smell tobacco smoke at work,questionnaire,2005-2006,0,0
+ocq_d,Occupation,OCQ290Q,# Hrs/day smell tobacco smoke at work,questionnaire,2005-2006,0,0
+ocq_d,Occupation,OCQ370,Check Item,questionnaire,2005-2006,0,0
+ocq_d,Occupation,OCQ380,Main reason did not work last week,questionnaire,2005-2006,0,0
+ocq_d,Occupation,OCD390G,Kind of work you have done the longest,questionnaire,2005-2006,0,0
+ocq_d,Occupation,OCD392,Occupation group code: longest job,questionnaire,2005-2006,0,0
+ocq_d,Occupation,OCD395,Duration of longest job (months),questionnaire,2005-2006,0,0

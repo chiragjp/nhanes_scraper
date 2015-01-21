@@ -1,0 +1,107 @@
+tab_name,tab_desc,var,var_desc,module,series,is_comment,is_weight
+dxx_d,DEXA,SEQN,Respondent sequence number,examination,2005-2006,0,0
+dxx_d,DEXA,_MULT_,Imputation Version,examination,2005-2006,0,0
+dxx_d,DEXA,DXAEXSTS,Exam Status,examination,2005-2006,0,0
+dxx_d,DEXA,DXITOT,Overall Imputation Indicator,examination,2005-2006,0,0
+dxx_d,DEXA,DXIHE,Head Imputation Indicator,examination,2005-2006,0,0
+dxx_d,DEXA,DXXHEA,Head Area (cm^2),examination,2005-2006,0,0
+dxx_d,DEXA,DXAHEBV,Head Bone Invalidity Code,examination,2005-2006,0,0
+dxx_d,DEXA,DXXHEBMC,Head Bone Mineral Content (g),examination,2005-2006,0,0
+dxx_d,DEXA,DXXHEBMD,Head Bone Mineral Density (g/cm^2),examination,2005-2006,0,0
+dxx_d,DEXA,DXAHETV,Head Tissue Invalidity Code,examination,2005-2006,0,0
+dxx_d,DEXA,DXXHEFAT,Head Fat (g),examination,2005-2006,0,0
+dxx_d,DEXA,DXDHELE,Head Lean excl BMC (g),examination,2005-2006,0,0
+dxx_d,DEXA,DXXHELI,Head Lean incl BMC (g),examination,2005-2006,0,0
+dxx_d,DEXA,DXDHETOT,Head Total (g),examination,2005-2006,0,0
+dxx_d,DEXA,DXDHEPF,Head Percent Fat,examination,2005-2006,0,0
+dxx_d,DEXA,DXILA,Left Arm Imputation Indicator,examination,2005-2006,0,0
+dxx_d,DEXA,DXXLAA,Left Arm Area (cm^2),examination,2005-2006,0,0
+dxx_d,DEXA,DXALABV,Left Arm Bone Invalidity Code,examination,2005-2006,0,0
+dxx_d,DEXA,DXXLABMC,Left Arm BMC (g),examination,2005-2006,0,0
+dxx_d,DEXA,DXXLABMD,Left Arm BMD (g/cm^2),examination,2005-2006,0,0
+dxx_d,DEXA,DXALATV,Left Arm Tissue Invalidity Code,examination,2005-2006,0,0
+dxx_d,DEXA,DXXLAFAT,Left Arm Fat (g),examination,2005-2006,0,0
+dxx_d,DEXA,DXDLALE,Left Arm Lean excl BMC (g),examination,2005-2006,0,0
+dxx_d,DEXA,DXXLALI,Left Arm Lean incl BMC (g),examination,2005-2006,0,0
+dxx_d,DEXA,DXDLATOT,Left Arm Total (g),examination,2005-2006,0,0
+dxx_d,DEXA,DXDLAPF,Left Arm Percent Fat,examination,2005-2006,0,0
+dxx_d,DEXA,DXILL,Left Leg Imputation Indicator,examination,2005-2006,0,0
+dxx_d,DEXA,DXXLLA,Left Leg Area (cm^2),examination,2005-2006,0,0
+dxx_d,DEXA,DXALLBV,Left Leg Bone Invalidity Code,examination,2005-2006,0,0
+dxx_d,DEXA,DXXLLBMC,Left Leg BMC (g),examination,2005-2006,0,0
+dxx_d,DEXA,DXXLLBMD,Left Leg BMD (g/cm^2),examination,2005-2006,0,0
+dxx_d,DEXA,DXALLTV,Left Leg Tissue Invalidity Code,examination,2005-2006,0,0
+dxx_d,DEXA,DXXLLFAT,Left Leg Fat (g),examination,2005-2006,0,0
+dxx_d,DEXA,DXDLLLE,Left Leg Lean excl BMC (g),examination,2005-2006,0,0
+dxx_d,DEXA,DXXLLLI,Left Leg Lean incl BMC (g),examination,2005-2006,0,0
+dxx_d,DEXA,DXDLLTOT,Left Leg Total (g),examination,2005-2006,0,0
+dxx_d,DEXA,DXDLLPF,Left Leg Percent Fat,examination,2005-2006,0,0
+dxx_d,DEXA,DXIRA,Right Arm Imputation Indicator,examination,2005-2006,0,0
+dxx_d,DEXA,DXXRAA,Right Arm Area (cm^2),examination,2005-2006,0,0
+dxx_d,DEXA,DXARABV,Right Arm Bone Invalidity Code,examination,2005-2006,0,0
+dxx_d,DEXA,DXXRABMC,Right Arm BMC (g),examination,2005-2006,0,0
+dxx_d,DEXA,DXXRABMD,Right Arm BMD (g/cm^2),examination,2005-2006,0,0
+dxx_d,DEXA,DXARATV,Right Arm Tissue Invalidity Code,examination,2005-2006,0,0
+dxx_d,DEXA,DXXRAFAT,Right Arm Fat (g),examination,2005-2006,0,0
+dxx_d,DEXA,DXDRALE,Right Arm Lean excl BMC (g),examination,2005-2006,0,0
+dxx_d,DEXA,DXXRALI,Right Arm Lean incl BMC (g),examination,2005-2006,0,0
+dxx_d,DEXA,DXDRATOT,Right Arm Total (g),examination,2005-2006,0,0
+dxx_d,DEXA,DXDRAPF,Right Arm Percent Fat,examination,2005-2006,0,0
+dxx_d,DEXA,DXIRL,Right Leg Imputation Indicator,examination,2005-2006,0,0
+dxx_d,DEXA,DXXRLA,Right Leg Area (cm^2),examination,2005-2006,0,0
+dxx_d,DEXA,DXARLBV,Right Leg Bone Invalidity Code,examination,2005-2006,0,0
+dxx_d,DEXA,DXXRLBMC,Right Leg BMC (g),examination,2005-2006,0,0
+dxx_d,DEXA,DXXRLBMD,Right Leg BMD(g/cm^2),examination,2005-2006,0,0
+dxx_d,DEXA,DXARLTV,Right Leg Tissue Invalidity Code,examination,2005-2006,0,0
+dxx_d,DEXA,DXXRLFAT,Right Leg Fat (g),examination,2005-2006,0,0
+dxx_d,DEXA,DXDRLLE,Right Leg Lean excl BMC (g),examination,2005-2006,0,0
+dxx_d,DEXA,DXXRLLI,Right Leg Lean incl BMC (g),examination,2005-2006,0,0
+dxx_d,DEXA,DXDRLTOT,Right Leg Total (g),examination,2005-2006,0,0
+dxx_d,DEXA,DXDRLPF,Right Leg Percent Fat,examination,2005-2006,0,0
+dxx_d,DEXA,DXILR,Left Ribs Imputation Indicator,examination,2005-2006,0,0
+dxx_d,DEXA,DXXLRA,Left Ribs Area (cm^2),examination,2005-2006,0,0
+dxx_d,DEXA,DXXLRBMC,Left Ribs BMC (g),examination,2005-2006,0,0
+dxx_d,DEXA,DXXLRBMD,Left Ribs BMD (g/cm^2),examination,2005-2006,0,0
+dxx_d,DEXA,DXIRR,Right Ribs Imputation Indicator,examination,2005-2006,0,0
+dxx_d,DEXA,DXXRRA,Right Ribs Area (cm^2),examination,2005-2006,0,0
+dxx_d,DEXA,DXXRRBMC,Right Ribs BMC (g),examination,2005-2006,0,0
+dxx_d,DEXA,DXXRRBMD,Right Ribs BMD (g/cm^2),examination,2005-2006,0,0
+dxx_d,DEXA,DXITS,Thoracic Spine Imputation Indicator,examination,2005-2006,0,0
+dxx_d,DEXA,DXXTSA,Thoracic Spine Area (cm^2),examination,2005-2006,0,0
+dxx_d,DEXA,DXXTSBMC,Thoracic Spine BMC (g),examination,2005-2006,0,0
+dxx_d,DEXA,DXXTSBMD,Thoracic Spine BMD (g/cm^2),examination,2005-2006,0,0
+dxx_d,DEXA,DXILS,Lumbar Spine Imputation Indicator,examination,2005-2006,0,0
+dxx_d,DEXA,DXXLSA,Lumbar Spine Area (cm^2),examination,2005-2006,0,0
+dxx_d,DEXA,DXXLSBMC,Lumbar Spine BMC (g),examination,2005-2006,0,0
+dxx_d,DEXA,DXXLSBMD,Lumbar Spine BMD (g/cm^2),examination,2005-2006,0,0
+dxx_d,DEXA,DXIPE,Pelvis Imputation Indicator,examination,2005-2006,0,0
+dxx_d,DEXA,DXXPEA,Pelvis Area (cm^2),examination,2005-2006,0,0
+dxx_d,DEXA,DXXPEBMC,Pelvis BMC (g),examination,2005-2006,0,0
+dxx_d,DEXA,DXXPEBMD,Pelvis BMD (g/cm^2),examination,2005-2006,0,0
+dxx_d,DEXA,DXITR,Trunk Imputation Indicator,examination,2005-2006,0,0
+dxx_d,DEXA,DXDTRA,Trunk Bone area (cm^2),examination,2005-2006,0,0
+dxx_d,DEXA,DXATRBV,Trunk Bone Invalidity Code,examination,2005-2006,0,0
+dxx_d,DEXA,DXDTRBMC,Trunk BMC (g),examination,2005-2006,0,0
+dxx_d,DEXA,DXDTRBMD,Trunk Bone BMD (g/cm^2),examination,2005-2006,0,0
+dxx_d,DEXA,DXATRTV,Trunk Tissue Invalidity Code,examination,2005-2006,0,0
+dxx_d,DEXA,DXXTRFAT,Trunk Fat (g),examination,2005-2006,0,0
+dxx_d,DEXA,DXDTRLE,Trunk Lean excl BMC (g),examination,2005-2006,0,0
+dxx_d,DEXA,DXXTRLI,Trunk Lean incl BMC (g),examination,2005-2006,0,0
+dxx_d,DEXA,DXDTRTOT,Trunk Total (g),examination,2005-2006,0,0
+dxx_d,DEXA,DXDTRPF,Trunk Percent Fat,examination,2005-2006,0,0
+dxx_d,DEXA,DXDSTA,Subtotal Area (cm^2),examination,2005-2006,0,0
+dxx_d,DEXA,DXDSTBMC,Subtotal BMC (g),examination,2005-2006,0,0
+dxx_d,DEXA,DXDSTBMD,Subtotal BMD (g/cm^2),examination,2005-2006,0,0
+dxx_d,DEXA,DXDSTFAT,Subtotal Fat (g),examination,2005-2006,0,0
+dxx_d,DEXA,DXDSTLE,Subtotal Lean excl BMC (g),examination,2005-2006,0,0
+dxx_d,DEXA,DXDSTLI,Subtotal Lean incl BMC (g),examination,2005-2006,0,0
+dxx_d,DEXA,DXDSTTOT,Subtotal (Total excl Head) (g),examination,2005-2006,0,0
+dxx_d,DEXA,DXDSTPF,Subtotal Percent Fat,examination,2005-2006,0,0
+dxx_d,DEXA,DXDTOA,Total Area (cm^2),examination,2005-2006,0,0
+dxx_d,DEXA,DXDTOBMC,Total Bone Mineral Content (g),examination,2005-2006,0,0
+dxx_d,DEXA,DXDTOBMD,Total Bone Mineral Density (g/cm^2),examination,2005-2006,0,0
+dxx_d,DEXA,DXDTOFAT,Total Fat (g),examination,2005-2006,0,0
+dxx_d,DEXA,DXDTOLE,Total Lean excl BMC (g),examination,2005-2006,0,0
+dxx_d,DEXA,DXDTOLI,Total Lean incl BMC (g),examination,2005-2006,0,0
+dxx_d,DEXA,DXDTOTOT,Total Lean+Fat (g),examination,2005-2006,0,0
+dxx_d,DEXA,DXDTOPF,Total Percent Fat,examination,2005-2006,0,0

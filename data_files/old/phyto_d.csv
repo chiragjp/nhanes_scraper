@@ -1,0 +1,16 @@
+tab_name,tab_desc,var,var_desc,module,series,is_comment,is_weight
+phyto_d,Phytoestrogens,SEQN,Respondent sequence number,laboratory,2005-2006,0,0
+phyto_d,Phytoestrogens,WTSB2YR,Environmental B 2 year weights,laboratory,2005-2006,0,1
+phyto_d,Phytoestrogens,URXDAZ,Daidzein (ng/mL),laboratory,2005-2006,0,0
+phyto_d,Phytoestrogens,URDDAZLC,Daidzein comment code,laboratory,2005-2006,1,0
+phyto_d,Phytoestrogens,URXDMA,O-Desmethylangolensin (O-DMA) (ng/mL),laboratory,2005-2006,0,0
+phyto_d,Phytoestrogens,URDDMALC,O-DMA comment code,laboratory,2005-2006,1,0
+phyto_d,Phytoestrogens,URXEQU,Equol (ng/mL),laboratory,2005-2006,0,0
+phyto_d,Phytoestrogens,URDEQULC,Equol comment code,laboratory,2005-2006,1,0
+phyto_d,Phytoestrogens,URXETD,Enterodiol (ng/mL),laboratory,2005-2006,0,0
+phyto_d,Phytoestrogens,URDETDLC,Enterodiol comment code,laboratory,2005-2006,1,0
+phyto_d,Phytoestrogens,URXETL,Enterolactone (ng/mL),laboratory,2005-2006,0,0
+phyto_d,Phytoestrogens,URDETLLC,Enterolactone comment code,laboratory,2005-2006,1,0
+phyto_d,Phytoestrogens,URXGNS,Genistein (ng/mL),laboratory,2005-2006,0,0
+phyto_d,Phytoestrogens,URDGNSLC,Genistein comment code,laboratory,2005-2006,1,0
+phyto_d,Phytoestrogens,URXUCR,"Creatinine, urine (mg/dL)",laboratory,2005-2006,0,0

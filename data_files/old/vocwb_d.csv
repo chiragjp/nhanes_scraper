@@ -1,0 +1,89 @@
+tab_name,tab_desc,var,var_desc,module,series,is_comment,is_weight
+vocwb_d,Volatile Organic Compounds,SEQN,Respondent sequence number,laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,WTSVOC2Y,VOC subsample 2 yr MEC Weight,laboratory,2005-2006,0,1
+vocwb_d,Volatile Organic Compounds,LBXV1A,"Blood 1,1-Dichloroethane (ng/mL)",laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,LBDV1ALC,"Blood 1,1-Dichloroethane Comment Code",laboratory,2005-2006,1,0
+vocwb_d,Volatile Organic Compounds,LBXV1D,"Blood 1,2-Dichlorobenzene (ng/mL)",laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,LBDV1DLC,"Blood 1,2-Dichlorobenzene Comment Code",laboratory,2005-2006,1,0
+vocwb_d,Volatile Organic Compounds,LBXV1E,"Blood 1,1-Dichloroethene (ng/mL)",laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,LBDV1ELC,"Blood 1,1-Dichloroethene Comment Code",laboratory,2005-2006,1,0
+vocwb_d,Volatile Organic Compounds,LBXV2A,"Blood 1,2-Dichloroethane (ng/mL)",laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,LBDV2ALC,"Blood 1,2-Dichloroethane Comment Code",laboratory,2005-2006,1,0
+vocwb_d,Volatile Organic Compounds,LBXV2C,"Blood cis-1,2-Dichloroethene (ng/mL)",laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,LBDV2CLC,"Blood cis-1,2-Dichloroethene Comt Code",laboratory,2005-2006,1,0
+vocwb_d,Volatile Organic Compounds,LBXV2E,"Blood 1,1,2-Trichloroethene (ng/mL)",laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,LBDV2ELC,"Blood 1,1,2-Trichloroethene Comt Code",laboratory,2005-2006,1,0
+vocwb_d,Volatile Organic Compounds,LBXV2P,"Blood 1,2-Dibromo-3-chloropropane(ng/mL)",laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,LBDV2PLC,"Blood 1,2-Dibromo-3-chloropropane Comt",laboratory,2005-2006,1,0
+vocwb_d,Volatile Organic Compounds,LBXV2T,"Blood trans-1,2-Dichloroethene (ng/mL)",laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,LBDV2TLC,"Blood trans-1,2-Dichloroethene Comt Code",laboratory,2005-2006,1,0
+vocwb_d,Volatile Organic Compounds,LBXV3B,"Blood 1,3-Dichlorobenzene (ng/mL)",laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,LBDV3BLC,"Blood 1,3-Dichlorobenzene Comment Code",laboratory,2005-2006,1,0
+vocwb_d,Volatile Organic Compounds,LBXV4E,"Blood 1,1,2,2-Tetrachloroethane (ng/mL)",laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,LBDV4ELC,"Blood 1,1,2,2-Tetrachloroethane Com Code",laboratory,2005-2006,1,0
+vocwb_d,Volatile Organic Compounds,LBXV4C,Blood Tetrachloroethene (ng/mL),laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,LBDV4CLC,Blood Tetrachloroethene Comment Code,laboratory,2005-2006,1,0
+vocwb_d,Volatile Organic Compounds,LBXVBF,Blood Bromoform (pg/mL),laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,LBDVBFLC,Blood Bromoform Comment Code,laboratory,2005-2006,1,0
+vocwb_d,Volatile Organic Compounds,LBXVBM,Blood Bromodichloromethane (pg/mL),laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,LBDVBMLC,Blood Bromodichloromethane Comment Code,laboratory,2005-2006,1,0
+vocwb_d,Volatile Organic Compounds,LBXVBZ,Blood Benzene (ng/mL),laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,LBDVBZLC,Blood Benzene Comment Code,laboratory,2005-2006,1,0
+vocwb_d,Volatile Organic Compounds,LBXVCB,Blood Chlorobenzene (ng/mL),laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,LBDVCBLC,Blood Chlorobenzene Comment Code,laboratory,2005-2006,1,0
+vocwb_d,Volatile Organic Compounds,LBXVCF,Blood Chloroform (pg/mL),laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,LBDVCFLC,Blood Chloroform Comment Code,laboratory,2005-2006,1,0
+vocwb_d,Volatile Organic Compounds,LBXVCM,Blood Dibromochloromethane (pg/mL),laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,LBDVCMLC,Blood Dibromochloromethane Comment Code,laboratory,2005-2006,1,0
+vocwb_d,Volatile Organic Compounds,LBXVCT,Blood Carbon Tetrachloride (ng/mL),laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,LBDVCTLC,Blood Carbon Tetrachloride Comment Code,laboratory,2005-2006,1,0
+vocwb_d,Volatile Organic Compounds,LBXVDB,"Blood 1,4-Dichlorobenzene (ng/mL)",laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,LBDVDBLC,"Blood 1,4-Dichlorobenzene Comment Code",laboratory,2005-2006,1,0
+vocwb_d,Volatile Organic Compounds,LBXVDM,Blood Dibromomethane (ng/mL),laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,LBDVDMLC,Blood Dibromomethane Comment Code,laboratory,2005-2006,1,0
+vocwb_d,Volatile Organic Compounds,LBXVDP,"Blood 1,2-Dichloropropane (ng/mL)",laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,LBDVDPLC,"Blood 1,2-Dichloropropane Comment Code",laboratory,2005-2006,1,0
+vocwb_d,Volatile Organic Compounds,LBXVEB,Blood Ethylbenzene (ng/mL),laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,LBDVEBLC,Blood Ethylbenzene Comment Code,laboratory,2005-2006,1,0
+vocwb_d,Volatile Organic Compounds,LBXVHE,Blood Hexachloroethane (ng/mL),laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,LBDVHELC,Blood Hexachloroethane Comment Code,laboratory,2005-2006,1,0
+vocwb_d,Volatile Organic Compounds,LBXVMC,Blood Methylene Chloride (ng/mL),laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,LBDVMCLC,Blood Methylene Chloride Comment Code,laboratory,2005-2006,1,0
+vocwb_d,Volatile Organic Compounds,LBXVME,Blood MTBE (pg/mL),laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,LBDVMELC,Blood MTBE Comment Code,laboratory,2005-2006,1,0
+vocwb_d,Volatile Organic Compounds,LBXVOX,Blood o-Xylene (ng/mL),laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,LBDVOXLC,Blood o-Xylene Comment Code,laboratory,2005-2006,1,0
+vocwb_d,Volatile Organic Compounds,LBXVST,Blood Styrene (ng/mL),laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,LBDVSTLC,Blood Styrene Comment Code,laboratory,2005-2006,1,0
+vocwb_d,Volatile Organic Compounds,LBXVTC,Blood Trichloroethene (ng/mL),laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,LBDVTCLC,Blood Trichloroethene Comment Code,laboratory,2005-2006,1,0
+vocwb_d,Volatile Organic Compounds,LBXVTE,"Blood 1,1,1-Trichloroethane (ng/mL)",laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,LBDVTELC,"Blood 1,1,1-Trichloroethane Comment Code",laboratory,2005-2006,1,0
+vocwb_d,Volatile Organic Compounds,LBXVTO,Blood Toluene (ng/mL),laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,LBDVTOLC,Blood Toluene Comment Code,laboratory,2005-2006,1,0
+vocwb_d,Volatile Organic Compounds,LBXVXY,Blood m-/p-Xylene (ng/mL),laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,LBDVXYLC,Blood m-/p-Xylene Comment Code,laboratory,2005-2006,1,0
+vocwb_d,Volatile Organic Compounds,LBX2DF,"Blood 2,5-Dimethylfuran (ng/mL)",laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,LBD2DFLC,"Blood 2,5-Dimethylfuran Comment Code",laboratory,2005-2006,1,0
+vocwb_d,Volatile Organic Compounds,LBXVNB,Blood Nitrobenezene (ng/mL),laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,LBDVNBLC,Blood Nitrobenezene Comment Code,laboratory,2005-2006,1,0
+vocwb_d,Volatile Organic Compounds,VTQ210,Attached garage?,laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,VTQ220,Private well?,laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,VTQ230A,Toilet bowl deodorizers?,laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,VTQ230B,Moth balls or crystals?,laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,VTQ240A,Pump gas into a car or motor vehicle?,laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,VTQ240B,How long ago did you pump gas?,laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,VTQ250A,Spend time at swimming pool?,laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,VTQ250B,How long ago at swimming pool?,laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,VTQ260A,Visit a dry cleaning shop?,laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,VTQ260B,Spend 10 minutes near cigarette smoke?,laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,VTQ270A,Take a hot shower?,laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,VTQ270B,How long since hot shower?,laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,VTQ280A,Breathe fumes from paints?,laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,VTQ280B,Breathe fumes from degreasing cleaners?,laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,VTQ280C,Breathe fumes from diesel fuel?,laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,VTQ280D,Breathe fumes from paint thinner?,laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,VTQ280E,Breathe fumes from drycleaning fluid?,laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,VTQ280F,Breathe fumes from fingernail polish?,laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,VTQ280G,Breathe fumes from glue?,laboratory,2005-2006,0,0
+vocwb_d,Volatile Organic Compounds,VTQ280H,Breathe fumes from varnish?,laboratory,2005-2006,0,0

@@ -1,0 +1,34 @@
+"tab_name","tab_desc","series","module","var","var_desc","comment_var","is_weight","is_comment","is_questionnaire","tab_desc_ewas","var_desc_ewas","analyzable","is_ecological","is_binary","is_ordinal"
+"phthte_d","Urinary Phthalates","2005-2006","laboratory","SEQN","Respondent sequence number",NA,0,0,0,"phthalates","phthalates",1,0,0,0
+"phthte_d","Urinary Phthalates","2005-2006","laboratory","WTSB2YR","Environmental B Two-year weights",NA,1,0,0,"phthalates","phthalates",0,0,0,0
+"phthte_d","Urinary Phthalates","2005-2006","laboratory","URXCNP","Mono(carboxynonyl) phthalate (ng/mL)","URDCNPLC",0,0,0,"phthalates","phthalates",1,0,0,0
+"phthte_d","Urinary Phthalates","2005-2006","laboratory","URDCNPLC","Mono(carboxynonyl) phthalate comment",NA,0,1,0,"phthalates","phthalates",0,0,0,0
+"phthte_d","Urinary Phthalates","2005-2006","laboratory","URXCOP","Mono(carboxyoctyl) phthalate(ng/mL)","URDCOPLC",0,0,0,"phthalates","phthalates",1,0,0,0
+"phthte_d","Urinary Phthalates","2005-2006","laboratory","URDCOPLC","Mono(carboxyoctyl) phthalate comment",NA,0,1,0,"phthalates","phthalates",0,0,0,0
+"phthte_d","Urinary Phthalates","2005-2006","laboratory","URXMBP","Mono-n-butyl phthalate","URDMBPLC",0,0,0,"phthalates","phthalates",1,0,0,0
+"phthte_d","Urinary Phthalates","2005-2006","laboratory","URDMBPLC","Mono-n-butyl phthalate comment code",NA,0,1,0,"phthalates","phthalates",0,0,0,0
+"phthte_d","Urinary Phthalates","2005-2006","laboratory","URXMCP","Mono-cyclohexyl phthalate","URDMCPLC",0,0,0,"phthalates","phthalates",1,0,0,0
+"phthte_d","Urinary Phthalates","2005-2006","laboratory","URDMCPLC","Mono-cyclohexyl phthalate comment code",NA,0,1,0,"phthalates","phthalates",0,0,0,0
+"phthte_d","Urinary Phthalates","2005-2006","laboratory","URXMEP","Mono-ethyl phthalate","URDMEPLC",0,0,0,"phthalates","phthalates",1,0,0,0
+"phthte_d","Urinary Phthalates","2005-2006","laboratory","URDMEPLC","Mono-ethyl phthalate comment code",NA,0,1,0,"phthalates","phthalates",0,0,0,0
+"phthte_d","Urinary Phthalates","2005-2006","laboratory","URXMHP","Mono-(2-ethyl)-hexyl phthalate","URDMHPLC",0,0,0,"phthalates","phthalates",1,0,0,0
+"phthte_d","Urinary Phthalates","2005-2006","laboratory","URDMHPLC","Mono-(2-ethyl)-hexyl phthalate comment",NA,0,1,0,"phthalates","phthalates",0,0,0,0
+"phthte_d","Urinary Phthalates","2005-2006","laboratory","URXMNP","Mono-isononyl phthalate","URDMNPLC",0,0,0,"phthalates","phthalates",1,0,0,0
+"phthte_d","Urinary Phthalates","2005-2006","laboratory","URDMNPLC","Mono-isononyl phthalate comment code",NA,0,1,0,"phthalates","phthalates",0,0,0,0
+"phthte_d","Urinary Phthalates","2005-2006","laboratory","URXMOP","Mono-n-octyl phthalate","URDMOPLC",0,0,0,"phthalates","phthalates",1,0,0,0
+"phthte_d","Urinary Phthalates","2005-2006","laboratory","URDMOPLC","Mono-n-octyl phthalate comment code",NA,0,1,0,"phthalates","phthalates",0,0,0,0
+"phthte_d","Urinary Phthalates","2005-2006","laboratory","URXMZP","Mono-benzyl phthalate","URDMZPLC",0,0,0,"phthalates","phthalates",1,0,0,0
+"phthte_d","Urinary Phthalates","2005-2006","laboratory","URDMZPLC","Mono-benzyl phthalate comment code",NA,0,1,0,"phthalates","phthalates",0,0,0,0
+"phthte_d","Urinary Phthalates","2005-2006","laboratory","URXMNM","Mono-n-methyl phthalate","URDMNMLC",0,0,0,"phthalates","phthalates",1,0,0,0
+"phthte_d","Urinary Phthalates","2005-2006","laboratory","URDMNMLC","Mono-n-methyl phthalate comment code",NA,0,1,0,"phthalates","phthalates",0,0,0,0
+"phthte_d","Urinary Phthalates","2005-2006","laboratory","URXMC1","Mono-(3-carboxypropyl) phthalate","URDMC1LC",0,0,0,"phthalates","phthalates",1,0,0,0
+"phthte_d","Urinary Phthalates","2005-2006","laboratory","URDMC1LC","Mono-(3-carboxypropyl) phthalate cmt",NA,0,1,0,"phthalates","phthalates",0,0,0,0
+"phthte_d","Urinary Phthalates","2005-2006","laboratory","URXMHH","Mono-(2-ethyl-5-hydroxyhexyl) phthalate","URDMHHLC",0,0,0,"phthalates","phthalates",1,0,0,0
+"phthte_d","Urinary Phthalates","2005-2006","laboratory","URDMHHLC","Mono(2ethyl5hydroxyhexyl) phthalate cmt",NA,0,1,0,"phthalates","phthalates",0,0,0,0
+"phthte_d","Urinary Phthalates","2005-2006","laboratory","URXMOH","Mono-(2-ethyl-5-oxohexyl) phthalate","URDMOHLC",0,0,0,"phthalates","phthalates",1,0,0,0
+"phthte_d","Urinary Phthalates","2005-2006","laboratory","URDMOHLC","Mono-(2-ethyl-5-oxohexl) phthalate comnt",NA,0,1,0,"phthalates","phthalates",0,0,0,0
+"phthte_d","Urinary Phthalates","2005-2006","laboratory","URXMIB","Mono-isobutyl pthalate","URDMIBLC",0,0,0,"phthalates","phthalates",1,0,0,0
+"phthte_d","Urinary Phthalates","2005-2006","laboratory","URDMIBLC","Mono-isobutyl pthalate comment code",NA,0,1,0,"phthalates","phthalates",0,0,0,0
+"phthte_d","Urinary Phthalates","2005-2006","laboratory","URXECP","Mono-2-ethyl-5-carboxypentyl phthalate","URDECPLC",0,0,0,"phthalates","phthalates",1,0,0,0
+"phthte_d","Urinary Phthalates","2005-2006","laboratory","URDECPLC","Mono-2ethyl-5-carboxypentyl phthalate cm",NA,0,1,0,"phthalates","phthalates",0,0,0,0
+"phthte_d","Urinary Phthalates","2005-2006","laboratory","URXUCR","Creatinine, urine (mg/dL)",NA,0,0,0,"phthalates","phthalates",1,0,0,0
