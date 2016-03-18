@@ -1,9 +1,0 @@
-tab_name,tab_desc,var,var_desc,module,series,is_comment,is_weight
-pernt_d,"Perchlorate, Urinary Nitrate, Urinary Thiocyanate",SEQN,Respondent sequence number,laboratory,2005-2006,0,0
-pernt_d,"Perchlorate, Urinary Nitrate, Urinary Thiocyanate",URXUP8,Urinary perchlorate (ng/mL),laboratory,2005-2006,0,0
-pernt_d,"Perchlorate, Urinary Nitrate, Urinary Thiocyanate",URDUP8LC,Urinary perchlorate comment code,laboratory,2005-2006,1,0
-pernt_d,"Perchlorate, Urinary Nitrate, Urinary Thiocyanate",URXNO3,Urinary nitrate (ng/mL),laboratory,2005-2006,0,0
-pernt_d,"Perchlorate, Urinary Nitrate, Urinary Thiocyanate",URDNO3LC,Urinary nitrate comment code,laboratory,2005-2006,1,0
-pernt_d,"Perchlorate, Urinary Nitrate, Urinary Thiocyanate",URXSCN,Urinary thiocyanate (ng/mL),laboratory,2005-2006,0,0
-pernt_d,"Perchlorate, Urinary Nitrate, Urinary Thiocyanate",URDSCNLC,Urinary thiocyanate comment code,laboratory,2005-2006,1,0
-pernt_d,"Perchlorate, Urinary Nitrate, Urinary Thiocyanate",URXUCR,Urinary creatinine (mg/dL),laboratory,2005-2006,0,0

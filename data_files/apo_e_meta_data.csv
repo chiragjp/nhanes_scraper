@@ -1,5 +1,0 @@
-tab_name,tab_desc,var,var_desc,module,series,is_comment,is_weight
-apo_e,Apolipoprotein E,SEQN,Respondent sequence number,laboratory,2007-2008,0,0
-apo_e,Apolipoprotein E,WTSAF2YR,Fasting Subsample 2 Year MEC Weight,laboratory,2007-2008,0,1
-apo_e,Apolipoprotein E,LBXAPB,Apolipoprotein (B) (mg/dL),laboratory,2007-2008,0,0
-apo_e,Apolipoprotein E,LBDAPBSI,Apolipoprotein (B) (g/L),laboratory,2007-2008,0,0
