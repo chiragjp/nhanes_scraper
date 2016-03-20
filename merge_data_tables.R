@@ -1,34 +1,37 @@
+## merge all NHANES table into a large R data frame
+## Chirag J Patel
+## 3/17/16
 
-source('db_connect.R')
-library(plyr); library(dplyr)
-con <- getConnection()
+library(dplyr)
+load('nhanes_schema.Rdata')
 
-## get all demo tables
-demoNames <- c('demo', 'demo_b', 'demo_c', 'demo_d', 'demo_e', 'demo_f', 'demo_g', 'demo_h')
-demo <- bind_rows(lapply(demoNames, function(d) {
-  dbGetQuery(con, sprintf('select * from %s', d))
-}))
 
-tabDesc <- as_data_frame(dbGetQuery(con, 'select * from ewas_var_tab_combined'))
-tabDesc[tabDesc$var_desc_ewas == "blood   ", 'var_desc_ewas'] <- 'blood'
+tabSeries <- distinct(tabDesc, tab_name)[, c('tab_name', 'series')]
+tabSeries$series_index <- 1 #a
+tabSeries$series_index[tabSeries$series=='2001-2002'] <- 2 #b
+tabSeries$series_index[tabSeries$series=='2003-2004'] <- 3 #c
+tabSeries$series_index[tabSeries$series=='2005-2006'] <- 4 #d
+tabSeries$series_index[tabSeries$series=='2007-2008'] <- 5 #e
+tabSeries$series_index[tabSeries$series=='2009-2010'] <- 6 #f
+tabSeries$series_index[tabSeries$series=='2011-2012'] <- 7 #g
+tabSeries$series_index[tabSeries$series=='2013-2014'] <- 8 #h
 
-#### create a table that has the rest of the information
-tabDesc <- subset(tabDesc, analyzable == 1 & is_weight == 0)
+bigData <- NULL
+for(ii in 1:length(demoTables)) {
+  cat(sprintf('%i\n', ii))
+  cohortTables <- subset(tabSeries, series_index==ii)
+  seriesTables <- otherTables[which(tableNames %in% cohortTables$tab_name)]
+  seriesTables <- c(demoTables[ii], seriesTables)
+  newTab <- plyr::join_all(seriesTables, by='SEQN', type='left')  
+  if(ii == 1) {
+    bigData <- newTab
+  } else {
+    bigData <- bind_rows(bigData, newTab)
+  }
+}
 
-#leaveOutDesc <- c( 'food component recall', 'food recall', 'oral health', 'supplement', 'supplement use', 'vision', 'audiometry')
-#tabDesc <- tabDesc[-(tabDesc$var_desc_ewas %in% leaveOutDesc), ]
+#ohxden_c	OHX02CSC	Coronal Caries: Surface condition #2
+#ohxdent	OHX02CSC	Coronal Caries: Surface condition #2 , BIGINT
+#ohxden_g	OHX02CSC	Coronal Caries: Surface condition #2
 
-tableNames <- distinct(tabDesc, tab_name)$tab_name
-
-otherTables <- lapply(tableNames, function(d) {
-  dbGetQuery(con, sprintf('select * from %s', d))
-})
-
-allTables <- c(list(demo), otherTables)
-otherTables <- NULL
-demo <- NULL
-## now do left joins with demo
-bigData <- join_all(allTables, by='SEQN')
-###
-done <- dbDisconnect(con)
-save(bigData, tabDesc)
+save(bigData, file='nhanes_schema_merged.Rdata')

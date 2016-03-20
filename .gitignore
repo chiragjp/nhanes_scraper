@@ -7,5 +7,6 @@ data_files_old
 db_backups
 ewas_var_desc_files
 mortality_files
+nhanes_merged_data
 .R.Rout
 *.sh
