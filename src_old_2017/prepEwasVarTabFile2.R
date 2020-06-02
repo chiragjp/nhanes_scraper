@@ -1,3 +1,5 @@
+
+
 ### another file to get information about variables based on what already exists in the ewas_var_tab table
 
 library('getopt')

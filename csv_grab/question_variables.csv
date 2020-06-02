@@ -1,0 +1,1003 @@
+﻿Variable Name,Variable Description,Data File Name,Data File Description,Begin Year,EndYear,Component,Use Constraints
+PFQ020,"{Do you/Does SP} have an impairment or health problem that limits {your/his/her} ability to {walk, run or play} {walk or run}?",PFQ_I,Physical Functioning,2015,2016,Questionnaire,None
+PFQ030,"Is this an impairment or health problem that has lasted, or is expected to last 12 months or longer?",PFQ_I,Physical Functioning,2015,2016,Questionnaire,None
+PFQ033,"{Do you/Does SP} have any impairment or health problem that requires {you/him/her} to use special equipment, such as a brace, a wheelchair, or a hearing aid (excluding ordinary eyeglasses or corrective shoes)?",PFQ_I,Physical Functioning,2015,2016,Questionnaire,None
+PFQ041,Does {SP} receive Special Education or Early Intervention Services?,PFQ_I,Physical Functioning,2015,2016,Questionnaire,None
+PFQ049,"The next set of questions is about limitations caused by any long-term physical, mental or emotional problem or illness.  Please do not include temporary conditions, such as a cold [or pregnancy].  Does a physical, mental or emotional problem now keep {you/SP} from working at a job or business?",PFQ_I,Physical Functioning,2015,2016,Questionnaire,None
+PFQ051,"{Are you/Is SP} limited in the kind or amount of work {you/s/he} can do because of a physical, mental or emotional problem?",PFQ_I,Physical Functioning,2015,2016,Questionnaire,None
+PFQ054,"Because of a health problem, {do you/does SP} have difficulty walking without using any special equipment?",PFQ_I,Physical Functioning,2015,2016,Questionnaire,None
+PFQ057,{Are you/Is SP} limited in any way because of difficulty remembering or because {you/s/he} experience{s} periods of confusion?,PFQ_I,Physical Functioning,2015,2016,Questionnaire,None
+PFQ059,"{Are you/Is SP} limited in any way in any activity because of a physical, mental or emotional problem?",PFQ_I,Physical Functioning,2015,2016,Questionnaire,None
+PFQ061A,"The next questions ask about difficulties {you/SP} may have doing certain activities because of a health problem.  By ""health problem"" we mean any long-term physical, mental or emotional problem or illness {not including pregnancy}.   By {yourself/himself /herself} and without using any special equipment, how much difficulty {do you/does SP} have . . .managing {your/his/her} money [such as keeping track of {your/his/her} expenses or paying bills]?",PFQ_I,Physical Functioning,2015,2016,Questionnaire,None
+PFQ061B,"By {yourself/himself/herself} and without using any special equipment, how much difficulty {do you/does SP} have . . .walking for a quarter of a mile [that is about 2 or 3 blocks]?",PFQ_I,Physical Functioning,2015,2016,Questionnaire,None
+PFQ061C,"By {yourself/himself/herself} and without using any special equipment, how much difficulty {do you/does SP} have . . .walking up 10 steps without resting?",PFQ_I,Physical Functioning,2015,2016,Questionnaire,None
+PFQ061D,"By {yourself/himself/herself} and without using any special equipment, how much difficulty {do you/does SP} have . . .stooping, crouching, or kneeling?",PFQ_I,Physical Functioning,2015,2016,Questionnaire,None
+PFQ061E,"By {yourself/himself/herself} and without using any special equipment, how much difficulty {do you/does SP} have . . .lifting or carrying something as heavy as 10 pounds [like a sack of potatoes or rice]?",PFQ_I,Physical Functioning,2015,2016,Questionnaire,None
+PFQ061F,"By {yourself/himself/herself} and without using any special equipment, how much difficulty {do you/does SP} have . . .doing chores around the house [like vacuuming, sweeping, dusting, or straightening up]?",PFQ_I,Physical Functioning,2015,2016,Questionnaire,None
+PFQ061G,"By {yourself/himself/herself} and without using any special equipment, how much difficulty {do you/does SP} have . . .preparing {your/his/her} own meals?",PFQ_I,Physical Functioning,2015,2016,Questionnaire,None
+PFQ061H,"By {yourself/himself/herself} and without using any special equipment, how much difficulty {do you/does SP} have . . .walking from one room to another on the same level?",PFQ_I,Physical Functioning,2015,2016,Questionnaire,None
+PFQ061I,"By {yourself/himself/herself} and without using any special equipment, how much difficulty {do you/does SP} have . . .standing up from an armless straight chair?",PFQ_I,Physical Functioning,2015,2016,Questionnaire,None
+PFQ061J,"By {yourself/himself/herself} and without using any special equipment, how much difficulty {do you/does SP} have . . .getting in or out of bed?",PFQ_I,Physical Functioning,2015,2016,Questionnaire,None
+PFQ061K,"By {yourself/himself/herself} and without using any special equipment, how much difficulty {do you/does SP} have . . .eating, like holding a fork, cutting food or drinking from a glass?",PFQ_I,Physical Functioning,2015,2016,Questionnaire,None
+PFQ061L,"By {yourself/himself/herself} and without using any special equipment, how much difficulty {do you/does SP} have . . .dressing {yourself/himself/herself}, including tying shoes, working zippers, and doing buttons?",PFQ_I,Physical Functioning,2015,2016,Questionnaire,None
+PFQ061M,"By {yourself/himself/herself} and without using any special equipment, how much difficulty {do you/does SP} have . . .standing or being on {your/his/her} feet for about 2 hours?",PFQ_I,Physical Functioning,2015,2016,Questionnaire,None
+PFQ061N,"By {yourself/himself/herself} and without using any special equipment, how much difficulty {do you/does SP} have . . .sitting for about 2 hours?",PFQ_I,Physical Functioning,2015,2016,Questionnaire,None
+PFQ061O,"By {yourself/himself/herself} and without using any special equipment, how much difficulty {do you/does SP} have . . .reaching up over {your/his/her} head?",PFQ_I,Physical Functioning,2015,2016,Questionnaire,None
+PFQ061P,"By {yourself/himself/herself} and without using any special equipment, how much difficulty {do you/does SP} have . . .using {your/his/her} fingers to grasp or handle small objects?",PFQ_I,Physical Functioning,2015,2016,Questionnaire,None
+PFQ061Q,"By {yourself/himself/herself} and without using any special equipment, how much difficulty {do you/does SP} have . . .going out to things like shopping, movies, or sporting events?",PFQ_I,Physical Functioning,2015,2016,Questionnaire,None
+PFQ061R,"By {yourself/himself/herself} and without using any special equipment, how much difficulty {do you/does SP} have . . .participating in social activities [visiting friends, attending clubs or meetings or going to parties]?",PFQ_I,Physical Functioning,2015,2016,Questionnaire,None
+PFQ061S,"By {yourself/himself/herself} and without using any special equipment, how much difficulty {do you/does SP} have . . .doing things to relax at home or for leisure [reading, watching TV, sewing, listening to music]?",PFQ_I,Physical Functioning,2015,2016,Questionnaire,None
+PFQ061T,"By {yourself/himself/herself} and without using any special equipment, how much difficulty {do you/does SP} have . . .pushing or pulling large objects like a living room chair?",PFQ_I,Physical Functioning,2015,2016,Questionnaire,None
+PFQ063A,What condition or health problem causes {you/SP} to have difficulty with or need help with {NAME OF UP TO 3 ACTIVITIES/these activities}?,PFQ_I,Physical Functioning,2015,2016,Questionnaire,None
+PFQ063B,What condition or health problem causes {you/SP} to have difficulty with or need help with {NAME OF UP TO 3 ACTIVITIES/these activities}?,PFQ_I,Physical Functioning,2015,2016,Questionnaire,None
+PFQ063C,What condition or health problem causes {you/SP} to have difficulty with or need help with {NAME OF UP TO 3 ACTIVITIES/these activities}?,PFQ_I,Physical Functioning,2015,2016,Questionnaire,None
+PFQ063D,What condition or health problem causes {you/SP} to have difficulty with or need help with {NAME OF UP TO 3 ACTIVITIES/these activities}?,PFQ_I,Physical Functioning,2015,2016,Questionnaire,None
+PFQ063E,What condition or health problem causes {you/SP} to have difficulty with or need help with {NAME OF UP TO 3 ACTIVITIES/these activities}?,PFQ_I,Physical Functioning,2015,2016,Questionnaire,None
+PFQ090,"{Do you/Does SP} now have any health problem that requires {you/him/her} to use special equipment, such as a cane, a wheelchair, a special bed, or a special telephone?",PFQ_I,Physical Functioning,2015,2016,Questionnaire,None
+SEQN,Respondent sequence number.,PFQ_I,Physical Functioning,2015,2016,Questionnaire,None
+CDQ001,{Have you/Has SP} ever had any pain or discomfort in {your/her/his} chest?,CDQ_I,Cardiovascular Health,2015,2016,Questionnaire,None
+CDQ002,{Do you/Does she/Does he} get it when {you/she/he} walk uphill or hurry?,CDQ_I,Cardiovascular Health,2015,2016,Questionnaire,None
+CDQ003,{Do you/Does she/Does he} get it when {you/she/he} walk at an ordinary pace on level ground?,CDQ_I,Cardiovascular Health,2015,2016,Questionnaire,None
+CDQ004,What {do you/does she/does he} do if {you/she/he} get it while {you/she/he} are walking?  {Do you/Does she/Does he} stop or slow down or continue at the same pace?,CDQ_I,Cardiovascular Health,2015,2016,Questionnaire,None
+CDQ005,"If {you/she/he} stand still, what happens to it?  Is the pain or discomfort relieved or not relieved?",CDQ_I,Cardiovascular Health,2015,2016,Questionnaire,None
+CDQ006,How soon is the pain relieved?  Would you say...,CDQ_I,Cardiovascular Health,2015,2016,Questionnaire,None
+CDQ008,Have {you/she/he} ever had a severe pain across the front of {your/her/his} chest lasting for half an hour or more?,CDQ_I,Cardiovascular Health,2015,2016,Questionnaire,None
+CDQ009A,Please look at this card and show me where the pain or discomfort is located.,CDQ_I,Cardiovascular Health,2015,2016,Questionnaire,None
+CDQ009B,Please look at this card and show me where the pain or discomfort is located.,CDQ_I,Cardiovascular Health,2015,2016,Questionnaire,None
+CDQ009C,Please look at this card and show me where the pain or discomfort is located.,CDQ_I,Cardiovascular Health,2015,2016,Questionnaire,None
+CDQ009D,Please look at this card and show me where the pain or discomfort is located.,CDQ_I,Cardiovascular Health,2015,2016,Questionnaire,None
+CDQ009E,Please look at this card and show me where the pain or discomfort is located.,CDQ_I,Cardiovascular Health,2015,2016,Questionnaire,None
+CDQ009F,Please look at this card and show me where the pain or discomfort is located.,CDQ_I,Cardiovascular Health,2015,2016,Questionnaire,None
+CDQ009G,Please look at this card and show me where the pain or discomfort is located.,CDQ_I,Cardiovascular Health,2015,2016,Questionnaire,None
+CDQ009H,Please look at this card and show me where the pain or discomfort is located.,CDQ_I,Cardiovascular Health,2015,2016,Questionnaire,None
+CDQ010,{Have you/Has SP} had shortness of breath either when hurrying on the level or walking up a slight hill?,CDQ_I,Cardiovascular Health,2015,2016,Questionnaire,None
+SEQN,Respondent sequence number.,CDQ_I,Cardiovascular Health,2015,2016,Questionnaire,None
+AGQ030,"During the past 12 months, {have you/has SP} had an episode of hay fever?",MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCD093,In what year did {you/SP} receive {your/his/her} first transfusion?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ010,The following questions are about different medical conditions. Has a doctor or other health professional ever told {you/SP} that {you have/s/he/SP has} asthma (az-ma)?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ025,How old {were you/was SP} when {you were/s/he was} first told {you/he/she} had asthma (az-ma)?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ035,{Do you/Does SP} still have asthma (az-ma)?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ040,"During the past 12 months, {have you/has SP} had an episode of asthma (az-ma) or an asthma attack?",MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ050,"[During the past 12 months], {have you/has SP} had to visit an emergency room or urgent care center because of asthma (az-ma)?",MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ053,"During the past 3 months, {have you/has SP} been on treatment for anemia (a-nee-me-a), sometimes called ""tired blood"" or ""low blood""?  [Include diet, iron pills, iron shots, transfusions as treatment.]",MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ080,Has a doctor or other health professional ever told {you/SP} that {you were/s/he/SP was} overweight?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ092,{Have you/Has SP} ever received a blood transfusion?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ149,Have {SP's} periods or menstrual (men-stral) cycles started yet?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ151,How old was {SP} when she had {her} first menstrual period?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ160a,Has a doctor or other health professional ever told {you/SP} that {you/s/he} . . .had arthritis (ar-thry-tis)?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ160b,Has a doctor or other health professional ever told {you/SP}  that {you/s/he} . . .had congestive heart failure?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ160c,Has a doctor or other health professional ever told {you/SP}  that {you/s/he} . . .had coronary (kor-o-nare-ee) heart disease?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ160d,"Has a doctor or other health professional ever told {you/SP}  that {you/s/he} . . .had angina (an-gi-na), also called angina pectoris?",MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ160e,Has a doctor or other health professional ever told {you/SP}  that {you/s/he} . . .had a heart attack (also called myocardial infarction (my-o-car-dee-al in-fark-shun))?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ160f,Has a doctor or other health professional ever told {you/SP}  that {you/s/he} . . .had a stroke?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ160g,Has a doctor or other health professional ever told {you/SP}  that {you/s/he} . . .had emphysema (emph-phi-see-ma)?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ160k,Has a doctor or other health professional ever told {you/SP}  that {you/s/he} . . .had chronic bronchitis?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ160l,Has a doctor or other health professional ever told {you/SP}  that {you/s/he} . . .had any kind of liver condition?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ160m,Has a doctor or other health professional ever told {you/SP}  that {you/s/he} . . .had another thyroid (thigh-roid) problem?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ160n,Has a doctor or other health professional ever told {you/SP} that {you/s/he} . . .had gout?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ160o,Has a doctor or other health professional ever told {you/SP}  that {you/s/he} . . .had COPD?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ170k,{Do you/Does SP} still . . . have chronic bronchitis?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ170l,{Do you/Does SP} still . . . have any kind of liver condition?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ170m,{Do you/Does SP} still . . . have another thyroid problem?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ180a,How old {were you/was SP} when {you were/s/he was} first told {you/s/he} . . . had arthritis?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ180b,How old {were you/was SP} when {you were/s/he was} first told {you/s/he} . . .had congestive heart failure?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ180c,How old {were you/was SP} when {you were/s/he was} first told {you/s/he} . . .had coronary heart disease?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ180d,"How old {were you/was SP} when {you were/s/he was} first told {you/s/he} . . .had angina, also called angina pectoris?",MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ180e,How old {were you/was SP} when {you were/s/he was} first told {you/s/he} . . .had a heart attack (also called myocardial infarction)?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ180f,How old {were you/was SP} when {you were/s/he was} first told {you/s/he} . . .had a stroke?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ180g,How old {were you/was SP} when {you were/s/he was} first told {you/s/he} . . .had emphysema?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ180k,How old {were you/was SP} when {you were/s/he was} first told {you/s/he} . . .had chronic bronchitis?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ180l,How old {were you/was SP} when {you were/s/he was} first told {you/s/he} . . .had any kind of liver condition?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ180m,How old {were you/was SP} when {you were/s/he was} first told {you/s/he} . . .had another thyroid problem?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ180n,How old {were you/was SP} when {you were/s/he was} first told {you/s/he} . . .had gout?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ195,Which type of arthritis was it?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ203,"Has anyone ever told {you/SP} that {you/she/he/SP} had yellow skin, yellow eyes or jaundice? Please do not include infant jaundice, which is common during the first weeks after birth.",MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ206,"How old {were you/was SP} when {you were/s/he was} first told {you/s/he} had yellow skin, yellow eyes or jaundice?",MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ220,{Have you/Has SP} ever been told by a doctor or other health professional that {you/s/he} had cancer or a malignancy (ma-lig-nan-see) of any kind?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ230a,What kind of cancer was it?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ230b,What kind of cancer was it?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ230c,What kind of cancer was it?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ230d,What kind of cancer was it?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ240a,How old (were you/was SP) when bladder cancer was first diagnosed?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ240aa,How old (were you/was SP) when testicular cancer was first diagnosed?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ240b,How old {were you/was SP} when blood cancer was first diagnosed?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ240bb,How old (were you/was SP) when thyroid cancer was first diagnosed?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ240c,How old (were you/was SP) when bone cancer was first diagnosed?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ240cc,How old (were you/was SP) when uterine cancer was first diagnosed?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ240d,How old (were you/was SP) when brain cancer was  first diagnosed?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ240dd,How old (were you/was SP) when some other type of cancer was first diagnosed?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ240dk,How old {were you/was SP} when cancer was first diagnosed?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ240e,How old (were you/was SP) when breast cancer was first diagnosed?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ240f,How old (were you/was SP) when cervical cancer was first diagnosed?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ240g,How old (were you/was SP) when colon cancer was first diagnosed?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ240h,How old (were you/was SP) when esophageal cancer was first diagnosed?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ240i,How old (were you/was SP) when gallbladder cancer was first diagnosed?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ240j,How old (were you/was SP) when kidney cancer was first diagnosed?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ240k,How old (were you/was SP) when larynx or windpipe cancer was first diagnosed?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ240l,How old (were you/was SP) when leukemia was first diagnosed?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ240m,How old (were you/was SP) when liver cancer was first diagnosed?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ240n,How old (were you/was SP) when lung cancer was first diagnosed?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ240o,How old (were you/was SP) when lymphoma or Hodgkins' Disease was first diagnosed?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ240p,How old (were you/was SP) when melanoma was first diagnosed?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ240q,"How old (were you/was SP) when mouth, tongue, or lip cancer was first diagnosed?",MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ240r,How old (were you/was SP) when cancer of the nervous system was first diagnosed?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ240s,How old (were you/was SP) when ovarian cancer was first diagnosed?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ240t,How old (were you/was SP) when pancreatic cancer was first diagnosed?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ240u,How old (were you/was SP) when prostate cancer was first diagnosed?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ240v,How old (were you/was SP) when rectal cancer was first diagnosed?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ240w,How old (were you/was SP) when non-melanoma skin cancer was first diagnosed?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ240x,How old (were you/was SP) when the unknown kind of skin cancer was first diagnosed?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ240y,How old (were you/was SP) when soft tissue (muscle or fat) cancer was first diagnosed?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ240z,How old (were you/was SP) when stomach cancer was first diagnosed?,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ300a,"Including living and deceased, were any of {SP's/your} close biological that is, blood relatives including father, mother, sisters or brothers, ever told by a health professional that they had a heart attack or angina (an-gi-na) before the age of 50?",MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ300b,"Including living and deceased, were any of {SP's/your} close biological that is, blood relatives including father, mother, sisters or brothers, ever told by a health professional that they had asthma (az-ma)?",MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ300c,"Including living and deceased, were any of {SP's/your} close biological that is, blood relatives including father, mother, sisters or brothers, ever told by a health professional that they had diabetes?",MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ365a,"To lower {your/SP's} risk for certain diseases, during the past 12 months {have you/has s/he} ever been told by a doctor or health professional to: control {your/his/her} weight or lose weight?",MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ365b,"To lower {your/SP's} risk for certain diseases, during the past 12 months {have you/has s/he} ever been told by a doctor or health professional to: increase {your/his/her} physical activity or exercise?",MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ365c,"To lower {your/SP's} risk for certain diseases, during the past 12 months {have you/has s/he} ever been told by a doctor or health professional to: reduce the amount of sodium or salt in {your/his/her} diet?",MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ365d,"To lower {your/SP's} risk for certain diseases, during the past 12 months {have you/has s/he} ever been told by a doctor or health professional to: reduce the amount of fat or calories in {your/his/her} diet?",MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ370a,"To lower {your/his/her} risk for certain diseases, {are you/is s/he} now doing any of the following: controlling {your/his/her} weight or losing weight?",MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ370b,"To lower {your/his/her} risk for certain diseases, {are you/is s/he} now doing any of the following: increasing {your/his/her} physical activity or exercise?",MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ370c,"To lower {your/his/her} risk for certain diseases, {are you/is s/he} now doing any of the following: reducing the amount of sodium or salt in {your/his/her} diet?",MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+MCQ370d,"To lower {your/his/her} risk for certain diseases, {are you/is s/he} now doing any of the following: reducing the amount of fat or calories in {your/his/her} diet?",MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+OSQ230,"The following question is about metal objects you may have inside your body.  Do you have any artificial joints, pins, plates, metal suture material, or other types of metal objects in your body? Some common examples are on the hand card.",MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+SEQN,Respondent sequence number.,MCQ_I,Medical Conditions,2015,2016,Questionnaire,None
+BPD035,How old {were you/was SP} when {you were/he/she was} first told that {you/he/she} had hypertension or high blood pressure?,BPQ_I,Blood Pressure & Cholesterol,2015,2016,Questionnaire,None
+BPQ020,"{Have you/Has SP} ever been told by a doctor or other health professional that {you/s/he} had hypertension, also called high blood pressure?",BPQ_I,Blood Pressure & Cholesterol,2015,2016,Questionnaire,None
+BPQ030,"{Were you/Was SP} told on 2 or more different visits that {you/s/he} had hypertension, also called high blood pressure?",BPQ_I,Blood Pressure & Cholesterol,2015,2016,Questionnaire,None
+BPQ040A,"Because of {your/SP's} (high blood pressure/hypertension), {have you/has s/he} ever been told to . . . take prescribed medicine?",BPQ_I,Blood Pressure & Cholesterol,2015,2016,Questionnaire,None
+BPQ050A,HELP AVAILABLE (Are you/Is SP) now taking prescribed medicine,BPQ_I,Blood Pressure & Cholesterol,2015,2016,Questionnaire,None
+BPQ060,{Have you/Has SP} ever had {your/his/her} blood cholesterol checked?,BPQ_I,Blood Pressure & Cholesterol,2015,2016,Questionnaire,None
+BPQ070,About how long has it been since {you/SP} last had {your/his/her} blood cholesterol checked?  Has it been...,BPQ_I,Blood Pressure & Cholesterol,2015,2016,Questionnaire,None
+BPQ080,{Have you/Has SP} ever been told by a doctor or other health professional that {your/his/her} blood cholesterol level was high?,BPQ_I,Blood Pressure & Cholesterol,2015,2016,Questionnaire,None
+BPQ090D,"[To lower (your/his/her) blood cholesterol, (have/has) (you/SP) ever been told by a doctor or other health professional]... to take prescribed medicine?",BPQ_I,Blood Pressure & Cholesterol,2015,2016,Questionnaire,None
+BPQ100D,(Are you/Is SP) now following this advice to take prescribed medicine?,BPQ_I,Blood Pressure & Cholesterol,2015,2016,Questionnaire,None
+SEQN,Respondent sequence number.,BPQ_I,Blood Pressure & Cholesterol,2015,2016,Questionnaire,None
+HEQ010,Has a doctor or other health professional ever told {you/SP} that {you have/s/he/SP has} Hepatitis B? (Hepatitis is a form of liver disease. Hepatitis B is an infection of the liver from the Hepatitis B virus (HBV).),HEQ_I,Hepatitis,2015,2016,Questionnaire,None
+HEQ020,Please look at the drugs on this card that are prescribed for Hepatitis B. {Were you/Was/s/he/SP} ever prescribed any medicine to treat Hepatitis B?,HEQ_I,Hepatitis,2015,2016,Questionnaire,None
+HEQ030,Has a doctor or other health professional ever told {you/SP} that {you have/s/he/SP has} Hepatitis C? (Hepatitis is a form of liver disease. Hepatitis C is an infection of the liver from the Hepatitis C virus (HCV).),HEQ_I,Hepatitis,2015,2016,Questionnaire,None
+HEQ040,Please look at the drugs on this card that are prescribed for Hepatitis C. {Were you/ Was/s/he/SP} ever prescribed any medicine to treat Hepatitis C?,HEQ_I,Hepatitis,2015,2016,Questionnaire,None
+SEQN,Respondent sequence number.,HEQ_I,Hepatitis,2015,2016,Questionnaire,None
+DLQ010,"With this next set of questions, we want to learn about people who have physical, mental, or emotional conditions that cause serious difficulties with their daily activities. Though different, these questions may sound similar to ones I asked earlier. {Are you/Is SP} deaf or {do you/does he/does she} have serious difficulty hearing?",DLQ_I,Disability,2015,2016,Questionnaire,None
+DLQ020,{Are you/Is SP} blind or {do you/does he/does she} have serious difficulty seeing even when wearing glasses?,DLQ_I,Disability,2015,2016,Questionnaire,None
+DLQ040,"Because of a physical, mental, or emotional condition, {do you/does he/does she} have serious difficulty concentrating, remembering, or making decisions?",DLQ_I,Disability,2015,2016,Questionnaire,None
+DLQ050,{Do you/Does SP} have serious difficulty walking or climbing stairs?,DLQ_I,Disability,2015,2016,Questionnaire,None
+DLQ060,{Do you/Does SP} have difficulty dressing or bathing?,DLQ_I,Disability,2015,2016,Questionnaire,None
+DLQ080,"Because of a physical, mental, or emotional condition, {do you/does he/does she} have difficulty doing errands alone such as visiting a doctor's office or shopping?",DLQ_I,Disability,2015,2016,Questionnaire,None
+DLQ100,"How often do you feel worried, nervous or anxious? Would you say daily, weekly, monthly, a few times a year, or never?",DLQ_I,Disability,2015,2016,Questionnaire,None
+DLQ110,Do you take medication for these feelings?,DLQ_I,Disability,2015,2016,Questionnaire,None
+DLQ130,"Thinking about the last time you felt worried, nervous or anxious, how would you describe the level of these feelings? Would you say a little, a lot, or somewhere in between?",DLQ_I,Disability,2015,2016,Questionnaire,None
+DLQ140,"How often do you feel depressed? Would you say daily, weekly, monthly, a few times a year, or never?",DLQ_I,Disability,2015,2016,Questionnaire,None
+DLQ150,Do you take medication for depression?,DLQ_I,Disability,2015,2016,Questionnaire,None
+DLQ170,"Thinking about the last time you felt depressed, how depressed did you feel? Would you say a little, a lot, or somewhere in between?",DLQ_I,Disability,2015,2016,Questionnaire,None
+SEQN,Respondent sequence number.,DLQ_I,Disability,2015,2016,Questionnaire,None
+HIQ011,The (first/next) questions are about health insurance. {Are you/Is SP} covered by health insurance or some other kind of health care plan?  [Include health insurance obtained through employment or purchased directly as well as government programs like Medicare and Medicaid that provide medical care or help pay medical bills.],HIQ_I,Health Insurance,2015,2016,Questionnaire,None
+HIQ031A,{Are you/Is SP} covered by private insurance?,HIQ_I,Health Insurance,2015,2016,Questionnaire,None
+HIQ031AA,No coverage of any type.,HIQ_I,Health Insurance,2015,2016,Questionnaire,None
+HIQ031B,{Are you/Is SP} covered by Medicare?,HIQ_I,Health Insurance,2015,2016,Questionnaire,None
+HIQ031C,{Are you/Is SP} covered by Medi-Gap?,HIQ_I,Health Insurance,2015,2016,Questionnaire,None
+HIQ031D,{Are you/Is SP} covered by Medicaid?,HIQ_I,Health Insurance,2015,2016,Questionnaire,None
+HIQ031E,{Are you/Is SP} covered by SCHIP (State Children's Health Insurance Program)?,HIQ_I,Health Insurance,2015,2016,Questionnaire,None
+HIQ031F,{Are you/Is SP} covered by military health plan (Tricare/VA/Champ-VA)?,HIQ_I,Health Insurance,2015,2016,Questionnaire,None
+HIQ031G,{Are you/Is SP} covered by Indian Health Service?,HIQ_I,Health Insurance,2015,2016,Questionnaire,None
+HIQ031H,{Are you/Is SP} covered by state-sponsored health plan?,HIQ_I,Health Insurance,2015,2016,Questionnaire,None
+HIQ031I,{Are you/Is SP} covered by other government insurance?,HIQ_I,Health Insurance,2015,2016,Questionnaire,None
+HIQ031J,{Are you/Is SP} covered by any single service plan?,HIQ_I,Health Insurance,2015,2016,Questionnaire,None
+HIQ105,Insurance card available or not.,HIQ_I,Health Insurance,2015,2016,Questionnaire,None
+HIQ210,"In the past 12 months, was there any time when {you/SP} did not have any health insurance coverage?",HIQ_I,Health Insurance,2015,2016,Questionnaire,None
+HIQ260,{Do you/Does SP} have Medicare?,HIQ_I,Health Insurance,2015,2016,Questionnaire,None
+HIQ270,{Does this plan/Do any of these plans} cover any part of the cost of prescriptions?,HIQ_I,Health Insurance,2015,2016,Questionnaire,None
+SEQN,Respondent sequence number.,HIQ_I,Health Insurance,2015,2016,Questionnaire,None
+PAD615,How much time {do you/does SP} spend doing vigorous-intensity activities at work on a typical day?,PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAD630,How much time {do you/does SP} spend doing moderate-intensity activities at work on a typical day?,PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAD645,How much time {do you/does SP} spend walking or bicycling for travel on a typical day?,PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAD660,"How much time {do you/does SP} spend doing vigorous-intensity sports, fitness or recreational activities on a typical day?",PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAD675,"How much time {do you/does SP} spend doing moderate-intensity sports, fitness or recreational activities on a typical day?",PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAD680,"The following question is about sitting at school, at home, getting to and from places, or with friends including time spent sitting at a desk, traveling in a car or bus, reading, playing cards, watching television, or using a computer. Do not include time spent sleeping. How much time {do you/does SP} usually spend sitting on a typical day?",PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAD733,"On average, for how long did {you/SP} play these active video games?",PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ605,"Next I am going to ask you about the time {you spend/SP spends} doing different types of physical activity in a typical week. Think first about the time {you spend/he spends/she spends} doing work.  Think of work as the things that {you have/he has/she has} to do such as paid or unpaid work,  household chores, and yard work.  Does {your/SP's} work involve vigorous-intensity activity that causes large increases in breathing or heart rate like carrying or lifting heavy loads, digging or construction work for at least 10 minutes continuously?",PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ610,"In a typical week, on how many days {do you/does SP} do vigorous-intensity activities as part of {your/his/her} work?",PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ620,Does {your/SP's} work involve moderate-intensity activity that causes small increases in breathing or heart rate such as brisk walking or carrying light loads for at least 10 minutes continuously?,PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ625,"In a typical week, on how many days {do you/does SP} do moderate-intensity activities as part of {your/his/her} work?",PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ635,"The next questions exclude the physical activity at work that you have already mentioned.  Now I would like to ask you about the usual way {you travel/SP travels} to and from places.  For example to school, for shopping, to work.  In a typical week  {do you/does SP} walk or use a bicycle for at least 10 minutes continuously to get to and from places?",PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ640,"In a typical week, on how many days {do you/does SP} walk or bicycle for at least 10 minutes continuously to get to and from places?",PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ650,"The next questions exclude the work and transport activities that you have already mentioned.  Now I would like to ask you about sports, fitness and recreational activities.  In a typical week {do you/does SP} do any vigorous-intensity sports, fitness, or recreational activities that cause large increases in breathing or heart rate like running or basketball for at least 10 minutes continuously?",PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ655,"In a typical week, on how many days {do you/does SP} do vigorous-intensity sports, fitness or recreational activities?",PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ665,"In a typical week {do you/does SP} do any moderate-intensity sports, fitness, or recreational activities that cause a small increase in breathing or heart rate such as brisk walking, bicycling, swimming, or volleyball for at least 10 minutes continuously?",PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ670,"In a typical week, on how many days {do you/does SP} do moderate-intensity sports, fitness or recreational activities?",PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ677,"In this question you can include activities done in school. On how many of the past 7 days did {you/SP} exercise or participate in physical activity for at least 20 minutes that made {you/him/her} sweat and breathe hard, such as basketball, soccer, running, swimming laps, fast bicycling, fast dancing, or similar activities?",PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ678,"On how many of the past 7 days did {you/SP} do exercises to strengthen or tone {your/his/her} muscles, such as push-ups, sit-ups, or weight lifting?",PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ679,About how many minutes {do you/does SP} think you should exercise or be physically active each day for good health?,PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ706,"I'd like to ask you some questions about {your/SP's} activities. During the past 7 days, on how many days {were you/was SP} physically active for a total of at least 60 minutes per day? Add up all the time {you/he/she} spent in any kind of physical activity that increased {your/his/her} heart rate and made {you/him/her} breathe hard some of the time.",PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ710,"Now I will ask you first about TV watching and then about computer use.  Over the past 30 days, on average how many hours per day did {you/SP} sit and watch TV or videos?  Would you say . . .",PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ715,"Over the past 30 days, on average how many hours per day did {you/SP} use a computer or play computer games outside of school? Include Playstation, Nintendo DS, or other portable video games   Would you say . . .",PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ722,"For the next questions, think about the sports, lessons, or physical activities {you/SP} may have done during the past 7 days? Please do not include things {you/he/she} did during the school day like PE or gym class. Did {you/SP} do any physical activities during the past 7 days?",PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ724a,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any other physical activities?},PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ724aa,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any other physical activities?},PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ724ab,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any other physical activities?},PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ724ac,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any other physical activities?},PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ724ad,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any other physical activities?},PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ724ae,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any other physical activities?},PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ724af,Physical activity horseback riding,PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ724b,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any other physical activities?},PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ724c,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any other physical activities?},PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ724cm,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any other physical activities?},PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ724d,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any other physical activities?},PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ724e,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any other physical activities?},PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ724f,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any other physical activities?},PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ724g,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any other physical activities?},PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ724h,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any other physical activities?},PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ724i,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any other physical activities?},PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ724j,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any other physical activities?},PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ724k,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any other physical activities?},PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ724l,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any other physical activities?},PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ724m,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any other physical activities?},PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ724n,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any other physical activities?},PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ724o,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any other physical activities?},PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ724p,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any other physical activities?},PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ724q,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any other physical activities?},PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ724r,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any other physical activities?},PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ724s,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any other physical activities?},PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ724t,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any other physical activities?},PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ724u,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any other physical activities?},PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ724v,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any other physical activities?},PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ724w,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any other physical activities?},PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ724x,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any other physical activities?},PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ724y,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any other physical activities?},PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ724z,What physical activities did {you/SP} do during the past 7 days? {PROBE:  Did {you/he/she} do any other physical activities?},PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ731,"During the past 7 days, on how many days did {you/SP} play active video games such as Wii Sports, Wii Fit, Xbox 360, Xbox Kinect, Playstation 3, or Dance, Dance Revolution?",PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ740,"The next questions ask about activities during the school year. If {you are/SP is} not currently in school, think about {your/his/her} activities when {you were/he was/she was} last in school. Are students at {your/his/her} school allowed to use school facilities during lunch or during a free or elective period, such as the gymnasium, tennis courts, weight room, or track, during school time?",PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ742,{Do you/Does SP} use school facilities for physical activity during school time?,PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ744,{Do you/does SP} have PE or gym during school days?,PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ746,How often {do you/does SP} have PE or gym?,PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ748,"On average, how long is the PE or gym class?",PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ750,"I am going to read a statement and I want you to let me know if you strongly agree, agree, neither agree nor disagree, disagree or strongly disagree with the statement. {I enjoy participating in PE or gym class.}",PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ755,"The following are activities that may be done before, during, or after school other than during PE or gym class. If {you are/SP is} not currently in school, think about {your/his/her} activities when {you were/he was/she was} last in school.} {Do you/Does SP} participate in school sports or physical activity clubs?",PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ759a,In what school sports or physical activity clubs {do you/does SP} participate?,PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ759b,In what school sports or physical activity clubs {do you/does SP} participate?,PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ759c,In what school sports or physical activity clubs {do you/does SP} participate?,PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ759d,In what school sports or physical activity clubs {do you/does SP} participate?,PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ759e,In what school sports or physical activity clubs {do you/does SP} participate?,PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ759f,In what school sports or physical activity clubs {do you/does SP} participate?,PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ759g,In what school sports or physical activity clubs {do you/does SP} participate?,PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ759h,In what school sports or physical activity clubs {do you/does SP} participate?,PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ759i,In what school sports or physical activity clubs {do you/does SP} participate?,PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ759j,In what school sports or physical activity clubs {do you/does SP} participate?,PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ759k,In what school sports or physical activity clubs {do you/does SP} participate?,PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ759l,In what school sports or physical activity clubs {do you/does SP} participate?,PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ759m,In what school sports or physical activity clubs {do you/does SP} participate?,PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ759n,In what school sports or physical activity clubs {do you/does SP} participate?,PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ759o,In what school sports or physical activity clubs {do you/does SP} participate?,PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ759p,In what school sports or physical activity clubs {do you/does SP} participate?,PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ759q,In what school sports or physical activity clubs {do you/does SP} participate?,PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ759r,In what school sports or physical activity clubs {do you/does SP} participate?,PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ759s,In what school sports or physical activity clubs {do you/does SP} participate?,PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ759t,In what school sports or physical activity clubs {do you/does SP} participate?,PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ759u,Participate in martial arts,PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ762,{Do you/Does SP} have recess during school days?,PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ764,How often {do you/does SP} have recess?,PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ766,"On average, how long is the recess period?",PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ770,"In the past year, did {you/SP} receive a Physical Fitness Test award, such as a President's Challenge or Fitnessgram award?",PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ772a,What Physical Fitness Test award did {you/SP} receive?,PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ772b,What Physical Fitness Test award did {you/SP} receive?,PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+PAQ772c,What Physical Fitness Test award did {you/SP} receive?,PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+SEQN,Respondent sequence number.,PAQ_I,Physical Activity,2015,2016,Questionnaire,None
+HUD080,"How many different times did {you/SP} stay in any hospital overnight or longer {during the past 12 months}? (Do not count total number of nights, just total number of hospital admissions for stays which lasted 1 or more nights.)",HUQ_I,Hospital Utilization & Access to Care,2015,2016,Questionnaire,None
+HUQ010,{First/Next} I have some general questions about {your/SP's} health.  Would you say {your/SP's} health in general is . . .,HUQ_I,Hospital Utilization & Access to Care,2015,2016,Questionnaire,None
+HUQ020,"Compared with 12 months ago, would you say {your/SP's} health is now . . .",HUQ_I,Hospital Utilization & Access to Care,2015,2016,Questionnaire,None
+HUQ030,Is there a place that {you/SP} usually {go/goes} when {you are/he/she is} sick or {you/s/he} need{s} advice about {your/his/her} health?,HUQ_I,Hospital Utilization & Access to Care,2015,2016,Questionnaire,None
+HUQ041,"{What kind of place is it - a clinic, doctor's office, emergency room, or some other place?} {What kind of place {do you/does SP} go to most often - a clinic, doctor's office, emergency room, or some other place?}",HUQ_I,Hospital Utilization & Access to Care,2015,2016,Questionnaire,None
+HUQ051,"{During the past 12 months, how/How} many times {have you/has SP} seen a doctor or other health care professional about {your/his/her} health at a doctor's office, a clinic or some other place?  Do not include times {you were/s/he was} hospitalized overnight, visits to hospital emergency rooms, home visits or telephone calls.",HUQ_I,Hospital Utilization & Access to Care,2015,2016,Questionnaire,None
+HUQ061,About how long has it been since {you/SP} last saw or talked to a doctor or other health care professional about {your/his/her} health?  Include doctors seen while {you were} {he/she was} a patient in a hospital.  Has it been . . .,HUQ_I,Hospital Utilization & Access to Care,2015,2016,Questionnaire,None
+HUQ071,"{During the past 12 months, were you/{was} SP} a patient in a hospital overnight?  Do not include an overnight stay in the emergency room.",HUQ_I,Hospital Utilization & Access to Care,2015,2016,Questionnaire,None
+HUQ090,"During the past 12 months, that is since {DISPLAY CURRENT MONTH} of {DISPLAY LAST YEAR}, {have you/has SP} seen or talked to a mental health professional such as a psychologist, psychiatrist, psychiatric nurse or clinical social worker about {your/his/her} health?",HUQ_I,Hospital Utilization & Access to Care,2015,2016,Questionnaire,None
+SEQN,Respondent sequence number.,HUQ_I,Hospital Utilization & Access to Care,2015,2016,Questionnaire,None
+IMD080,"Which of the HPV vaccines did {you/SP} receive, Cervarix or Gardasil?",IMQ_I,Immunization,2015,2016,Questionnaire,None
+IMQ011,"Hepatitis (Hep-a-ti-tis) A vaccine is given as a two dose series to some children older than 2 years and also to some adults, especially people who travel outside the United States.  It has only been available since 1995.  {Have you/Has SP} ever received hepatitis A vaccine?",IMQ_I,Immunization,2015,2016,Questionnaire,None
+IMQ020,"Hepatitis (Hep-a-ti-tis) B vaccine is given in three separate doses and has been recommended for all newborn infants since 1991.  In 1995, it was recommended that adolescents be given the vaccine.  Persons who may be exposed to other people's blood, such as health care workers, also may have received the vaccine.  {Have you/Has SP} ever received the 3-dose series of the hepatitis B vaccine?",IMQ_I,Immunization,2015,2016,Questionnaire,None
+IMQ060,"Human Papillomavirus (HPV) vaccine is given to prevent cervical cancer in girls and women.  The HPV vaccines available are called Cervarix, Gardasil or Gardasil 9.  It is given in 3 separate doses over a 6 month period.  {Have you/Has SP} ever received one or more doses of the HPV vaccine?",IMQ_I,Immunization,2015,2016,Questionnaire,None
+IMQ070,Human Papillomavirus (HPV) vaccine is given to prevent HPV infection and genital warts in boys and men.  It is given in 3 separate doses over a 6 month period.  {Have you/Has SP} ever received one or more doses of the HPV vaccine? (The brand name for the vaccine is Gardasil.),IMQ_I,Immunization,2015,2016,Questionnaire,None
+IMQ090,How old {were you/was SP} when {you/SP} received your first dose of {Cervarix/Gardasil/Gardasil 9/Gardasil or Gardasil 9/the vaccine}?,IMQ_I,Immunization,2015,2016,Questionnaire,None
+IMQ100,How many doses of {Cervarix/Gardasil/Gardasil or Gardasil 9/the vaccine} {have you/has SP} received?,IMQ_I,Immunization,2015,2016,Questionnaire,None
+SEQN,Respondent sequence number.,IMQ_I,Immunization,2015,2016,Questionnaire,None
+SEQN,Respondent sequence number.,SMQSHS_I,Smoking - Secondhand Smoke Exposure,2015,2016,Questionnaire,None
+SMAQUEX,Questionnaire Mode Flag.,SMQSHS_I,Smoking - Secondhand Smoke Exposure,2015,2016,Questionnaire,None
+SMQ856,"I will now ask you about tobacco smoke in other places. During the last 7 days, {were you/was SP} working at a job or business outside of the home?",SMQSHS_I,Smoking - Secondhand Smoke Exposure,2015,2016,Questionnaire,None
+SMQ858,"While {you were/SP was} working at a job or business outside of the home, did someone else smoke cigarettes or other tobacco products indoors?",SMQSHS_I,Smoking - Secondhand Smoke Exposure,2015,2016,Questionnaire,None
+SMQ860,"{I will now ask you about smoking in other places.} During the last 7 days, did {you/SP} spend time in a restaurant?",SMQSHS_I,Smoking - Secondhand Smoke Exposure,2015,2016,Questionnaire,None
+SMQ862,"While {you were/SP was} in a restaurant, did someone else smoke cigarettes or other tobacco products indoors?",SMQSHS_I,Smoking - Secondhand Smoke Exposure,2015,2016,Questionnaire,None
+SMQ866,"During the last 7 days, {did you/SP} spend time in a bar?",SMQSHS_I,Smoking - Secondhand Smoke Exposure,2015,2016,Questionnaire,None
+SMQ868,"While {you were/SP was} in a bar, did someone else smoke cigarettes or other tobacco products indoors?",SMQSHS_I,Smoking - Secondhand Smoke Exposure,2015,2016,Questionnaire,None
+SMQ870,"During the last 7 days, did {you/SP} ride in a car or motor vehicle?",SMQSHS_I,Smoking - Secondhand Smoke Exposure,2015,2016,Questionnaire,None
+SMQ872,"While {you were/SP was} riding in a car or motor vehicle, did someone else smoke cigarettes or other tobacco products?",SMQSHS_I,Smoking - Secondhand Smoke Exposure,2015,2016,Questionnaire,None
+SMQ874,"During the last 7 days, did {you/SP} spend time in a home other than {your/his/her} own?",SMQSHS_I,Smoking - Secondhand Smoke Exposure,2015,2016,Questionnaire,None
+SMQ876,"While {you were/SP was} in a home other than {your/his/her} own, did someone else smoke cigarettes or other tobacco products indoors?",SMQSHS_I,Smoking - Secondhand Smoke Exposure,2015,2016,Questionnaire,None
+SMQ878,"During the last 7 days,{were you/was SP} in any other indoor area?",SMQSHS_I,Smoking - Secondhand Smoke Exposure,2015,2016,Questionnaire,None
+SMQ880,"While {you were/SP was} in the other indoor area, did someone else smoke cigarettes or other tobacco products?",SMQSHS_I,Smoking - Secondhand Smoke Exposure,2015,2016,Questionnaire,None
+SEQN,Respondent sequence number.,SMQRTU_I,Smoking - Recent Tobacco Use,2015,2016,Questionnaire,None
+SMAQUEX,Questionnaire Mode Flag.,SMQRTU_I,Smoking - Recent Tobacco Use,2015,2016,Questionnaire,None
+SMDANY,Used any tobacco product last 5 days?,SMQRTU_I,Smoking - Recent Tobacco Use,2015,2016,Questionnaire,None
+SMQ681,"The following questions ask about use of tobacco products in the past 5 days.  During the past 5 days, including today, did you smoke cigarettes, pipes, cigars, little cigars or cigarillos, water pipes, hookahs, or e-cigarettes?",SMQRTU_I,Smoking - Recent Tobacco Use,2015,2016,Questionnaire,None
+SMQ690A,Which of these products did {you/he/she} use?,SMQRTU_I,Smoking - Recent Tobacco Use,2015,2016,Questionnaire,None
+SMQ690B,Which of these products did {you/he/she} use?,SMQRTU_I,Smoking - Recent Tobacco Use,2015,2016,Questionnaire,None
+SMQ690C,Which of these products did {you/he/she} use?,SMQRTU_I,Smoking - Recent Tobacco Use,2015,2016,Questionnaire,None
+SMQ690D,Which of these products did {you/he/she} use?,SMQRTU_I,Smoking - Recent Tobacco Use,2015,2016,Questionnaire,None
+SMQ690E,Which of these products did {you/he/she} use?,SMQRTU_I,Smoking - Recent Tobacco Use,2015,2016,Questionnaire,None
+SMQ690F,Which of these products did {you/he/she} use?,SMQRTU_I,Smoking - Recent Tobacco Use,2015,2016,Questionnaire,None
+SMQ690G,Which of these products did {you/he/she} use?,SMQRTU_I,Smoking - Recent Tobacco Use,2015,2016,Questionnaire,None
+SMQ690H,Which of these products did {you/he/she} use?,SMQRTU_I,Smoking - Recent Tobacco Use,2015,2016,Questionnaire,None
+SMQ690I,Which of these products did {you/he/she} use?,SMQRTU_I,Smoking - Recent Tobacco Use,2015,2016,Questionnaire,None
+SMQ690J,Which of these products did {you/he/she} use?,SMQRTU_I,Smoking - Recent Tobacco Use,2015,2016,Questionnaire,None
+SMQ710,"During the past 5 days, including today, on how many days did {you/he/she} smoke cigarettes?",SMQRTU_I,Smoking - Recent Tobacco Use,2015,2016,Questionnaire,None
+SMQ720,"During the past 5 days, including today, on the days {you/he/she} smoked, how many cigarettes did {you/he/she} smoke each day?",SMQRTU_I,Smoking - Recent Tobacco Use,2015,2016,Questionnaire,None
+SMQ725,When did {you/he/she} smoke {your/his/her} last cigarette? Was it...,SMQRTU_I,Smoking - Recent Tobacco Use,2015,2016,Questionnaire,None
+SMQ740,"During the past 5 days, including today, on how many days did {you/he/she} smoke a pipe?",SMQRTU_I,Smoking - Recent Tobacco Use,2015,2016,Questionnaire,None
+SMQ770,"During the past 5 days, including today, on how many days did {you/he/she} smoke cigars, or little cigars or cigarillos?",SMQRTU_I,Smoking - Recent Tobacco Use,2015,2016,Questionnaire,None
+SMQ800,"During the past 5 days, including today, on how many days did {you/he/she} use chewing tobacco, such as Redman, Levi Garrett or Beechnut?",SMQRTU_I,Smoking - Recent Tobacco Use,2015,2016,Questionnaire,None
+SMQ817,"During the past 5 days, including today, on how many days did {you/he/she} use snuff, such as Skoal, Skoal Bandits, or Copenhagen?",SMQRTU_I,Smoking - Recent Tobacco Use,2015,2016,Questionnaire,None
+SMQ830,"During the past 5 days, including today, on how many days did {you/he/she} use any nicotine replacement therapy products such as nicotine patches, gum, lozenges, inhalers, or nasal sprays?",SMQRTU_I,Smoking - Recent Tobacco Use,2015,2016,Questionnaire,None
+SMQ840,When did {you/he/she} last use a nicotine replacement therapy product?  Was it . . .,SMQRTU_I,Smoking - Recent Tobacco Use,2015,2016,Questionnaire,None
+SMQ845,"During the past 5 days, including today, on how many days did {you/he/she} smoke tobacco in a water pipe or Hookah?",SMQRTU_I,Smoking - Recent Tobacco Use,2015,2016,Questionnaire,None
+SMQ849,"During the past 5 days, including today, on how many days did {you/he/she} smoke an e-cigarette?",SMQRTU_I,Smoking - Recent Tobacco Use,2015,2016,Questionnaire,None
+SMQ851,"Smokeless tobacco products are placed in the mouth or nose and include chewing tobacco, snuff, snus, or dissolvables.  During the past 5 days, including today, did {you/he/she} use any smokeless tobacco? (Please do not include nicotine replacement products like patches, gum, lozenge, or spray which are considered products to help {you/him/her} stop smoking.)",SMQRTU_I,Smoking - Recent Tobacco Use,2015,2016,Questionnaire,None
+SMQ857,"During the past 5 days, including today, on how many days did {you/he/she} use snus?",SMQRTU_I,Smoking - Recent Tobacco Use,2015,2016,Questionnaire,None
+SMQ861,"During the past 5 days, including today, on how many days did {you/he/she} use dissolvables such as strips or orbs?",SMQRTU_I,Smoking - Recent Tobacco Use,2015,2016,Questionnaire,None
+SMQ863,"During the past 5 days, including today, did {you/he/she} use any nicotine replacement therapy products such as nicotine patches, gum, lozenges, inhalers, or nasal sprays?",SMQRTU_I,Smoking - Recent Tobacco Use,2015,2016,Questionnaire,None
+SEQN,Respondent sequence number.,SMQFAM_I,Smoking - Household Smokers,2015,2016,Questionnaire,None
+SMD460,"Now I would like to ask you a few questions about smoking in this home.  How many people who live here smoke cigarettes, cigars, little cigars, pipes, water pipes, hookah, or any other tobacco product?",SMQFAM_I,Smoking - Household Smokers,2015,2016,Questionnaire,None
+SMD470,"Not counting decks, porches, or detached garages, how many people who live here smoke cigarettes, cigars, little cigars, pipes, water pipes, hookah, or any other tobacco product inside this home?",SMQFAM_I,Smoking - Household Smokers,2015,2016,Questionnaire,None
+SMD480,"(Not counting decks, porches, or detached garages) During the past 7 days, that is since last [TODAY'S DAY OF WEEK], on how many days did {anyone who lives here/you}, smoke tobacco inside this home?",SMQFAM_I,Smoking - Household Smokers,2015,2016,Questionnaire,None
+SEQN,Respondent sequence number.,SMQ_I,Smoking - Cigarette Use,2015,2016,Questionnaire,None
+SMAQUEX2,Questionnaire Mode Flag,SMQ_I,Smoking - Cigarette Use,2015,2016,Questionnaire,None
+SMD030,How old {were you/was SP} when {you/s/he} first started to smoke cigarettes fairly regularly?,SMQ_I,Smoking - Cigarette Use,2015,2016,Questionnaire,None
+SMD055,How old {were you/was SP} when {you/s/he} last smoked cigarettes {fairly regularly}?,SMQ_I,Smoking - Cigarette Use,2015,2016,Questionnaire,None
+SMD057,"At that time, about how many cigarettes did {you/SP} usually smoke per day?",SMQ_I,Smoking - Cigarette Use,2015,2016,Questionnaire,None
+SMD093,May I please see the pack for the brand of cigarettes {you usually smoke/SP usually smokes}.,SMQ_I,Smoking - Cigarette Use,2015,2016,Questionnaire,None
+SMD100BR,BRAND OF CIGARETTES SMOKED BY SP (SUB-BRAND INCLUDED IF APPLICABLE AND AVAILABLE),SMQ_I,Smoking - Cigarette Use,2015,2016,Questionnaire,None
+SMD100CO,CIGARETTE CARBON MONOXIDE CONTENT,SMQ_I,Smoking - Cigarette Use,2015,2016,Questionnaire,None
+SMD100FL,CIGARETTE PRODUCT FILTERED OR NON-FILTERED,SMQ_I,Smoking - Cigarette Use,2015,2016,Questionnaire,None
+SMD100LN,CIGARETTE PRODUCT LENGTH,SMQ_I,Smoking - Cigarette Use,2015,2016,Questionnaire,None
+SMD100MN,CIGARETTE PRODUCT MENTHOLATED OR NON-MENTHOLATED,SMQ_I,Smoking - Cigarette Use,2015,2016,Questionnaire,None
+SMD100NI,CIGARETTE NICOTINE CONTENT,SMQ_I,Smoking - Cigarette Use,2015,2016,Questionnaire,None
+SMD100TR,CIGARETTE TAR CONTENT,SMQ_I,Smoking - Cigarette Use,2015,2016,Questionnaire,None
+SMD630,How old were you when you smoked a whole cigarette for the first time?,SMQ_I,Smoking - Cigarette Use,2015,2016,Questionnaire,None
+SMD641,On how many of the past 30 days did {you/SP} smoke a cigarette?,SMQ_I,Smoking - Cigarette Use,2015,2016,Questionnaire,None
+SMD650,"During the past 30 days, on the days that {you/SP} smoked, about how many cigarettes did {you/s/he} smoke per day?",SMQ_I,Smoking - Cigarette Use,2015,2016,Questionnaire,None
+SMDUPCA,Cigarette 12-digit Universal Product Code (UPC),SMQ_I,Smoking - Cigarette Use,2015,2016,Questionnaire,None
+SMQ020,These next questions are about cigarette smoking and other tobacco use. {Have you/Has SP} smoked at least 100 cigarettes in {your/his/her} entire life?,SMQ_I,Smoking - Cigarette Use,2015,2016,Questionnaire,None
+SMQ040,{Do you/Does SP} now smoke cigarettes?,SMQ_I,Smoking - Cigarette Use,2015,2016,Questionnaire,None
+SMQ050Q,How long has it been since {you/SP} quit smoking cigarettes?,SMQ_I,Smoking - Cigarette Use,2015,2016,Questionnaire,None
+SMQ050U,UNIT OF MEASURE,SMQ_I,Smoking - Cigarette Use,2015,2016,Questionnaire,None
+SMQ078,How soon after you wake up do you smoke?  Would you say . . .,SMQ_I,Smoking - Cigarette Use,2015,2016,Questionnaire,None
+SMQ080,On how many of the past 30 days did {you/SP} smoke a cigarette?,SMQ_I,Smoking - Cigarette Use,2015,2016,Questionnaire,None
+SMQ621,The following questions are about cigarette smoking and other tobacco use.  Do not include cigars or marijuana.  About how many cigarettes have you smoked in your entire life?,SMQ_I,Smoking - Cigarette Use,2015,2016,Questionnaire,None
+SMQ661,"During the past 30 days, on the days that you smoked, which brand of cigarettes did you usually smoke?",SMQ_I,Smoking - Cigarette Use,2015,2016,Questionnaire,None
+SMQ665A,"Please select the Marlboro pack that looks most like the brand that you smoke. If the pack you smoke is not shown, select 'other Marlboro.'",SMQ_I,Smoking - Cigarette Use,2015,2016,Questionnaire,None
+SMQ665B,"Please select the Camel pack that looks most like the brand that you smoke. If the pack you smoke is not shown, select 'other Camel.'",SMQ_I,Smoking - Cigarette Use,2015,2016,Questionnaire,None
+SMQ665C,"Please select the Newport pack that looks most like the brand that you smoke. If the pack you smoke is not shown, select 'other Newport.'",SMQ_I,Smoking - Cigarette Use,2015,2016,Questionnaire,None
+SMQ665D,"Please select the pack that looks most like the brand that you smoke. If the pack you smoke is not shown, select 'other brand of cigarette.'",SMQ_I,Smoking - Cigarette Use,2015,2016,Questionnaire,None
+SMQ670,"During the past 12 months, have you stopped smoking for one day or longer because you were trying to quit smoking?",SMQ_I,Smoking - Cigarette Use,2015,2016,Questionnaire,None
+SMQ848,"During the past 12 months, how many times {have you/has SP} stopped smoking cigarettes because {you were/he was/she was} trying to quit smoking?",SMQ_I,Smoking - Cigarette Use,2015,2016,Questionnaire,None
+SMQ852Q,"The last time {you/SP} tried to quit, how long {were you/was he/was she} able to stop smoking?",SMQ_I,Smoking - Cigarette Use,2015,2016,Questionnaire,None
+SMQ852U,"The last time {you/SP} tried to quit, how long {were you/was he/was she} able to stop smoking?",SMQ_I,Smoking - Cigarette Use,2015,2016,Questionnaire,None
+SMQ890,"{Have you/Has SP} ever smoked a regular cigar, cigarillo or little filtered cigar even one time? This hand card shows examples of some cigars; however there are others not included here.",SMQ_I,Smoking - Cigarette Use,2015,2016,Questionnaire,None
+SMQ895,"During the past 30 days, on how many days did {you/SP} smoke a regular cigar, cigarillo or little filtered cigar?",SMQ_I,Smoking - Cigarette Use,2015,2016,Questionnaire,None
+SMQ900,"The next question is about e-cigarettes. These are battery-powered devices that usually contain liquid nicotine, and don't produce smoke. Have {you/SP} EVER used an e-cigarette EVEN ONE TIME? This hand card shows examples of some e-cigarettes and other devices used to inhale liquid nicotine; however there are others not included here.",SMQ_I,Smoking - Cigarette Use,2015,2016,Questionnaire,None
+SMQ905,"During the past 30 days, on how many days did {you/SP} use e-cigarettes?",SMQ_I,Smoking - Cigarette Use,2015,2016,Questionnaire,None
+SMQ910,"Smokeless tobacco products are placed in the mouth and nose and include chewing tobacco, snuff, dip, snus (pronounced as ""snoose"") and dissolvable tobacco. {Have you/Has SP} ever used smokeless tobacco even one time? This hand card shows examples of smokeless products; however there are others not included here.",SMQ_I,Smoking - Cigarette Use,2015,2016,Questionnaire,None
+SMQ915,"During the past 30 days, on how many days did {you/SP} use smokeless tobacco?",SMQ_I,Smoking - Cigarette Use,2015,2016,Questionnaire,None
+SMQ925,{Have you/Has SP} ever smoked a cigarette even one time?,SMQ_I,Smoking - Cigarette Use,2015,2016,Questionnaire,None
+SMQ930,How old {were you/was SP} the first time {you/he/she} smoked all or part of a cigarette?,SMQ_I,Smoking - Cigarette Use,2015,2016,Questionnaire,None
+SMQ935,{Do you/Does SP} now smoke cigarettes?,SMQ_I,Smoking - Cigarette Use,2015,2016,Questionnaire,None
+DID040,How old {was SP/were you} when a doctor or other health professional first told {you/him/her} that {you/he/she} had diabetes or sugar diabetes?,DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DID060,For how long {have you/has SP} been taking insulin?,DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DID250,How many times {have you/has SP} seen this doctor or other health professional in the past 12 months?,DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DID260,"How often {do you check your/does SP check his/her} blood for glucose or sugar?  Include times when checked by a family member or friend, but do not include times when checked by a doctor or other health professional.",DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DID310D,What does {your/SP's} doctor or other health professional say {your/his/her} blood pressure should be?,DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DID310S,What does {your/SP's} doctor or other health professional say {your/his/her} blood pressure should be?,DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DID320,"One part of total serum cholesterol in {your/SP's} blood is a bad cholesterol, called LDL, which builds up and clogs {your/his/her} arteries. What was {your/his/her} most recent LDL cholesterol number?",DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DID330,What does {your/SP's} doctor or other health professional say {your/his/her} LDL cholesterol should be?,DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DID341,"During the past 12 months, about how many times has a doctor or other health professional checked {your/SP's} feet for any sores or irritations?",DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DID350,"How often {do you check your feet/does SP check (his/her) feet} for sores or irritations?  Include times when checked by a family member or friend, but do not include times when checked by a doctor or other health professional.",DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DIQ010,"The next questions are about specific medical conditions. {Other than during pregnancy, {have you/has SP}/{Have you/Has SP}} ever been told by a doctor or health professional that {you have/{he/she/SP} has} diabetes or sugar diabetes?",DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DIQ050,{Is SP/Are you} now taking insulin,DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DIQ060U,UNIT OF MEASURE,DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DIQ070,{Is SP/Are you} now taking diabetic pills to lower {{his/her}/your} blood sugar?  These are sometimes called oral agents or oral hypoglycemic agents.,DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DIQ080,Has a doctor ever told {you/SP} that diabetes has affected {your/his/her} eyes or that {you/s/he} had retinopathy (ret-in-op-ath-ee)?,DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DIQ160,"{Have you/Has SP} ever been told by a doctor or other health professional that {you have/SP has} any of the following:  prediabetes, impaired fasting glucose, impaired glucose tolerance, borderline diabetes or that {your/her/his} blood sugar is higher than normal but not high enough to be called diabetes or sugar diabetes?",DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DIQ170,{Have you/Has SP} ever been told by a doctor or other health professional that {you have/s/he has} health conditions or a medical or family history that increases {your/his/her} risk for diabetes?,DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DIQ172,{Do you/Does SP} feel {you/he/she} could be at risk for diabetes or prediabetes?,DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DIQ175A,Why {Do you/Does SP} think {you are/he is/she is} at risk for diabetes or prediabetes?[Anything else?],DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DIQ175B,Why {Do you/Does SP} think {you are/he is/she is} at risk for diabetes or prediabetes?[Anything else?],DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DIQ175C,Why {Do you/Does SP} think {you are/he is/she is} at risk for diabetes or prediabetes?[Anything else?],DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DIQ175D,Why {Do you/Does SP} think {you are/he is/she is} at risk for diabetes or prediabetes?[Anything else?],DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DIQ175E,Why {Do you/Does SP} think {you are/he is/she is} at risk for diabetes or prediabetes?[Anything else?],DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DIQ175F,Why {Do you/Does SP} think {you are/he is/she is} at risk for diabetes or prediabetes?[Anything else?],DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DIQ175G,Why {Do you/Does SP} think {you are/he is/she is} at risk for diabetes or prediabetes?[Anything else?],DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DIQ175H,Why {Do you/Does SP} think {you are/he is/she is} at risk for diabetes or prediabetes?[Anything else?],DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DIQ175I,Why {Do you/Does SP} think {you are/he is/she is} at risk for diabetes or prediabetes?[Anything else?],DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DIQ175J,Why {Do you/Does SP} think {you are/he is/she is} at risk for diabetes or prediabetes?[Anything else?],DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DIQ175K,Why {Do you/Does SP} think {you are/he is/she is} at risk for diabetes or prediabetes?[Anything else?],DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DIQ175L,Why {Do you/Does SP} think {you are/he is/she is} at risk for diabetes or prediabetes?[Anything else?],DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DIQ175M,Why {Do you/Does SP} think {you are/he is/she is} at risk for diabetes or prediabetes?[Anything else?],DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DIQ175N,Why {Do you/Does SP} think {you are/he is/she is} at risk for diabetes or prediabetes?[Anything else?],DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DIQ175O,Why {Do you/Does SP} think {you are/he is/she is} at risk for diabetes or prediabetes?[Anything else?],DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DIQ175P,Why {Do you/Does SP} think {you are/he is/she is} at risk for diabetes or prediabetes?[Anything else?],DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DIQ175Q,Why {Do you/Does SP} think {you are/he is/she is} at risk for diabetes or prediabetes?[Anything else?],DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DIQ175R,Why {Do you/Does SP} think {you are/he is/she is} at risk for diabetes or prediabetes?[Anything else?],DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DIQ175S,Why {Do you/Does SP} think {you are/he is/she is} at risk for diabetes or prediabetes?[Anything else?],DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DIQ175T,Why {Do you/Does SP} think {you are/he is/she is} at risk for diabetes or prediabetes?[Anything else?],DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DIQ175U,Why {Do you/Does SP} think {you are/he is/she is} at risk for diabetes or prediabetes?[Anything else?],DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DIQ175V,Why {Do you/Does SP} think {you are/he is/she is} at risk for diabetes or prediabetes?,DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DIQ175W,Why {Do you/Does SP} think {you are/he is/she is} at risk for diabetes or prediabetes?[Anything else?],DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DIQ175X,Why {Do you/Does SP} think {you are/he is/she is} at risk for diabetes or prediabetes? [Anything else?],DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DIQ180,{Have you/Has SP} had a blood test for high blood sugar or diabetes within the past three years?,DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DIQ230,When was the last time {you/SP} saw a diabetes nurse educator or dietitian or nutritionist for {your/his/her} diabetes?  Do not include doctors or other health professionals.,DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DIQ240,"Is there one doctor or other health professional {you usually see/SP usually sees} for {your/his/her} diabetes?  Do not include specialists to whom {you have/SP has} been referred such as diabetes educators, dieticians or foot and eye doctors.",DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DIQ260U,"How often {do you check your/does SP check his/her} blood for glucose or sugar?  Include times when checked by a family member or friend, but do not include times when checked by a doctor or other health professional.",DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DIQ275,"Glycosylated (GLY-KOH-SIH-LAY-TED) hemoglobin or the ""A one C"" test measures your average level of blood sugar for the past 3 months, and usually ranges between 5.0 and 13.9. During the past 12 months, has a doctor or other health professional checked {your/SP's} glycosylated hemoglobin or ""A one C""?",DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DIQ280,"What was {your/SP's} last ""A one C"" level?",DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DIQ291,"What does {your/SP's} doctor or other health professional say {your/his/her} ""A one C"" level  should be?  (Pick the lowest level recommended by your health care professional.)",DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DIQ300D,Blood pressure is usually given as one number over another. What was {your/SP's} most recent blood pressure in numbers?,DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DIQ300S,Blood pressure is usually given as one number over another. What was {your/SP's} most recent blood pressure in numbers?,DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DIQ350U,"How often {do you check your feet/does SP check (his/her) feet} for sores or irritations?  Include times when checked by a family member or friend, but do not include times when checked by a doctor or other health professional.",DIQ_I,Diabetes,2015,2016,Questionnaire,None
+DIQ360,When was the last time {you/SP} had an eye exam in which the pupils were dilated?  This would have made {you/SP} temporarily sensitive to bright light.,DIQ_I,Diabetes,2015,2016,Questionnaire,None
+SEQN,Respondent sequence number.,DIQ_I,Diabetes,2015,2016,Questionnaire,None
+OHQ030,"The next questions are about {your/SP's} teeth and gums.  About how long has it been since {you/SP} last visited a dentist? Include all types of dentists, such as, orthodontists, oral surgeons, and all other dental specialists, as well as dental hygienists.",OHQ_I,Oral Health,2015,2016,Questionnaire,None
+OHQ033,What was the main reason {you/SP} last visited the dentist?,OHQ_I,Oral Health,2015,2016,Questionnaire,None
+OHQ555G,We would like you to think of the time when {SP} started brushing {his/her} teeth either with your help or alone. At what age did {SP} start brushing {his/her} teeth?,OHQ_I,Oral Health,2015,2016,Questionnaire,None
+OHQ555Q,We would like you to think of the time when {SP} started brushing {his/her} teeth either with your help or alone. At what age did {SP} start brushing {his/her} teeth?,OHQ_I,Oral Health,2015,2016,Questionnaire,None
+OHQ555U,We would like you to think of the time when {SP} started brushing {his/her} teeth either with your help or alone. At what age did {SP} start brushing {his/her} teeth?,OHQ_I,Oral Health,2015,2016,Questionnaire,None
+OHQ560G,At what age did {SP} start using toothpaste?,OHQ_I,Oral Health,2015,2016,Questionnaire,None
+OHQ560Q,At what age did {SP} start using toothpaste?,OHQ_I,Oral Health,2015,2016,Questionnaire,None
+OHQ560U,At what age did {SP} start using toothpaste?,OHQ_I,Oral Health,2015,2016,Questionnaire,None
+OHQ566,Has {SP} ever received prescription fluoride drops or fluoride tablets?,OHQ_I,Oral Health,2015,2016,Questionnaire,None
+OHQ571Q,How old in months or years was {SP} when {he/she} started taking prescription fluoride drops or fluoride tablets?,OHQ_I,Oral Health,2015,2016,Questionnaire,None
+OHQ571U,How old in months or years was {SP} when {he/she} started taking prescription fluoride drops or fluoride tablets?,OHQ_I,Oral Health,2015,2016,Questionnaire,None
+OHQ576G,How old in months or years was {SP} when {he/she} stopped taking prescription fluoride drops or fluoride tablets?,OHQ_I,Oral Health,2015,2016,Questionnaire,None
+OHQ576Q,How old in months or years was {SP} when {he/she} stopped taking prescription fluoride drops or fluoride tablets?,OHQ_I,Oral Health,2015,2016,Questionnaire,None
+OHQ576U,How old in months or years was {SP} when {he/she} stopped taking prescription fluoride drops or fluoride tablets?,OHQ_I,Oral Health,2015,2016,Questionnaire,None
+OHQ610,"In the past 12 months, did a dentist, hygienist or other dental professional have a direct conversation with {you/SP} about... ...the benefits of giving up cigarettes or other types of tobacco to improve {your/SP's} dental health?",OHQ_I,Oral Health,2015,2016,Questionnaire,None
+OHQ612,"(In the past 12 months, did a dentist, hygienist or other dental professional have a direct conversation with {you/SP} about...) ... the dental health benefits of checking {your/his/her} blood sugar?",OHQ_I,Oral Health,2015,2016,Questionnaire,None
+OHQ614,"(In the past 12 months, did a dentist, hygienist or other dental professional have a direct conversation with {you/SP} about...)  ...the importance of examining {your/his/her} mouth for oral cancer?",OHQ_I,Oral Health,2015,2016,Questionnaire,None
+OHQ620,How often during the last year (have you/ has SP) had painful aching anywhere in (your/his/her) mouth?  Would you say....,OHQ_I,Oral Health,2015,2016,Questionnaire,None
+OHQ640,"How often during the last year {have you/has SP} had difficulty doing {your/his/her} usual jobs or attending school because of problems with {your/his/her} teeth, mouth or dentures? Would you say . . .",OHQ_I,Oral Health,2015,2016,Questionnaire,None
+OHQ680,"How often during the last year {have you/has SP} been self-conscious or embarrassed because of  {your/his/her} teeth, mouth or dentures? Would you say . ..",OHQ_I,Oral Health,2015,2016,Questionnaire,None
+OHQ770,During the past 12 months was there a time when (you/SP) needed dental care but could not get it at that time?,OHQ_I,Oral Health,2015,2016,Questionnaire,None
+OHQ780A,What were the reasons that (you/SP) could not get the dental care (you/she/he) needed?,OHQ_I,Oral Health,2015,2016,Questionnaire,None
+OHQ780B,What were the reasons that (you/SP) could not get the dental care (you/she/he) needed?,OHQ_I,Oral Health,2015,2016,Questionnaire,None
+OHQ780C,What were the reasons that (you/SP) could not get the dental care (you/she/he) needed?,OHQ_I,Oral Health,2015,2016,Questionnaire,None
+OHQ780D,What were the reasons that (you/SP) could not get the dental care (you/she/he) needed?,OHQ_I,Oral Health,2015,2016,Questionnaire,None
+OHQ780E,What were the reasons that (you/SP) could not get the dental care (you/she/he) needed?,OHQ_I,Oral Health,2015,2016,Questionnaire,None
+OHQ780F,What were the reasons that (you/SP) could not get the dental care (you/she/he) needed?,OHQ_I,Oral Health,2015,2016,Questionnaire,None
+OHQ780G,What were the reasons that (you/SP) could not get the dental care (you/she/he) needed?,OHQ_I,Oral Health,2015,2016,Questionnaire,None
+OHQ780H,What were the reasons that (you/SP) could not get the dental care (you/she/he) needed?,OHQ_I,Oral Health,2015,2016,Questionnaire,None
+OHQ780I,What were the reasons that (you/SP) could not get the dental care (you/she/he) needed?,OHQ_I,Oral Health,2015,2016,Questionnaire,None
+OHQ780J,What were the reasons that (you/SP) could not get the dental care (you/she/he) needed?,OHQ_I,Oral Health,2015,2016,Questionnaire,None
+OHQ780K,What were the reasons that (you/SP) could not get the dental care (you/she/he) needed?,OHQ_I,Oral Health,2015,2016,Questionnaire,None
+OHQ835,"The next questions will ask about the condition of {your/SP's} teeth and some factors related to gum health.  Gum disease is a common problem with the mouth.  People with gum disease might have swollen gums, receding gums, sore or infected gums or loose teeth. {Do you/Does SP} think {you/s/he} might have gum disease?",OHQ_I,Oral Health,2015,2016,Questionnaire,None
+OHQ845,"Overall, how would {you/SP} rate the health of {your/his/her} teeth and gums?",OHQ_I,Oral Health,2015,2016,Questionnaire,None
+OHQ848G,How many times {do you/does SP} brush (your/his/her} teeth in one day?,OHQ_I,Oral Health,2015,2016,Questionnaire,None
+OHQ848Q,How many times {do you/does SP} brush (your/his/her} teeth in one day?,OHQ_I,Oral Health,2015,2016,Questionnaire,None
+OHQ849,"On average, how much toothpaste {do you/does SP} use when brushing {your/his/her} teeth?",OHQ_I,Oral Health,2015,2016,Questionnaire,None
+OHQ850,"{Have you/Has SP} ever had treatment for gum disease such as scaling and root planing, sometimes called ""deep cleaning""?",OHQ_I,Oral Health,2015,2016,Questionnaire,None
+OHQ860,{Have you/Has SP} ever been told by a dental professional that {you/s/he} lost bone around [your/his/her} teeth?,OHQ_I,Oral Health,2015,2016,Questionnaire,None
+OHQ870,"Aside from brushing {your/his/her} teeth with a toothbrush, in the last seven days, how many days did {you/SP} use dental floss or any other device to clean between {your/his/her} teeth?",OHQ_I,Oral Health,2015,2016,Questionnaire,None
+OHQ880,"{Have you/Has SP} ever had an exam for oral cancer in which the doctor or dentist pulls on {your/his/her} tongue, sometimes with gauze wrapped around it, and feels under the tongue and inside the cheeks?",OHQ_I,Oral Health,2015,2016,Questionnaire,None
+OHQ895,"When did {you/SP} have {your/his/her} most recent oral or mouth cancer exam?  Was it within the past year, between 1 and 3 years ago, or over 3 years ago?",OHQ_I,Oral Health,2015,2016,Questionnaire,None
+OHQ900,What type of health care professional performed {your/SP's} most recent oral cancer exam?,OHQ_I,Oral Health,2015,2016,Questionnaire,None
+SEQN,Respondent sequence number.,OHQ_I,Oral Health,2015,2016,Questionnaire,None
+DED031,"If after several months of not being in the sun, {you/SP} then went out in the sun without sunscreen or protective clothing for a half hour, which one of these would happen to {your/his/her} skin?",DEQ_I,Dermatology,2015,2016,Questionnaire,None
+DED120,"The next questions ask about the time you spent outdoors during the past 30 days. By outdoors, I mean outside and not under any shade. How much time did you usually spend outdoors between 9 in the morning and 5 in the afternoon on the days that you worked or went to school?",DEQ_I,Dermatology,2015,2016,Questionnaire,None
+DED125,"During the past 30 days, how much time did you usually spend outdoors between 9 in the morning and 5 in the afternoon on the days when you were not working or going to school?",DEQ_I,Dermatology,2015,2016,Questionnaire,None
+DEQ034A,"When {you go/SP goes} outside on a very sunny day, for more than one hour, how often {do you/does SP} Stay in the shade?",DEQ_I,Dermatology,2015,2016,Questionnaire,None
+DEQ034C,Wear a long sleeved shirt?  Would you say . . .,DEQ_I,Dermatology,2015,2016,Questionnaire,None
+DEQ034D,Use sunscreen?  Would you say . . .,DEQ_I,Dermatology,2015,2016,Questionnaire,None
+DEQ038G,How many times in the past year {have you/has SP} had a sunburn?,DEQ_I,Dermatology,2015,2016,Questionnaire,None
+DEQ038Q,How many times in the past year {have you/has SP} had a sunburn?,DEQ_I,Dermatology,2015,2016,Questionnaire,None
+SEQN,Respondent sequence number.,DEQ_I,Dermatology,2015,2016,Questionnaire,None
+HOD050,How many rooms are in this home?  Count the kitchen but not the bathroom.,HOQ_I,Housing Characteristics,2015,2016,Questionnaire,None
+HOQ065,"Is this {mobile home/house/apartment} owned, being bought, rented, or occupied by some other arrangement by {you/you or someone else in your family}?",HOQ_I,Housing Characteristics,2015,2016,Questionnaire,None
+SEQN,Respondent sequence number.,HOQ_I,Housing Characteristics,2015,2016,Questionnaire,None
+DPQ010,"Over the last 2 weeks, how often have you been bothered by the following problems: little interest or pleasure in doing things?  Would you say...",DPQ_I,Mental Health - Depression Screener,2015,2016,Questionnaire,None
+DPQ020,"[Over the last 2 weeks, how often have you been bothered by the following problems:] feeling down, depressed, or hopeless?",DPQ_I,Mental Health - Depression Screener,2015,2016,Questionnaire,None
+DPQ030,"[Over the last 2 weeks, how often have you been bothered by the following problems:] trouble falling or staying asleep, or sleeping too much?",DPQ_I,Mental Health - Depression Screener,2015,2016,Questionnaire,None
+DPQ040,"[Over the last 2 weeks, how often have you been bothered by the following problems:] feeling tired or having little energy?",DPQ_I,Mental Health - Depression Screener,2015,2016,Questionnaire,None
+DPQ050,"[Over the last 2 weeks, how often have you been bothered by the following problems:] poor appetite or overeating?",DPQ_I,Mental Health - Depression Screener,2015,2016,Questionnaire,None
+DPQ060,"[Over the last 2 weeks, how often have you been bothered by the following problems:] feeling bad about yourself - or that you are a failure or have let yourself or your family down?",DPQ_I,Mental Health - Depression Screener,2015,2016,Questionnaire,None
+DPQ070,"[Over the last 2 weeks, how often have you been bothered by the following problems:] trouble concentrating on things, such as reading the newspaper or watching TV?",DPQ_I,Mental Health - Depression Screener,2015,2016,Questionnaire,None
+DPQ080,"[Over the last 2 weeks, how often have you been bothered by the following problems:] moving or speaking so slowly that other people could have noticed?  Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual?",DPQ_I,Mental Health - Depression Screener,2015,2016,Questionnaire,None
+DPQ090,"[Over the last 2 weeks, how often have you been bothered by the following problems:] Thoughts that you would be better off dead or of hurting yourself in some way?",DPQ_I,Mental Health - Depression Screener,2015,2016,Questionnaire,None
+DPQ100,"How difficult have these problems made it for you to do your work, take care of things at home, or get along with people?",DPQ_I,Mental Health - Depression Screener,2015,2016,Questionnaire,None
+SEQN,Respondent sequence number.,DPQ_I,Mental Health - Depression Screener,2015,2016,Questionnaire,None
+DPQ010,"Over the last 2 weeks, how often have you been bothered by the following problems: little interest or pleasure in doing things?  Would you say...",DPQY_I_R,Mental Health - Depression Screener - Youth,2015,2016,Questionnaire,RDC Only
+DPQ020,"[Over the last 2 weeks, how often have you been bothered by the following problems:] feeling down, depressed, or hopeless?",DPQY_I_R,Mental Health - Depression Screener - Youth,2015,2016,Questionnaire,RDC Only
+DPQ030,"[Over the last 2 weeks, how often have you been bothered by the following problems:] trouble falling or staying asleep, or sleeping too much?",DPQY_I_R,Mental Health - Depression Screener - Youth,2015,2016,Questionnaire,RDC Only
+DPQ040,"[Over the last 2 weeks, how often have you been bothered by the following problems:] feeling tired or having little energy?",DPQY_I_R,Mental Health - Depression Screener - Youth,2015,2016,Questionnaire,RDC Only
+DPQ050,"[Over the last 2 weeks, how often have you been bothered by the following problems:] poor appetite or overeating?",DPQY_I_R,Mental Health - Depression Screener - Youth,2015,2016,Questionnaire,RDC Only
+DPQ060,"[Over the last 2 weeks, how often have you been bothered by the following problems:] feeling bad about yourself - or that you are a failure or have let yourself or your family down?",DPQY_I_R,Mental Health - Depression Screener - Youth,2015,2016,Questionnaire,RDC Only
+DPQ070,"[Over the last 2 weeks, how often have you been bothered by the following problems:] trouble concentrating on things, such as reading the newspaper or watching TV?",DPQY_I_R,Mental Health - Depression Screener - Youth,2015,2016,Questionnaire,RDC Only
+DPQ080,"[Over the last 2 weeks, how often have you been bothered by the following problems:] moving or speaking so slowly that other people could have noticed?  Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual?",DPQY_I_R,Mental Health - Depression Screener - Youth,2015,2016,Questionnaire,RDC Only
+DPQ090,"[Over the last 2 weeks, how often have you been bothered by the following problems:] Thoughts that you would be better off dead or of hurting yourself in some way?",DPQY_I_R,Mental Health - Depression Screener - Youth,2015,2016,Questionnaire,RDC Only
+DPQ100,"How difficult have these problems made it for you to do your work, take care of things at home, or get along with people?",DPQY_I_R,Mental Health - Depression Screener - Youth,2015,2016,Questionnaire,RDC Only
+SEQN,Respondent sequence number.,DPQY_I_R,Mental Health - Depression Screener - Youth,2015,2016,Questionnaire,RDC Only
+HSAQUEX,Source of Health Status Data,HSQ_I,Current Health Status,2015,2016,Questionnaire,None
+HSD010,Next I have some general questions about {your/SP's} health. Would you say {your/SP's} health in general is . . .,HSQ_I,Current Health Status,2015,2016,Questionnaire,None
+HSQ500,Did {you/SP} have a head cold or chest cold that started during those 30 days?,HSQ_I,Current Health Status,2015,2016,Questionnaire,None
+HSQ510,Did {you/SP} have a stomach or intestinal illness with vomiting or diarrhea that started during those 30 days?,HSQ_I,Current Health Status,2015,2016,Questionnaire,None
+HSQ520,"Did {you/SP} have flu, pneumonia, or ear infections that started during those 30 days?",HSQ_I,Current Health Status,2015,2016,Questionnaire,None
+HSQ571,"During the past 12 months, that is, since (DISPLAY CURRENT MONTH, DISPLAY LAST YEAR), (have you/has SP) donated blood?",HSQ_I,Current Health Status,2015,2016,Questionnaire,None
+HSQ580,How long ago was {your/SP's} last blood donation?,HSQ_I,Current Health Status,2015,2016,Questionnaire,None
+HSQ590,"Except for tests {you/SP} may have had as part of blood donations, {have you/has he/has she} ever had {your/his/her} blood tested for the AIDS virus infection?",HSQ_I,Current Health Status,2015,2016,Questionnaire,None
+SEQN,Respondent sequence number.,HSQ_I,Current Health Status,2015,2016,Questionnaire,None
+SEQN,Respondent sequence number.,SXQY_I_R,Sexual Behavior - Youth,2015,2016,Questionnaire,RDC Only
+SXD021,"Ever had vaginal, anal, or oral sex.",SXQY_I_R,Sexual Behavior - Youth,2015,2016,Questionnaire,RDC Only
+SXD031,How old were you when you had sex for the first time?,SXQY_I_R,Sexual Behavior - Youth,2015,2016,Questionnaire,RDC Only
+SXD101,"In your lifetime, with how many men have you had any kind of sex?",SXQY_I_R,Sexual Behavior - Youth,2015,2016,Questionnaire,RDC Only
+SXD171,"In your lifetime, with how many women have you had any kind of sex?",SXQY_I_R,Sexual Behavior - Youth,2015,2016,Questionnaire,RDC Only
+SXD450,"In the past 12 months, with how many men have you had any kind of sex?",SXQY_I_R,Sexual Behavior - Youth,2015,2016,Questionnaire,RDC Only
+SXD510,"In the past 12 months, with how many women have you had any kind of sex?",SXQY_I_R,Sexual Behavior - Youth,2015,2016,Questionnaire,RDC Only
+SXD621,How old were you when you first performed oral sex on a man? Performing oral sex means your mouth on a man's penis or genitals.,SXQY_I_R,Sexual Behavior - Youth,2015,2016,Questionnaire,RDC Only
+SXD630,How long has it been since the last time you performed oral sex on a new male partner? A new sexual partner is someone that you had never had sex with before.,SXQY_I_R,Sexual Behavior - Youth,2015,2016,Questionnaire,RDC Only
+SXD633,How old were you when you first performed oral sex on a woman? Performing oral sex means your mouth on a woman's vagina or genitals.,SXQY_I_R,Sexual Behavior - Youth,2015,2016,Questionnaire,RDC Only
+SXD642,How long has it been since the last time you performed oral sex on a new female partner? A new sexual partner is someone that you had never had sex with before.,SXQY_I_R,Sexual Behavior - Youth,2015,2016,Questionnaire,RDC Only
+SXQ130,"In your lifetime with how many women have you had sex? By sex, we mean sexual contact with another woman's vagina or genitals.",SXQY_I_R,Sexual Behavior - Youth,2015,2016,Questionnaire,RDC Only
+SXQ251,"In the past 12 months, about how often have you had {vaginal or anal/vaginal/anal} sex without using a condom?",SXQY_I_R,Sexual Behavior - Youth,2015,2016,Questionnaire,RDC Only
+SXQ260,Has a doctor or other health care professional ever told you that you had genital herpes?,SXQY_I_R,Sexual Behavior - Youth,2015,2016,Questionnaire,RDC Only
+SXQ265,Has a doctor or other health care professional ever told you that you had genital warts?,SXQY_I_R,Sexual Behavior - Youth,2015,2016,Questionnaire,RDC Only
+SXQ267,How old were you when you were first told that you had genital warts?,SXQY_I_R,Sexual Behavior - Youth,2015,2016,Questionnaire,RDC Only
+SXQ270,"In the past 12 months, has a doctor or other health care professional told you that you had gonorrhea, sometimes called GC or clap?",SXQY_I_R,Sexual Behavior - Youth,2015,2016,Questionnaire,RDC Only
+SXQ272,"In the past 12 months, has a doctor or other health care professional told you that you had chlamydia?",SXQY_I_R,Sexual Behavior - Youth,2015,2016,Questionnaire,RDC Only
+SXQ280,Are you circumcised or uncircumcised?,SXQY_I_R,Sexual Behavior - Youth,2015,2016,Questionnaire,RDC Only
+SXQ410,"In your lifetime, with how many men have you had anal or oral sex?",SXQY_I_R,Sexual Behavior - Youth,2015,2016,Questionnaire,RDC Only
+SXQ490,"In the past 12 months, with how many women have you had sex? By sex, we mean sexual contact with another woman's vagina or genitals.",SXQY_I_R,Sexual Behavior - Youth,2015,2016,Questionnaire,RDC Only
+SXQ550,"In the past 12 months, with how many men have you had anal or oral sex?",SXQY_I_R,Sexual Behavior - Youth,2015,2016,Questionnaire,RDC Only
+SXQ590,"Of the persons you had any kind of sex with in the past 12 months, how many were five or more years older than you?",SXQY_I_R,Sexual Behavior - Youth,2015,2016,Questionnaire,RDC Only
+SXQ600,"Of the persons you had any kind of sex with in the past 12 months, how many were five or more years younger than you?",SXQY_I_R,Sexual Behavior - Youth,2015,2016,Questionnaire,RDC Only
+SXQ610,"In the past 12 months, about how many times have you had {vaginal or anal/vaginal/anal} sex?",SXQY_I_R,Sexual Behavior - Youth,2015,2016,Questionnaire,RDC Only
+SXQ624,"In your lifetime, on how many men have you performed oral sex?",SXQY_I_R,Sexual Behavior - Youth,2015,2016,Questionnaire,RDC Only
+SXQ627,"In the past 12 months, on how many men have you performed oral sex?",SXQY_I_R,Sexual Behavior - Youth,2015,2016,Questionnaire,RDC Only
+SXQ636,"In your lifetime, on how many women have you performed oral sex?",SXQY_I_R,Sexual Behavior - Youth,2015,2016,Questionnaire,RDC Only
+SXQ639,"In the past 12 months, on how many women have you performed oral sex?",SXQY_I_R,Sexual Behavior - Youth,2015,2016,Questionnaire,RDC Only
+SXQ645,"When you performed oral sex in the past 12 months, how often would you use protection, like a condom or dental dam?",SXQY_I_R,Sexual Behavior - Youth,2015,2016,Questionnaire,RDC Only
+SXQ648,"In the past 12 months, did you have any kind of sex with a person that you never had sex with before?",SXQY_I_R,Sexual Behavior - Youth,2015,2016,Questionnaire,RDC Only
+SXQ700,"Have you ever had vaginal sex, also called sexual intercourse, with a man? This means a man's penis in your vagina.",SXQY_I_R,Sexual Behavior - Youth,2015,2016,Questionnaire,RDC Only
+SXQ703,Have you ever performed oral sex on a man? This means putting your mouth on a man's penis or genitals.,SXQY_I_R,Sexual Behavior - Youth,2015,2016,Questionnaire,RDC Only
+SXQ706,Have you ever had anal sex? This means contact between a man's penis and your anus or butt.,SXQY_I_R,Sexual Behavior - Youth,2015,2016,Questionnaire,RDC Only
+SXQ709,"Have you ever had any kind of sex with a woman? By sex, we mean sexual contact with another woman's vagina or genitals.",SXQY_I_R,Sexual Behavior - Youth,2015,2016,Questionnaire,RDC Only
+SXQ724,"In your lifetime, with how many men have you had vaginal sex?  Vaginal sex means a man's penis in your vagina.",SXQY_I_R,Sexual Behavior - Youth,2015,2016,Questionnaire,RDC Only
+SXQ727,"In the past 12 months, with how many men have you had vaginal sex? Vaginal sex means a man's penis in your vagina.",SXQY_I_R,Sexual Behavior - Youth,2015,2016,Questionnaire,RDC Only
+SXQ741,Have you ever performed oral sex on a woman? Performing oral sex means your mouth on a woman's vagina or genitals.,SXQY_I_R,Sexual Behavior - Youth,2015,2016,Questionnaire,RDC Only
+SXQ753,Has a doctor or other health care professional ever told you that you had human papillomavirus or HPV?,SXQY_I_R,Sexual Behavior - Youth,2015,2016,Questionnaire,RDC Only
+SXQ800,"Have you ever had vaginal sex, also called sexual intercourse, with a woman? This means your penis in a woman's vagina.",SXQY_I_R,Sexual Behavior - Youth,2015,2016,Questionnaire,RDC Only
+SXQ803,Have you ever performed oral sex on a woman? This means putting your mouth on a woman's vagina or genitals.,SXQY_I_R,Sexual Behavior - Youth,2015,2016,Questionnaire,RDC Only
+SXQ806,Have you ever had anal sex with a woman? Anal sex means contact between your penis and a woman's anus or butt.,SXQY_I_R,Sexual Behavior - Youth,2015,2016,Questionnaire,RDC Only
+SXQ809,"Have you ever had any kind of sex with a man, including oral or anal?",SXQY_I_R,Sexual Behavior - Youth,2015,2016,Questionnaire,RDC Only
+SXQ824,"In your lifetime, with how many women have you had vaginal sex? Vaginal sex means your penis in a woman's vagina.",SXQY_I_R,Sexual Behavior - Youth,2015,2016,Questionnaire,RDC Only
+SXQ827,"In the past 12 months, with how many women have you had vaginal sex? Vaginal sex means your penis in a woman's vagina.",SXQY_I_R,Sexual Behavior - Youth,2015,2016,Questionnaire,RDC Only
+SXQ836,"In your lifetime, with how many men have you had anal sex?",SXQY_I_R,Sexual Behavior - Youth,2015,2016,Questionnaire,RDC Only
+SXQ841,"In the past 12 months, with how many men have you had anal sex?",SXQY_I_R,Sexual Behavior - Youth,2015,2016,Questionnaire,RDC Only
+SXQ853,Have you ever performed oral sex on a man? Performing oral sex means your mouth on a man's penis or genitals.,SXQY_I_R,Sexual Behavior - Youth,2015,2016,Questionnaire,RDC Only
+SEQN,Respondent sequence number.,SXQ_I,Sexual Behavior,2015,2016,Questionnaire,None
+SXD021,"Ever had vaginal, anal, or oral sex.",SXQ_I,Sexual Behavior,2015,2016,Questionnaire,None
+SXD031,How old were you when you had sex for the first time?,SXQ_I,Sexual Behavior,2015,2016,Questionnaire,None
+SXD101,"In your lifetime, with how many men have you had any kind of sex?",SXQ_I,Sexual Behavior,2015,2016,Questionnaire,None
+SXD171,"In your lifetime, with how many women have you had any kind of sex?",SXQ_I,Sexual Behavior,2015,2016,Questionnaire,None
+SXD450,"In the past 12 months, with how many men have you had any kind of sex?",SXQ_I,Sexual Behavior,2015,2016,Questionnaire,None
+SXD510,"In the past 12 months, with how many women have you had any kind of sex?",SXQ_I,Sexual Behavior,2015,2016,Questionnaire,None
+SXD621,How old were you when you first performed oral sex on a man? Performing oral sex means your mouth on a man's penis or genitals.,SXQ_I,Sexual Behavior,2015,2016,Questionnaire,None
+SXD630,How long has it been since the last time you performed oral sex on a new male partner? A new sexual partner is someone that you had never had sex with before.,SXQ_I,Sexual Behavior,2015,2016,Questionnaire,None
+SXD633,How old were you when you first performed oral sex on a woman? Performing oral sex means your mouth on a woman's vagina or genitals.,SXQ_I,Sexual Behavior,2015,2016,Questionnaire,None
+SXD642,How long has it been since the last time you performed oral sex on a new female partner? A new sexual partner is someone that you had never had sex with before.,SXQ_I,Sexual Behavior,2015,2016,Questionnaire,None
+SXQ130,"In your lifetime with how many women have you had sex? By sex, we mean sexual contact with another woman's vagina or genitals.",SXQ_I,Sexual Behavior,2015,2016,Questionnaire,None
+SXQ251,"In the past 12 months, about how often have you had {vaginal or anal/vaginal/anal} sex without using a condom?",SXQ_I,Sexual Behavior,2015,2016,Questionnaire,None
+SXQ260,Has a doctor or other health care professional ever told you that you had genital herpes?,SXQ_I,Sexual Behavior,2015,2016,Questionnaire,None
+SXQ265,Has a doctor or other health care professional ever told you that you had genital warts?,SXQ_I,Sexual Behavior,2015,2016,Questionnaire,None
+SXQ267,How old were you when you were first told that you had genital warts?,SXQ_I,Sexual Behavior,2015,2016,Questionnaire,None
+SXQ270,"In the past 12 months, has a doctor or other health care professional told you that you had gonorrhea, sometimes called GC or clap?",SXQ_I,Sexual Behavior,2015,2016,Questionnaire,None
+SXQ272,"In the past 12 months, has a doctor or other health care professional told you that you had chlamydia?",SXQ_I,Sexual Behavior,2015,2016,Questionnaire,None
+SXQ280,Are you circumcised or uncircumcised?,SXQ_I,Sexual Behavior,2015,2016,Questionnaire,None
+SXQ295,Do you think of yourself as...,SXQ_I,Sexual Behavior,2015,2016,Questionnaire,None
+SXQ296,Which of the following best represents how you think of yourself?,SXQ_I,Sexual Behavior,2015,2016,Questionnaire,None
+SXQ410,"In your lifetime, with how many men have you had anal or oral sex?",SXQ_I,Sexual Behavior,2015,2016,Questionnaire,None
+SXQ490,"In the past 12 months, with how many women have you had sex? By sex, we mean sexual contact with another woman's vagina or genitals.",SXQ_I,Sexual Behavior,2015,2016,Questionnaire,None
+SXQ550,"In the past 12 months, with how many men have you had anal or oral sex?",SXQ_I,Sexual Behavior,2015,2016,Questionnaire,None
+SXQ590,"Of the persons you had any kind of sex with in the past 12 months, how many were five or more years older than you?",SXQ_I,Sexual Behavior,2015,2016,Questionnaire,None
+SXQ600,"Of the persons you had any kind of sex with in the past 12 months, how many were five or more years younger than you?",SXQ_I,Sexual Behavior,2015,2016,Questionnaire,None
+SXQ610,"In the past 12 months, about how many times have you had {vaginal or anal/vaginal/anal} sex?",SXQ_I,Sexual Behavior,2015,2016,Questionnaire,None
+SXQ624,"In your lifetime, on how many men have you performed oral sex?",SXQ_I,Sexual Behavior,2015,2016,Questionnaire,None
+SXQ627,"In the past 12 months, on how many men have you performed oral sex?",SXQ_I,Sexual Behavior,2015,2016,Questionnaire,None
+SXQ636,"In your lifetime, on how many women have you performed oral sex?",SXQ_I,Sexual Behavior,2015,2016,Questionnaire,None
+SXQ639,"In the past 12 months, on how many women have you performed oral sex?",SXQ_I,Sexual Behavior,2015,2016,Questionnaire,None
+SXQ645,"When you performed oral sex in the past 12 months, how often would you use protection, like a condom or dental dam?",SXQ_I,Sexual Behavior,2015,2016,Questionnaire,None
+SXQ648,"In the past 12 months, did you have any kind of sex with a person that you never had sex with before?",SXQ_I,Sexual Behavior,2015,2016,Questionnaire,None
+SXQ700,"Have you ever had vaginal sex, also called sexual intercourse, with a man? This means a man's penis in your vagina.",SXQ_I,Sexual Behavior,2015,2016,Questionnaire,None
+SXQ703,Have you ever performed oral sex on a man? This means putting your mouth on a man's penis or genitals.,SXQ_I,Sexual Behavior,2015,2016,Questionnaire,None
+SXQ706,Have you ever had anal sex? This means contact between a man's penis and your anus or butt.,SXQ_I,Sexual Behavior,2015,2016,Questionnaire,None
+SXQ709,"Have you ever had any kind of sex with a woman? By sex, we mean sexual contact with another woman's vagina or genitals.",SXQ_I,Sexual Behavior,2015,2016,Questionnaire,None
+SXQ724,"In your lifetime, with how many men have you had vaginal sex?  Vaginal sex means a man's penis in your vagina.",SXQ_I,Sexual Behavior,2015,2016,Questionnaire,None
+SXQ727,"In the past 12 months, with how many men have you had vaginal sex? Vaginal sex means a man's penis in your vagina.",SXQ_I,Sexual Behavior,2015,2016,Questionnaire,None
+SXQ741,Have you ever performed oral sex on a woman? Performing oral sex means your mouth on a woman's vagina or genitals.,SXQ_I,Sexual Behavior,2015,2016,Questionnaire,None
+SXQ753,Has a doctor or other health care professional ever told you that you had human papillomavirus or HPV?,SXQ_I,Sexual Behavior,2015,2016,Questionnaire,None
+SXQ800,"Have you ever had vaginal sex, also called sexual intercourse, with a woman? This means your penis in a woman's vagina.",SXQ_I,Sexual Behavior,2015,2016,Questionnaire,None
+SXQ803,Have you ever performed oral sex on a woman? This means putting your mouth on a woman's vagina or genitals.,SXQ_I,Sexual Behavior,2015,2016,Questionnaire,None
+SXQ806,Have you ever had anal sex with a woman? Anal sex means contact between your penis and a woman's anus or butt.,SXQ_I,Sexual Behavior,2015,2016,Questionnaire,None
+SXQ809,"Have you ever had any kind of sex with a man, including oral or anal?",SXQ_I,Sexual Behavior,2015,2016,Questionnaire,None
+SXQ824,"In your lifetime, with how many women have you had vaginal sex? Vaginal sex means your penis in a woman's vagina.",SXQ_I,Sexual Behavior,2015,2016,Questionnaire,None
+SXQ827,"In the past 12 months, with how many women have you had vaginal sex? Vaginal sex means your penis in a woman's vagina.",SXQ_I,Sexual Behavior,2015,2016,Questionnaire,None
+SXQ836,"In your lifetime, with how many men have you had anal sex?",SXQ_I,Sexual Behavior,2015,2016,Questionnaire,None
+SXQ841,"In the past 12 months, with how many men have you had anal sex?",SXQ_I,Sexual Behavior,2015,2016,Questionnaire,None
+SXQ853,Have you ever performed oral sex on a man? Performing oral sex means your mouth on a man's penis or genitals.,SXQ_I,Sexual Behavior,2015,2016,Questionnaire,None
+IND235,Monthly family income (reported as a range value in dollars).,INQ_I,Income,2015,2016,Questionnaire,None
+IND310,Total savings or cash assets at this time for {you/NAMES OF OTHER FAMILY/your family}.,INQ_I,Income,2015,2016,Questionnaire,None
+INDFMMPC,Family monthly poverty level index categories.,INQ_I,Income,2015,2016,Questionnaire,None
+INDFMMPI,"Family monthly poverty level index, a ratio of monthly family income to the HHS poverty guidelines specific to family size.",INQ_I,Income,2015,2016,Questionnaire,None
+INQ012,Did {you/you or any family members 16 and older} receive income in {LAST CALENDAR YEAR} from self-employment including business and farm income? [Self-employment means you worked for yourself.],INQ_I,Income,2015,2016,Questionnaire,None
+INQ020,"The next questions are about {your/your combined family} income.  When answering these questions, please remember that by {""income/combined family income""}, I mean {your income/your income plus the income of {NAMES OF OTHER NHANES FAMILY MEMBERS} for {LAST CALENDAR YEAR}.  Did {you/you and OTHER NHANES FAMILY MEMBERS 16+} receive income in {LAST CALENDAR YEAR} from wages and salaries? [Did {you/you or OTHER FAMILY MEMBERS 16+} get paid for work in {LAST CALENDAR YEAR}.]",INQ_I,Income,2015,2016,Questionnaire,None
+INQ030,"When answering the next questions about different kinds of income members of your family might have received in {LAST CALENDAR YEAR}, please consider that we also want to know about family members less than 16 years old.  Did {you/you or any family members living here, that is: you or NAME(S) OF OTHER NHANES FAMILY MEMBERS} receive income in {LAST CALENDAR YEAR} from Social Security or Railroad Retirement?",INQ_I,Income,2015,2016,Questionnaire,None
+INQ060,Did {you/you or any family members living here} receive any disability pension [other than Social Security or Railroad Retirement] in {LAST CALENDAR YEAR}?,INQ_I,Income,2015,2016,Questionnaire,None
+INQ080,Did {you/you or any family members living here} receive retirement or survivor pension [other than Social Security or Railroad Retirement or disability pension] in {LAST CALENDAR YEAR}?,INQ_I,Income,2015,2016,Questionnaire,None
+INQ090,Did {you/you or any family members living here} receive Supplemental Security Income [SSI] in {LAST CALENDAR YEAR}?,INQ_I,Income,2015,2016,Questionnaire,None
+INQ132,Did {you/you or any family members living here} receive any cash assistance from a state or county welfare program such as {DISPLAY SPECIFIC STATE PROGRAMS} in {LAST CALENDAR YEAR}?,INQ_I,Income,2015,2016,Questionnaire,None
+INQ140,"Did {you/you or any family members living here} receive interest from savings or other bank accounts or income from dividends received from stocks or mutual funds or net rental income from property, royalties, estates, or trusts in {LAST CALENDAR YEAR}?",INQ_I,Income,2015,2016,Questionnaire,None
+INQ150,"Did {you/you or any family members living here} receive income in {LAST CALENDAR YEAR} from child support, alimony, contributions from family or others, VA payments, worker's compensation, or unemployment compensation?",INQ_I,Income,2015,2016,Questionnaire,None
+INQ300,"Do {you/NAMES OF OTHER FAMILY/you and NAMES OF FAMILY MEMBERS} have more than $20,000 in savings at this time?  Please include money in your checking accounts.",INQ_I,Income,2015,2016,Questionnaire,None
+INQ320,Please look at this card. How do {you/you or anyone who lives in the household} usually get to the store (or stores) where you do most of your grocery shopping?,INQ_I,Income,2015,2016,Questionnaire,None
+SEQN,Respondent sequence number.,INQ_I,Income,2015,2016,Questionnaire,None
+ACD011A,What language(s) {do you/does SP} usually speak at home?,ACQ_I,Acculturation,2015,2016,Questionnaire,None
+ACD011B,What language(s) {do you/does SP} usually speak at home?,ACQ_I,Acculturation,2015,2016,Questionnaire,None
+ACD011C,What language(s) {do you/does SP} usually speak at home?,ACQ_I,Acculturation,2015,2016,Questionnaire,None
+ACD040,"Now I'm going to ask you about language use.What language(s) {do you/does SP} usually speak at home?  {Do you/Does he/Does she} speak only Spanish, more Spanish than English, both equally, more English than Spanish, or only English?",ACQ_I,Acculturation,2015,2016,Questionnaire,None
+ACD110,"{Do you/Does SP} speak only (NON-ENGLISH LANGUAGE), more (NON-ENGLISH LANGUAGE) than English, both equally, more English than (NON-ENGLISH LANGUAGE), or only English?",ACQ_I,Acculturation,2015,2016,Questionnaire,None
+SEQN,Respondent sequence number.,ACQ_I,Acculturation,2015,2016,Questionnaire,None
+ECD010,First I have some questions about {SP NAME's} birth. How old was {SP NAME's} biological mother when {s/he} was born?,ECQ_I,Early Childhood,2015,2016,Questionnaire,None
+ECD070A,How much did {SP NAME} weigh at birth?,ECQ_I,Early Childhood,2015,2016,Questionnaire,None
+ECD070B,How much did {SP NAME} weigh at birth?,ECQ_I,Early Childhood,2015,2016,Questionnaire,None
+ECQ020,Did {SP NAME's} biological mother smoke at any time while she was pregnant with {him/her}?,ECQ_I,Early Childhood,2015,2016,Questionnaire,None
+ECQ080,Did {SP NAME} weigh . . .,ECQ_I,Early Childhood,2015,2016,Questionnaire,None
+ECQ090,Did {SP NAME} weigh . . .,ECQ_I,Early Childhood,2015,2016,Questionnaire,None
+ECQ150,Are you now doing anything to help {SP} control {his/her} weight?,ECQ_I,Early Childhood,2015,2016,Questionnaire,None
+MCQ080E,Has a doctor or health professional ever told you that {SP} was overweight?,ECQ_I,Early Childhood,2015,2016,Questionnaire,None
+SEQN,Respondent sequence number.,ECQ_I,Early Childhood,2015,2016,Questionnaire,None
+WHQ030E,How do you consider {SP} weight?,ECQ_I,Early Childhood,2015,2016,Questionnaire,None
+OCD150,(SP Interview Version) In this part of the survey I will ask you questions about {your/SP's} work experience. Which of the following {were you/was SP} doing last week . . . (Family Interview Version) The next questions are about {your/NON-SP HEAD'S/NON- SP SPOUSE'S} current job or business.  Which of the following {were you/was} {NON-SP HEAD/NON-SP SPOUSE} doing last week . . .,OCQ_I,Occupation,2015,2016,Questionnaire,None
+OCD270,About how long {have you/has SP} worked for {EMPLOYER} as a(n) {OCCUPATION}?,OCQ_I,Occupation,2015,2016,Questionnaire,None
+OCD390G,"Thinking of all the paid jobs or businesses {you/SP} ever had, what kind of work {were you/was s/he} doing the longest?  (For example, electrical engineer, stock clerk, typist, farmer.)",OCQ_I,Occupation,2015,2016,Questionnaire,None
+OCD395,About how long did {you/SP} work at that job or business?,OCQ_I,Occupation,2015,2016,Questionnaire,None
+OCQ180,How many hours did {you/SP} work last week at all jobs or businesses?,OCQ_I,Occupation,2015,2016,Questionnaire,None
+OCQ210,{Do you/Does SP} usually work 35 hours or more per week in total at all jobs or businesses?,OCQ_I,Occupation,2015,2016,Questionnaire,None
+OCQ260,"Looking at the card, which of these best describes this job or work situation?",OCQ_I,Occupation,2015,2016,Questionnaire,None
+OCQ380,(SP Interview Version) What is the main reason {you/SP} did not work last week?(Family Interview Version) What is the main reason {you/NON-SP HEAD/NON-SP SPOUSE} did not work last week?,OCQ_I,Occupation,2015,2016,Questionnaire,None
+OCQ600,"During the past 12 months at {your/SP's} job as a(n) {OCCUPATION} for {EMPLOYER}, how often {do you/does SP} wear protective hearing devices?",OCQ_I,Occupation,2015,2016,Questionnaire,None
+OCQ610,These next questions are about noise at work. First we are going to ask about loud noise. Loud means so loud that {you/s/he} must speak in a raised voice to be heard by someone three feet away when not using hearing protection. After that we will ask about very loud noise. Very loud noise is noise that is so loud {you have/he has/she has} to shout to be heard by someone three feet away when not using hearing protection.How many days per month {are you/is SP} usually exposed to loud noise at {your/his/her} job as a(n) {OCCUPATION} for {EMPLOYER}? (Loud means so loud that {you/s/he} must speak in a raised voice to be heard by someone three feet away when not using hearing protection.),OCQ_I,Occupation,2015,2016,Questionnaire,None
+OCQ630,"On average, during days when {you are/SP is} exposed to this loud noise, for how many hours per day {have you/has SP} been exposed? (Loud means so loud that {you/s/he} must speak in a raised voice to be heard by someone three feet away when not using hearing protection.)",OCQ_I,Occupation,2015,2016,Questionnaire,None
+OCQ640,How many days per month {are you/is SP} usually exposed to very loud noise at {your/his/her} job as a(n) {OCCUPATION} for {EMPLOYER}? (Very loud noise is noise that is so loud {you have/he has/she has} to shout to be heard by someone three feet away when not using hearing protection.),OCQ_I,Occupation,2015,2016,Questionnaire,None
+OCQ660,"On average, during days when {you are/SP is} exposed to this very loud noise, for how many hours per day {have you/has he/has she} been exposed? (Very loud noise is noise that is so loud {you have/he has/she has} to shout in order to be understood by someone standing 3 feet away from {you/him/her} when you aren't wearing hearing protection.)",OCQ_I,Occupation,2015,2016,Questionnaire,None
+SEQN,Respondent sequence number,OCQ_I,Occupation,2015,2016,Questionnaire,None
+RHD043,What is the reason that {you have/SP has} not had a period in the past 12 months?,RHQ_I,Reproductive Health,2015,2016,Questionnaire,None
+RHD143,{Are you/Is SP} pregnant now?,RHQ_I,Reproductive Health,2015,2016,Questionnaire,None
+RHD173,How old {were you/was SP} when {you/she} delivered a baby that weighed 9 pounds or more?  (Please count stillbirths as well as live births.),RHQ_I,Reproductive Health,2015,2016,Questionnaire,None
+RHD180,How old {were you/was SP} at the time of {your/her} first live birth?,RHQ_I,Reproductive Health,2015,2016,Questionnaire,None
+RHD190,How old {were you/was SP} at the time of {your/her} last live birth?,RHQ_I,Reproductive Health,2015,2016,Questionnaire,None
+RHD280,"{Have you/Has SP} had a hysterectomy that is, surgery to remove {your/her} uterus or womb?",RHQ_I,Reproductive Health,2015,2016,Questionnaire,None
+RHQ010,The next series of questions are about {your/SP's} reproductive history.  I will begin by asking about {your/SP's} periods or menstrual cycles.  How old {were you/was SP} when {you/SP} had {your/her} first menstrual period?,RHQ_I,Reproductive Health,2015,2016,Questionnaire,None
+RHQ020,{Were you/Was SP}...,RHQ_I,Reproductive Health,2015,2016,Questionnaire,None
+RHQ031,"{Have you/Has SP} had at least one menstrual period in the past 12 months? (Please do not include bleedings caused by medical conditions, hormone therapy, or surgeries.)",RHQ_I,Reproductive Health,2015,2016,Questionnaire,None
+RHQ060,About how old {were you/was SP} when {you/SP} had {your/her} last menstrual period?,RHQ_I,Reproductive Health,2015,2016,Questionnaire,None
+RHQ070,{Were you/Was SP}...,RHQ_I,Reproductive Health,2015,2016,Questionnaire,None
+RHQ074,The next questions are about {your/SP's} pregnancy history. {Have you/Has SP} ever attempted to become pregnant over a period of at least a year without becoming pregnant?,RHQ_I,Reproductive Health,2015,2016,Questionnaire,None
+RHQ076,{Have you/Has SP} ever been to a doctor or other medical provider because {you have/she has} been unable to become pregnant?,RHQ_I,Reproductive Health,2015,2016,Questionnaire,None
+RHQ078,"{Have you/Has SP} ever been treated for an infection in {your/her} fallopian tubes, uterus or ovaries, also called a pelvic infection, pelvic inflammatory disease, or PID?",RHQ_I,Reproductive Health,2015,2016,Questionnaire,None
+RHQ131,"The next questions are about {your/SP's} pregnancy history. {Have you/Has SP ever been pregnant? Please include (current pregnancy,) live births, miscarriages, stillbirths, tubal pregnancies and abortions.",RHQ_I,Reproductive Health,2015,2016,Questionnaire,None
+RHQ160,"How many times {have you/has SP} been pregnant?  ({Again, be/Be} sure to count all {your/her} pregnancies including (current pregnancy,) live births, miscarriages, stillbirths, tubal pregnancies or abortions.)",RHQ_I,Reproductive Health,2015,2016,Questionnaire,None
+RHQ162,"During {any/your/SP's} pregnancy, {were you/was SP} ever told by a doctor or other health professional that {you/she} had diabetes, sugar diabetes or gestational diabetes?  Please do not include diabetes that {you/SP} may have known about before the pregnancy.",RHQ_I,Reproductive Health,2015,2016,Questionnaire,None
+RHQ163,How old {were you/was SP} when {you were/she was} first told {you/she} had diabetes during a pregnancy?,RHQ_I,Reproductive Health,2015,2016,Questionnaire,None
+RHQ166,How many vaginal deliveries {have you/has SP} had?  {Please count stillbirths as well as live births},RHQ_I,Reproductive Health,2015,2016,Questionnaire,None
+RHQ169,How many cesarean deliveries {have you/has SP} had?  (Cesarean deliveries are also known as C-sections.)  (Please count stillbirths as well as live births.),RHQ_I,Reproductive Health,2015,2016,Questionnaire,None
+RHQ171,How many of {your/her} deliveries resulted {Did {your/her} delivery result} in a live birth?,RHQ_I,Reproductive Health,2015,2016,Questionnaire,None
+RHQ172,{Did {your/SP's} delivery/Did any of {your/SP's} deliveries} result in a baby that weighed 9 pounds (4082 g) or more at birth?  (Please count stillbirths as well as live births.),RHQ_I,Reproductive Health,2015,2016,Questionnaire,None
+RHQ197,How many months ago did {you/SP} have {your/her} baby?,RHQ_I,Reproductive Health,2015,2016,Questionnaire,None
+RHQ200,{Are you/Is SP} now breast feeding a child?,RHQ_I,Reproductive Health,2015,2016,Questionnaire,None
+RHQ291,How old {were you/was SP} when {you/she} had {your/her} (hysterectomy/uterus removed/womb removed)?,RHQ_I,Reproductive Health,2015,2016,Questionnaire,None
+RHQ305,{Have you/Has SP} had both of {your/her} ovaries removed (either when {you/she} had {your/her} uterus removed or at another time)?,RHQ_I,Reproductive Health,2015,2016,Questionnaire,None
+RHQ332,How old {were you/was SP} when {you/she} had {your/her} ovaries removed or last ovary removed if removed at different times?,RHQ_I,Reproductive Health,2015,2016,Questionnaire,None
+RHQ420,Now I am going to ask you about {your/SP's} birth control history.  {Have you/Has SP} ever taken birth control pills for any reason?,RHQ_I,Reproductive Health,2015,2016,Questionnaire,None
+RHQ540,"{Have you/Has SP} ever used female hormones such as estrogen and progesterone?  Please include any forms of female hormones, such as pills, cream, patch, and injectables, but do not include birth control methods or use for infertility.",RHQ_I,Reproductive Health,2015,2016,Questionnaire,None
+RHQ542A,Which forms of female hormones {have you/has SP} used.,RHQ_I,Reproductive Health,2015,2016,Questionnaire,None
+RHQ542B,Which forms of female hormones {have you/has SP} used.,RHQ_I,Reproductive Health,2015,2016,Questionnaire,None
+RHQ542C,Which forms of female hormones {have you/has SP} used.,RHQ_I,Reproductive Health,2015,2016,Questionnaire,None
+RHQ542D,Which forms of female hormones {have you/has SP} used.,RHQ_I,Reproductive Health,2015,2016,Questionnaire,None
+RHQ554,{Have you/Has SP} ever taken female hormone pills containing estrogen only (like Premarin)? (Do not include birth control pills.),RHQ_I,Reproductive Health,2015,2016,Questionnaire,None
+RHQ560Q,"Not counting any time when {you/SP} stopped taking them, for how long altogether {have you taken/did you take/has she taken/did she take} pills containing estrogen only?",RHQ_I,Reproductive Health,2015,2016,Questionnaire,None
+RHQ560U,UNIT OF MEASURE.,RHQ_I,Reproductive Health,2015,2016,Questionnaire,None
+RHQ570,"{Have you/Has SP} taken female hormone pills containing both estrogen and progestin (like Prempro, Premphase)? (Do not include birth control pills.)",RHQ_I,Reproductive Health,2015,2016,Questionnaire,None
+RHQ576Q,"Not counting any time when {you/SP} stopped taking them, for how long altogether {{have you/has SP} taken/did {you/SP} take} pills containing both estrogen and progestin?",RHQ_I,Reproductive Health,2015,2016,Questionnaire,None
+RHQ576U,UNIT OF MEASURE.,RHQ_I,Reproductive Health,2015,2016,Questionnaire,None
+RHQ580,{Have you/Has SP} ever used female hormone patches containing estrogen only?,RHQ_I,Reproductive Health,2015,2016,Questionnaire,None
+RHQ586Q,"Not counting any time when {you/SP} stopped taking them, for how long altogether {have you used/did you use/has she used/did she use} patches containing estrogen only?",RHQ_I,Reproductive Health,2015,2016,Questionnaire,None
+RHQ586U,UNIT OF MEASURE.,RHQ_I,Reproductive Health,2015,2016,Questionnaire,None
+RHQ596,{Have you/Has SP} used female hormone patches containing both estrogen and progestin?,RHQ_I,Reproductive Health,2015,2016,Questionnaire,None
+RHQ602Q,"Not counting any time when {you/SP} stopped taking them, for how long altogether {have you used/did you use/has she used/did she use} patches containing both estrogen and progestin?",RHQ_I,Reproductive Health,2015,2016,Questionnaire,None
+RHQ602U,UNIT OF MEASURE.,RHQ_I,Reproductive Health,2015,2016,Questionnaire,None
+SEQN,Respondent sequence number.,RHQ_I,Reproductive Health,2015,2016,Questionnaire,None
+SEQN,Respondent sequence number.,WHQ_I,Weight History,2015,2016,Questionnaire,None
+WHD010,These next questions ask about {your/SP's} height and weight at different times in {your/his/her} life.  How tall {are you/is SP} without shoes?,WHQ_I,Weight History,2015,2016,Questionnaire,None
+WHD020,How much {do you/does SP} weigh without clothes or shoes?,WHQ_I,Weight History,2015,2016,Questionnaire,None
+WHD050,How much did {you/SP} weigh a year ago?,WHQ_I,Weight History,2015,2016,Questionnaire,None
+WHD080A,How did {you/SP} try to lose weight?,WHQ_I,Weight History,2015,2016,Questionnaire,None
+WHD080B,How did {you/SP} try to lose weight?,WHQ_I,Weight History,2015,2016,Questionnaire,None
+WHD080C,How did {you/SP} try to lose weight?,WHQ_I,Weight History,2015,2016,Questionnaire,None
+WHD080D,How did {you/SP} try to lose weight?,WHQ_I,Weight History,2015,2016,Questionnaire,None
+WHD080E,How did {you/SP} try to lose weight?,WHQ_I,Weight History,2015,2016,Questionnaire,None
+WHD080F,How did {you/SP} try to lose weight?,WHQ_I,Weight History,2015,2016,Questionnaire,None
+WHD080G,How did {you/SP} try to lose weight?,WHQ_I,Weight History,2015,2016,Questionnaire,None
+WHD080H,How did {you/SP} try to lose weight?,WHQ_I,Weight History,2015,2016,Questionnaire,None
+WHD080I,How did {you/SP} try to lose weight?,WHQ_I,Weight History,2015,2016,Questionnaire,None
+WHD080J,How did {you/SP} try to lose weight?,WHQ_I,Weight History,2015,2016,Questionnaire,None
+WHD080K,How did {you/SP} try to lose weight?,WHQ_I,Weight History,2015,2016,Questionnaire,None
+WHD080L,How did {you/SP} try to lose weight?,WHQ_I,Weight History,2015,2016,Questionnaire,None
+WHD080M,How did {you/SP} try to lose weight?,WHQ_I,Weight History,2015,2016,Questionnaire,None
+WHD080N,How did {you/SP} try to lose weight?,WHQ_I,Weight History,2015,2016,Questionnaire,None
+WHD080O,How did {you/SP} try to lose weight?,WHQ_I,Weight History,2015,2016,Questionnaire,None
+WHD080P,How did {you/SP} try to lose weight?,WHQ_I,Weight History,2015,2016,Questionnaire,None
+WHD080Q,How did {you/SP} try to lose weight?,WHQ_I,Weight History,2015,2016,Questionnaire,None
+WHD080R,How did {you/SP} try to lose weight?,WHQ_I,Weight History,2015,2016,Questionnaire,None
+WHD080S,How did {you/SP} try to lose weight?,WHQ_I,Weight History,2015,2016,Questionnaire,None
+WHD080T,How did {you/SP} try to lose weight?,WHQ_I,Weight History,2015,2016,Questionnaire,None
+WHD080U,How did {you/SP} try to lose weight?,WHQ_I,Weight History,2015,2016,Questionnaire,None
+WHD110,"How much did {you/SP} weigh 10 years ago?  [If you don't know {your/his/her} exact weight, please make your best guess.]",WHQ_I,Weight History,2015,2016,Questionnaire,None
+WHD120,"How much did {you/SP} weigh at age 25?  [If you don't know {your/his/her} exact weight, please make your best guess.]  If ( you were/she was) pregnant, how much did (you/she) weigh before (your/her) pregnancy?",WHQ_I,Weight History,2015,2016,Questionnaire,None
+WHD130,"How tall {were you/was SP} at age 25?  [If you don't know {your/his/her} exact height, please make your best guess.]",WHQ_I,Weight History,2015,2016,Questionnaire,None
+WHD140,"Up to the present time, what is the most {you have/SP has} ever weighed?",WHQ_I,Weight History,2015,2016,Questionnaire,None
+WHQ030,"{Do you/Does SP} consider {your/his/her}self now to be . . . [If {you are/she is} currently pregnant, what did {you/she} consider {your/her}self to be before {you were/she was} pregnant?]",WHQ_I,Weight History,2015,2016,Questionnaire,None
+WHQ040,Would {you/SP} like to weigh . . .,WHQ_I,Weight History,2015,2016,Questionnaire,None
+WHQ060,Was the change between {your/SP's} current weight and {your/his/her} weight a year ago intentional?,WHQ_I,Weight History,2015,2016,Questionnaire,None
+WHQ070,"During the past 12 months, {have you/has SP} tried to lose weight?",WHQ_I,Weight History,2015,2016,Questionnaire,None
+WHQ150,"How old {were you/was SP} then?  [If you don't know {your/his/her} exact age, please make your best guess.]",WHQ_I,Weight History,2015,2016,Questionnaire,None
+WHQ190,"{Have you/Has SP} ever had weight loss surgery, also called bariatric surgery?",WHQ_I,Weight History,2015,2016,Questionnaire,None
+WHQ200,[How old {were you/was SP} when {you/she/he} had {the most recent} weight loss surgery?],WHQ_I,Weight History,2015,2016,Questionnaire,None
+WHQ225,How many times {have you/has SP} lost 10 pounds or more because {you were/he was/she was} trying to lose weight?  Was it . . .,WHQ_I,Weight History,2015,2016,Questionnaire,None
+SEQN,Respondent sequence number.,WHQMEC_I,Weight History - Youth,2015,2016,Questionnaire,None
+WHQ030M,Do you consider yourself now to be . . .,WHQMEC_I,Weight History - Youth,2015,2016,Questionnaire,None
+WHQ500,Which of the following are you trying to do about your weight:,WHQMEC_I,Weight History - Youth,2015,2016,Questionnaire,None
+WHQ520,"In the past year, how often have you tried to lose weight?  Would you say . . .",WHQMEC_I,Weight History - Youth,2015,2016,Questionnaire,None
+SEQN,Respondent sequence number.,SLQ_I,Sleep Disorders,2015,2016,Questionnaire,None
+SLD012,How much sleep {do you/does SP} usually get at night on weekdays or workdays?,SLQ_I,Sleep Disorders,2015,2016,Questionnaire,None
+SLQ030,"In the past 12 months, how often did {you/SP} snore while {you were/s/he was} sleeping?",SLQ_I,Sleep Disorders,2015,2016,Questionnaire,None
+SLQ040,"In the past 12 months, how often did {you/SP} snort, gasp, or stop breathing while {you were/s/he was} asleep?",SLQ_I,Sleep Disorders,2015,2016,Questionnaire,None
+SLQ050,{Have you/Has SP} ever told a doctor or other health professional that {you have/s/he has} trouble sleeping?,SLQ_I,Sleep Disorders,2015,2016,Questionnaire,None
+SLQ120,"In the past month, how often did {you/SP} feel excessively or overly sleepy during the day?",SLQ_I,Sleep Disorders,2015,2016,Questionnaire,None
+SLQ300,"The next set of questions is about {your/SP's} sleeping habits. The first two questions refer to the times {you get/SP gets} in and out of bed in order to sleep, not including naps. What time {do you/does SP} usually go to sleep on weekdays or workdays?",SLQ_I,Sleep Disorders,2015,2016,Questionnaire,None
+SLQ310,What time {do you/does SP} usually wake up on weekdays or workdays?,SLQ_I,Sleep Disorders,2015,2016,Questionnaire,None
+AUD148,Which was it?,AUQ_I,Audiometry,2015,2016,Questionnaire,None
+AUQ054,"These next questions are about {your/SP's} hearing. Which statement best describes {your/SP's} hearing (without a hearing aid or other listening devices)? Would you say {your/his/her} hearing is excellent, good, that {you have/s/he has} a little trouble, moderate trouble, a lot of trouble, or {are you/is s/he} deaf?",AUQ_I,Audiometry,2015,2016,Questionnaire,None
+AUQ060,"These next questions refer to hearing without the use of a hearing aid or any other listening devices. If {you have/SP has} one ear that is better than the other, please answer the questions for the hearing in {your/SP's} better ear. Can {you/SP} usually hear and understand what a person says without seeing his or her face if that person whispers to {you/him/her} from across a quiet room?",AUQ_I,Audiometry,2015,2016,Questionnaire,None
+AUQ070,Can {you/SP} usually hear and understand what a person says without seeing his or her face if that person talks in a normal voice to {you/him/her} from across a quiet room?,AUQ_I,Audiometry,2015,2016,Questionnaire,None
+AUQ080,Can {you/SP} usually hear and understand what a person says without seeing his or her face if that person shouts to {you/him/her} from across a quiet room?,AUQ_I,Audiometry,2015,2016,Questionnaire,None
+AUQ090,Can {you/SP} usually hear and understand what a person says without seeing his or her face if that person speaks loudly into {your/his/her} better ear?,AUQ_I,Audiometry,2015,2016,Questionnaire,None
+AUQ100,"How often {do you/does SP} find it difficult to follow a conversation if there is background noise, for example, when other people are talking, TV or radio is on, or children are playing? Would you say...",AUQ_I,Audiometry,2015,2016,Questionnaire,None
+AUQ110,How often does {your/SP's} hearing cause {you/him/her}to feel frustrated when talking to members of {your/his/her} family or to friends? Would you say...,AUQ_I,Audiometry,2015,2016,Questionnaire,None
+AUQ136,{Have you/Has SP} ever had 3 or more ear infections? Please include ear infections {you/he/she} may have had when {you were/he was/she was} a child.,AUQ_I,Audiometry,2015,2016,Questionnaire,None
+AUQ138,{Have you/Has SP} ever had a tube placed in {your/his/her} ear to drain the fluid from {your/his/her} ear?,AUQ_I,Audiometry,2015,2016,Questionnaire,None
+AUQ144,"A hearing test by a specialist is one that is done in a sound proof booth or room, or with headphones. Hearing specialists include audiologists, ear nose and throat doctors, and trained technicians or occupational nurses. When was the last time {you had/SP had} {your/his/her} hearing tested by a hearing specialist?",AUQ_I,Audiometry,2015,2016,Questionnaire,None
+AUQ146,{Have you/Has SP} ever worn a hearing aid or cochlear implant?,AUQ_I,Audiometry,2015,2016,Questionnaire,None
+AUQ152,"In the past 12 months, how often {have you/has SP} worn a hearing aid?",AUQ_I,Audiometry,2015,2016,Questionnaire,None
+AUQ154,"{Have you/Has SP} ever used assistive listening devices (ALDs), such as FM systems, closed-captioned television, amplified telephone, relay services, or a sign-language interpreter?",AUQ_I,Audiometry,2015,2016,Questionnaire,None
+AUQ191,"In the past 12 months, {have you/has SP} been bothered by ringing, roaring, or buzzing in {your/his/her} ears or head that lasts for 5 minutes or more?",AUQ_I,Audiometry,2015,2016,Questionnaire,None
+AUQ250,"How long {have you/has SP} been bothered by this ringing, roaring, or buzzing in {your/his/her} ears or head?",AUQ_I,Audiometry,2015,2016,Questionnaire,None
+AUQ255,"In the past 12 months, how often {have you/has SP} had this ringing, roaring, or buzzing in {your/his/her} ears or head? Would you say...",AUQ_I,Audiometry,2015,2016,Questionnaire,None
+AUQ260,"{Are you/Is SP} bothered by ringing, roaring, or buzzing in {your/his/her} ears or head only after listening to loud sounds or loud music?",AUQ_I,Audiometry,2015,2016,Questionnaire,None
+AUQ270,"{Are you/Is SP} bothered by ringing, roaring, or buzzing in {your/his/her} ears or head when going to sleep?",AUQ_I,Audiometry,2015,2016,Questionnaire,None
+AUQ280,"How much of a problem is this ringing, roaring, or buzzing in {your/his/her} ears or head? Would you say...",AUQ_I,Audiometry,2015,2016,Questionnaire,None
+AUQ300,"This next question is about {your/SP's} use of firearms that {you/he/she} may have used for target shooting, hunting, for {your/his/her} job or in military service. {Have you/Has SP} ever used firearms for any reason?",AUQ_I,Audiometry,2015,2016,Questionnaire,None
+AUQ310,How many total rounds {have you/has SP} ever fired?,AUQ_I,Audiometry,2015,2016,Questionnaire,None
+AUQ320,"How often {did you/did SP} wear hearing protection devices (ear plugs, ear muffs) when shooting firearms?",AUQ_I,Audiometry,2015,2016,Questionnaire,None
+AUQ331,"These next questions are about noise exposure at work. First we are going to ask about loud noise. Loud means so loud that {you/s/he} must speak in a raised voice to be heard by someone three feet away when not using hearing protection. After that we will ask about very loud noise. Very loud noise is noise that is so loud {you have/he has/she has} to shout in order to be understood by someone standing 3 feet away from {you/him/her} when not using hearing protection. {Have you/Has SP} ever had a job, or combination of jobs where {you were/s/he was} exposed to loud sounds or noise for 4 or more hours a day, several days a week? (Loud means so loud that {you/s/he} must speak in a raised voice to be heard.)",AUQ_I,Audiometry,2015,2016,Questionnaire,None
+AUQ340,"For how many months or years {have you/has SP} been exposed at work to loud sounds or noise for 4 or more hours a day, several days a week?",AUQ_I,Audiometry,2015,2016,Questionnaire,None
+AUQ350,In {your/SP's} work {were you/was he/was she} exposed to very loud noise? (Very loud noise is noise that is so loud {you have/he has/she has} to shout in order to be understood by someone standing 3 feet away from {you/him/her}.),AUQ_I,Audiometry,2015,2016,Questionnaire,None
+AUQ361,Please give me the total number of moths or years for all jobs where this has happened.,AUQ_I,Audiometry,2015,2016,Questionnaire,None
+AUQ370,"Outside of a job, {have you/has SP} ever been exposed to very loud noise or music for 10 or more hours a week? This is noise so loud that {you have/s/he has} to shout to be understood or heard 3 feet away. Examples are noise from power tools, lawn mowers, farm machinery, cars, trucks, motorcycles, motor boats or loud music.",AUQ_I,Audiometry,2015,2016,Questionnaire,None
+AUQ381,"In the past 12 months, how often {did you/did SP} wear hearing protection devices (ear plugs, ear muffs) when exposed to very loud sounds or noise outside of work? {Do not include the noise from firearms we already talked about.}",AUQ_I,Audiometry,2015,2016,Questionnaire,None
+SEQN,Respondent sequence number.,AUQ_I,Audiometry,2015,2016,Questionnaire,None
+ALD020,"During your life, on how many days have you had at least one drink of alcohol?",ALQY_I_R,Alcohol Use - Youth,2015,2016,Questionnaire,RDC Only
+ALD030,"During the past 30 days, on how many days did you have at least one drink of alcohol?",ALQY_I_R,Alcohol Use - Youth,2015,2016,Questionnaire,RDC Only
+ALD040,"During the past 30 days, on how many days did you have {'4' Female, '5' Male - DISPLAY NUMBER} or more drinks of alcohol in a row, that is, within a couple of hours?",ALQY_I_R,Alcohol Use - Youth,2015,2016,Questionnaire,RDC Only
+ALQ010,"How old were you when you had your first drink of alcohol, other than a few sips?",ALQY_I_R,Alcohol Use - Youth,2015,2016,Questionnaire,RDC Only
+SEQN,Respondent sequence number.,ALQY_I_R,Alcohol Use - Youth,2015,2016,Questionnaire,RDC Only
+ALQ101,"In any one year, {have you/has SP} had at least 12 drinks of any type of alcoholic beverage? By a drink, I mean a 12 oz. beer, a 5 oz. glass of wine, or a one and a half ounces of liquor.",ALQ_I,Alcohol Use,2015,2016,Questionnaire,None
+ALQ110,"In {your/SPâ€™s} entire life, {have you/has he/has she} had at least 12 drinks of any type of alcoholic beverage?",ALQ_I,Alcohol Use,2015,2016,Questionnaire,None
+ALQ120Q,"In the past 12 months, how often did {you/SP} drink any type of alcoholic beverage? PROBE: How many days per week, per month, or per year did {you/SP} drink?",ALQ_I,Alcohol Use,2015,2016,Questionnaire,None
+ALQ120U,UNIT OF MEASURE.,ALQ_I,Alcohol Use,2015,2016,Questionnaire,None
+ALQ130,"In the past 12 months, on those days that {you/SP} drank alcoholic beverages, on the average, how many drinks did {you/he/she} have? By a drink, I mean a 12 oz. beer, a 5 oz. glass of wine, or one and a half ounces of liquor.)",ALQ_I,Alcohol Use,2015,2016,Questionnaire,None
+ALQ141Q,"In the past 12 months, on how many days did {you/SP} have {Display number} or more drinks of any alcoholic beverage? PROBE: How many days per week, per month, or per year did {you/SP} have {DISPLAY NUMBER} or more drinks in a single day?",ALQ_I,Alcohol Use,2015,2016,Questionnaire,None
+ALQ141U,UNIT OF MEASURE.,ALQ_I,Alcohol Use,2015,2016,Questionnaire,None
+ALQ151,Was there ever a time or times in {your/SPâ€™s} life when {you/he/she} drank {DISPLAY NUMBER} or more drinks of any kind of alcoholic beverage almost every day?,ALQ_I,Alcohol Use,2015,2016,Questionnaire,None
+ALQ160,"During the past 30 days, how many times did {you/SP} drink {DISPLAY NUMBER} or more drinks of any kind of alcohol in about two hours?",ALQ_I,Alcohol Use,2015,2016,Questionnaire,None
+SEQN,Respondent sequence number.,ALQ_I,Alcohol Use,2015,2016,Questionnaire,None
+RHD043,What is the reason that {you have/SP has} not had a period in the past 12 months?,RHQ_I_R,Reproductive Health - Pregnant Women,2015,2016,Questionnaire,RDC Only
+RHD143,{Are you/Is SP} pregnant now?,RHQ_I_R,Reproductive Health - Pregnant Women,2015,2016,Questionnaire,RDC Only
+RHD280,"{Have you/Has SP} had a hysterectomy that is, surgery to remove {your/her} uterus or womb?",RHQ_I_R,Reproductive Health - Pregnant Women,2015,2016,Questionnaire,RDC Only
+RHQ010,The next series of questions are about {your/SP's} reproductive history.  I will begin by asking about {your/SP's} periods or menstrual cycles.  How old {were you/was SP} when {you/SP} had {your/her} first menstrual period?,RHQ_I_R,Reproductive Health - Pregnant Women,2015,2016,Questionnaire,RDC Only
+RHQ020,{Were you/Was SP}...,RHQ_I_R,Reproductive Health - Pregnant Women,2015,2016,Questionnaire,RDC Only
+RHQ031,"{Have you/Has SP} had at least one menstrual period in the past 12 months? (Please do not include bleedings caused by medical conditions, hormone therapy, or surgeries.)",RHQ_I_R,Reproductive Health - Pregnant Women,2015,2016,Questionnaire,RDC Only
+RHQ060,About how old {were you/was SP} when {you/SP} had {your/her} last menstrual period?,RHQ_I_R,Reproductive Health - Pregnant Women,2015,2016,Questionnaire,RDC Only
+RHQ070,{Were you/Was SP}...,RHQ_I_R,Reproductive Health - Pregnant Women,2015,2016,Questionnaire,RDC Only
+RHQ074,The next questions are about {your/SP's} pregnancy history. {Have you/Has SP} ever attempted to become pregnant over a period of at least a year without becoming pregnant?,RHQ_I_R,Reproductive Health - Pregnant Women,2015,2016,Questionnaire,RDC Only
+RHQ076,{Have you/Has SP} ever been to a doctor or other medical provider because {you have/she has} been unable to become pregnant?,RHQ_I_R,Reproductive Health - Pregnant Women,2015,2016,Questionnaire,RDC Only
+RHQ078,"{Have you/Has SP} ever been treated for an infection in {your/her} fallopian tubes, uterus or ovaries, also called a pelvic infection, pelvic inflammatory disease, or PID?",RHQ_I_R,Reproductive Health - Pregnant Women,2015,2016,Questionnaire,RDC Only
+RHQ131,"The next questions are about {your/SP's} pregnancy history. {Have you/Has SP ever been pregnant? Please include (current pregnancy,) live births, miscarriages, stillbirths, tubal pregnancies and abortions.",RHQ_I_R,Reproductive Health - Pregnant Women,2015,2016,Questionnaire,RDC Only
+RHQ160,"How many times {have you/has SP} been pregnant?  ({Again, be/Be} sure to count all {your/her} pregnancies including (current pregnancy,) live births, miscarriages, stillbirths, tubal pregnancies or abortions.)",RHQ_I_R,Reproductive Health - Pregnant Women,2015,2016,Questionnaire,RDC Only
+RHQ162,"During {any/your/SP's} pregnancy, {were you/was SP} ever told by a doctor or other health professional that {you/she} had diabetes, sugar diabetes or gestational diabetes?  Please do not include diabetes that {you/SP} may have known about before the pregnancy.",RHQ_I_R,Reproductive Health - Pregnant Women,2015,2016,Questionnaire,RDC Only
+RHQ163,How old {were you/was SP} when {you were/she was} first told {you/she} had diabetes during a pregnancy?,RHQ_I_R,Reproductive Health - Pregnant Women,2015,2016,Questionnaire,RDC Only
+RHQ166,How many vaginal deliveries {have you/has SP} had?  {Please count stillbirths as well as live births},RHQ_I_R,Reproductive Health - Pregnant Women,2015,2016,Questionnaire,RDC Only
+RHQ169,How many cesarean deliveries {have you/has SP} had?  (Cesarean deliveries are also known as C-sections.)  (Please count stillbirths as well as live births.),RHQ_I_R,Reproductive Health - Pregnant Women,2015,2016,Questionnaire,RDC Only
+RHQ171,How many of {your/her} deliveries resulted {Did {your/her} delivery result} in a live birth?,RHQ_I_R,Reproductive Health - Pregnant Women,2015,2016,Questionnaire,RDC Only
+RHQ172,{Did {your/SP's} delivery/Did any of {your/SP's} deliveries} result in a baby that weighed 9 pounds (4082 g) or more at birth?  (Please count stillbirths as well as live births.),RHQ_I_R,Reproductive Health - Pregnant Women,2015,2016,Questionnaire,RDC Only
+RHQ173,How old {were you/was SP} when {you/she} delivered a baby that weighed 9 pounds or more?  (Please count stillbirths as well as live births.),RHQ_I_R,Reproductive Health - Pregnant Women,2015,2016,Questionnaire,RDC Only
+RHQ180,How old {were you/was SP} at the time of {your/her} first live birth?,RHQ_I_R,Reproductive Health - Pregnant Women,2015,2016,Questionnaire,RDC Only
+RHQ190,How old {were you/was SP} at the time of {your/her} last live birth?,RHQ_I_R,Reproductive Health - Pregnant Women,2015,2016,Questionnaire,RDC Only
+RHQ197,How many months ago did {you/SP} have {your/her} baby?,RHQ_I_R,Reproductive Health - Pregnant Women,2015,2016,Questionnaire,RDC Only
+RHQ200,{Are you/Is SP} now breast feeding a child?,RHQ_I_R,Reproductive Health - Pregnant Women,2015,2016,Questionnaire,RDC Only
+RHQ291,How old {were you/was SP} when {you/she} had {your/her} (hysterectomy/uterus removed/womb removed)?,RHQ_I_R,Reproductive Health - Pregnant Women,2015,2016,Questionnaire,RDC Only
+RHQ305,{Have you/Has SP} had both of {your/her} ovaries removed (either when {you/she} had {your/her} uterus removed or at another time)?,RHQ_I_R,Reproductive Health - Pregnant Women,2015,2016,Questionnaire,RDC Only
+RHQ332,How old {were you/was SP} when {you/she} had {your/her} ovaries removed or last ovary removed if removed at different times?,RHQ_I_R,Reproductive Health - Pregnant Women,2015,2016,Questionnaire,RDC Only
+RHQ420,Now I am going to ask you about {your/SP's} birth control history.  {Have you/Has SP} ever taken birth control pills for any reason?,RHQ_I_R,Reproductive Health - Pregnant Women,2015,2016,Questionnaire,RDC Only
+RHQ540,"{Have you/Has SP} ever used female hormones such as estrogen and progesterone?  Please include any forms of female hormones, such as pills, cream, patch, and injectables, but do not include birth control methods or use for infertility.",RHQ_I_R,Reproductive Health - Pregnant Women,2015,2016,Questionnaire,RDC Only
+RHQ542A,Which forms of female hormones {have you/has SP} used.,RHQ_I_R,Reproductive Health - Pregnant Women,2015,2016,Questionnaire,RDC Only
+RHQ542B,Which forms of female hormones {have you/has SP} used.,RHQ_I_R,Reproductive Health - Pregnant Women,2015,2016,Questionnaire,RDC Only
+RHQ542C,Which forms of female hormones {have you/has SP} used.,RHQ_I_R,Reproductive Health - Pregnant Women,2015,2016,Questionnaire,RDC Only
+RHQ542D,Which forms of female hormones {have you/has SP} used.,RHQ_I_R,Reproductive Health - Pregnant Women,2015,2016,Questionnaire,RDC Only
+RHQ554,{Have you/Has SP} ever taken female hormone pills containing estrogen only (like Premarin)? (Do not include birth control pills.),RHQ_I_R,Reproductive Health - Pregnant Women,2015,2016,Questionnaire,RDC Only
+RHQ560Q,"Not counting any time when {you/SP} stopped taking them, for how long altogether {have you taken/did you take/has she taken/did she take} pills containing estrogen only?",RHQ_I_R,Reproductive Health - Pregnant Women,2015,2016,Questionnaire,RDC Only
+RHQ560U,UNIT OF MEASURE.,RHQ_I_R,Reproductive Health - Pregnant Women,2015,2016,Questionnaire,RDC Only
+RHQ570,"{Have you/Has SP} taken female hormone pills containing both estrogen and progestin (like Prempro, Premphase)? (Do not include birth control pills.)",RHQ_I_R,Reproductive Health - Pregnant Women,2015,2016,Questionnaire,RDC Only
+RHQ576Q,"Not counting any time when {you/SP} stopped taking them, for how long altogether {{have you/has SP} taken/did {you/SP} take} pills containing both estrogen and progestin?",RHQ_I_R,Reproductive Health - Pregnant Women,2015,2016,Questionnaire,RDC Only
+RHQ576U,UNIT OF MEASURE.,RHQ_I_R,Reproductive Health - Pregnant Women,2015,2016,Questionnaire,RDC Only
+RHQ580,{Have you/Has SP} ever used female hormone patches containing estrogen only?,RHQ_I_R,Reproductive Health - Pregnant Women,2015,2016,Questionnaire,RDC Only
+RHQ586Q,"Not counting any time when {you/SP} stopped taking them, for how long altogether {have you used/did you use/has she used/did she use} patches containing estrogen only?",RHQ_I_R,Reproductive Health - Pregnant Women,2015,2016,Questionnaire,RDC Only
+RHQ586U,UNIT OF MEASURE.,RHQ_I_R,Reproductive Health - Pregnant Women,2015,2016,Questionnaire,RDC Only
+RHQ596,{Have you/Has SP} used female hormone patches containing both estrogen and progestin?,RHQ_I_R,Reproductive Health - Pregnant Women,2015,2016,Questionnaire,RDC Only
+RHQ602Q,"Not counting any time when {you/SP} stopped taking them, for how long altogether {have you used/did you use/has she used/did she use} patches containing both estrogen and progestin?",RHQ_I_R,Reproductive Health - Pregnant Women,2015,2016,Questionnaire,RDC Only
+RHQ602U,UNIT OF MEASURE.,RHQ_I_R,Reproductive Health - Pregnant Women,2015,2016,Questionnaire,RDC Only
+SEQN,Respondent sequence number.,RHQ_I_R,Reproductive Health - Pregnant Women,2015,2016,Questionnaire,RDC Only
+DUQ200,"The following questions ask about use of drugs not prescribed by a doctor. Please remember that your answers to these questions are strictly confidential. The first questions are about marijuana and hashish. Marijuana is also called pot or grass. Marijuana is usually smoked, either in cigarettes, called joints, or in a pipe. It is sometimes cooked in food. Hashish is a form of marijuana that is also called 'hash.' It is usually smoked in a pipe. Another form of hashish is hash oil. Have you ever, even once, used marijuana or hashish?",DUQ_I,Drug Use,2015,2016,Questionnaire,None
+DUQ210,How old were you the first time you used marijuana or hashish?,DUQ_I,Drug Use,2015,2016,Questionnaire,None
+DUQ211,Have you ever smoked marijuana or hashish at least once a month for more than one year?,DUQ_I,Drug Use,2015,2016,Questionnaire,None
+DUQ213,How old were you when you started smoking marijuana or hashish at least once a month for one year?,DUQ_I,Drug Use,2015,2016,Questionnaire,None
+DUQ215Q,How long has it been since you last smoked marijuana or hashish at least once a month for one year?,DUQ_I,Drug Use,2015,2016,Questionnaire,None
+DUQ215U,How long has it been since you last smoked marijuana or hashish at least once a month for one year?,DUQ_I,Drug Use,2015,2016,Questionnaire,None
+DUQ217,"During the time that you smoked marijuana or hashish, how often would you usually use it?",DUQ_I,Drug Use,2015,2016,Questionnaire,None
+DUQ219,"During the time that you smoked marijuana or hashish, how many joints or pipes would you usually smoke in a day?",DUQ_I,Drug Use,2015,2016,Questionnaire,None
+DUQ220Q,How long has it been since you last used marijuana or hashish?,DUQ_I,Drug Use,2015,2016,Questionnaire,None
+DUQ220U,How long has it been since you last used marijuana or hashish?,DUQ_I,Drug Use,2015,2016,Questionnaire,None
+DUQ230,"During the past 30 days, on how many days did you use marijuana or hashish?",DUQ_I,Drug Use,2015,2016,Questionnaire,None
+DUQ240,"Have you ever used cocaine, crack cocaine, heroin, or methamphetamine?",DUQ_I,Drug Use,2015,2016,Questionnaire,None
+DUQ250,"The following questions are about cocaine, including all the different forms of cocaine such as powder, 'crack', 'free base', and coca paste.  Have you ever, even once, used cocaine, in any form?",DUQ_I,Drug Use,2015,2016,Questionnaire,None
+DUQ260,"How old were you the first time you used cocaine, in any form?",DUQ_I,Drug Use,2015,2016,Questionnaire,None
+DUQ270Q,"How long has it been since you last used cocaine, in any form?",DUQ_I,Drug Use,2015,2016,Questionnaire,None
+DUQ270U,"How long has it been since you last used cocaine, in any form?",DUQ_I,Drug Use,2015,2016,Questionnaire,None
+DUQ272,"During your life, altogether how many times have you used cocaine, in any form?",DUQ_I,Drug Use,2015,2016,Questionnaire,None
+DUQ280,"During the past 30 days, on how many days did you use cocaine, in any form?",DUQ_I,Drug Use,2015,2016,Questionnaire,None
+DUQ290,"The following questions are about heroin.  Have you ever, even once, used heroin?",DUQ_I,Drug Use,2015,2016,Questionnaire,None
+DUQ300,How old were you the first time you used heroin?,DUQ_I,Drug Use,2015,2016,Questionnaire,None
+DUQ310Q,How long has it been since you last used heroin?,DUQ_I,Drug Use,2015,2016,Questionnaire,None
+DUQ310U,How long has it been since you last used heroin?,DUQ_I,Drug Use,2015,2016,Questionnaire,None
+DUQ320,"During the past 30 days, on how many days did you use heroin?",DUQ_I,Drug Use,2015,2016,Questionnaire,None
+DUQ330,"The following questions are about methamphetamine, also known as crank, crystal, ice or speed.  Have you ever, even once, used methamphetamine?",DUQ_I,Drug Use,2015,2016,Questionnaire,None
+DUQ340,How old were you the first time you used methamphetamine?,DUQ_I,Drug Use,2015,2016,Questionnaire,None
+DUQ350Q,How long has it been since you last used methamphetamine?,DUQ_I,Drug Use,2015,2016,Questionnaire,None
+DUQ350U,How long has it been since you last used methamphetamine?,DUQ_I,Drug Use,2015,2016,Questionnaire,None
+DUQ352,"During your life, altogether how many times have you used methamphetamine?",DUQ_I,Drug Use,2015,2016,Questionnaire,None
+DUQ360,"During the past 30 days, on how many days did you use methamphetamine?",DUQ_I,Drug Use,2015,2016,Questionnaire,None
+DUQ370,"The following questions are about the different ways that certain drugs can be used.  Have you ever, even once, used a needle to inject a drug not prescribed by a doctor?",DUQ_I,Drug Use,2015,2016,Questionnaire,None
+DUQ380A,Which of the following drugs have you injected using a needle?,DUQ_I,Drug Use,2015,2016,Questionnaire,None
+DUQ380B,Which of the following drugs have you injected using a needle?,DUQ_I,Drug Use,2015,2016,Questionnaire,None
+DUQ380C,Which of the following drugs have you injected using a needle?,DUQ_I,Drug Use,2015,2016,Questionnaire,None
+DUQ380D,Which of the following drugs have you injected using a needle?,DUQ_I,Drug Use,2015,2016,Questionnaire,None
+DUQ380E,Which of the following drugs have you injected using a needle?,DUQ_I,Drug Use,2015,2016,Questionnaire,None
+DUQ390,How old were you when you first used a needle to inject any drug not prescribed by a doctor?,DUQ_I,Drug Use,2015,2016,Questionnaire,None
+DUQ400Q,How long ago has it been since you last used a needle to inject a drug not prescribed by a doctor?,DUQ_I,Drug Use,2015,2016,Questionnaire,None
+DUQ400U,How long ago has it been since you last used a needle to inject a drug not prescribed by a doctor?,DUQ_I,Drug Use,2015,2016,Questionnaire,None
+DUQ410,"During your life, altogether how many times have you injected drugs not prescribed by a doctor?",DUQ_I,Drug Use,2015,2016,Questionnaire,None
+DUQ420,Think about the period of your life when you injected drugs the most often.  How often did you inject then?,DUQ_I,Drug Use,2015,2016,Questionnaire,None
+DUQ430,Have you ever been in a drug treatment or drug rehabilitation program?,DUQ_I,Drug Use,2015,2016,Questionnaire,None
+SEQN,Respondent sequence number.,DUQ_I,Drug Use,2015,2016,Questionnaire,None
+DUQ200,"The following questions ask about use of drugs not prescribed by a doctor. Please remember that your answers to these questions are strictly confidential. The first questions are about marijuana and hashish. Marijuana is also called pot or grass. Marijuana is usually smoked, either in cigarettes, called joints, or in a pipe. It is sometimes cooked in food. Hashish is a form of marijuana that is also called 'hash.' It is usually smoked in a pipe. Another form of hashish is hash oil. Have you ever, even once, used marijuana or hashish?",DUQY_I_R,Drug Use - Youth,2015,2016,Questionnaire,RDC Only
+DUQ210,How old were you the first time you used marijuana or hashish?,DUQY_I_R,Drug Use - Youth,2015,2016,Questionnaire,RDC Only
+DUQ211,Have you ever smoked marijuana or hashish at least once a month for more than one year?,DUQY_I_R,Drug Use - Youth,2015,2016,Questionnaire,RDC Only
+DUQ213,How old were you when you started smoking marijuana or hashish at least once a month for one year?,DUQY_I_R,Drug Use - Youth,2015,2016,Questionnaire,RDC Only
+DUQ215Q,How long has it been since you last smoked marijuana or hashish at least once a month for one year?,DUQY_I_R,Drug Use - Youth,2015,2016,Questionnaire,RDC Only
+DUQ215U,How long has it been since you last smoked marijuana or hashish at least once a month for one year?,DUQY_I_R,Drug Use - Youth,2015,2016,Questionnaire,RDC Only
+DUQ217,"During the time that you smoked marijuana or hashish, how often would you usually use it?",DUQY_I_R,Drug Use - Youth,2015,2016,Questionnaire,RDC Only
+DUQ219,"During the time that you smoked marijuana or hashish, how many joints or pipes would you usually smoke in a day?",DUQY_I_R,Drug Use - Youth,2015,2016,Questionnaire,RDC Only
+DUQ220Q,How long has it been since you last used marijuana or hashish?,DUQY_I_R,Drug Use - Youth,2015,2016,Questionnaire,RDC Only
+DUQ220U,How long has it been since you last used marijuana or hashish?,DUQY_I_R,Drug Use - Youth,2015,2016,Questionnaire,RDC Only
+DUQ230,"During the past 30 days, on how many days did you use marijuana or hashish?",DUQY_I_R,Drug Use - Youth,2015,2016,Questionnaire,RDC Only
+DUQ240,"Have you ever used cocaine, crack cocaine, heroin, or methamphetamine?",DUQY_I_R,Drug Use - Youth,2015,2016,Questionnaire,RDC Only
+DUQ250,"The following questions are about cocaine, including all the different forms of cocaine such as powder, 'crack', 'free base', and coca paste.  Have you ever, even once, used cocaine, in any form?",DUQY_I_R,Drug Use - Youth,2015,2016,Questionnaire,RDC Only
+DUQ260,"How old were you the first time you used cocaine, in any form?",DUQY_I_R,Drug Use - Youth,2015,2016,Questionnaire,RDC Only
+DUQ270Q,"How long has it been since you last used cocaine, in any form?",DUQY_I_R,Drug Use - Youth,2015,2016,Questionnaire,RDC Only
+DUQ270U,"How long has it been since you last used cocaine, in any form?",DUQY_I_R,Drug Use - Youth,2015,2016,Questionnaire,RDC Only
+DUQ272,"During your life, altogether how many times have you used cocaine, in any form?",DUQY_I_R,Drug Use - Youth,2015,2016,Questionnaire,RDC Only
+DUQ280,"During the past 30 days, on how many days did you use cocaine, in any form?",DUQY_I_R,Drug Use - Youth,2015,2016,Questionnaire,RDC Only
+DUQ290,"The following questions are about heroin.  Have you ever, even once, used heroin?",DUQY_I_R,Drug Use - Youth,2015,2016,Questionnaire,RDC Only
+DUQ300,How old were you the first time you used heroin?,DUQY_I_R,Drug Use - Youth,2015,2016,Questionnaire,RDC Only
+DUQ310Q,How long has it been since you last used heroin?,DUQY_I_R,Drug Use - Youth,2015,2016,Questionnaire,RDC Only
+DUQ310U,How long has it been since you last used heroin?,DUQY_I_R,Drug Use - Youth,2015,2016,Questionnaire,RDC Only
+DUQ320,"During the past 30 days, on how many days did you use heroin?",DUQY_I_R,Drug Use - Youth,2015,2016,Questionnaire,RDC Only
+DUQ330,"The following questions are about methamphetamine, also known as crank, crystal, ice or speed.  Have you ever, even once, used methamphetamine?",DUQY_I_R,Drug Use - Youth,2015,2016,Questionnaire,RDC Only
+DUQ340,How old were you the first time you used methamphetamine?,DUQY_I_R,Drug Use - Youth,2015,2016,Questionnaire,RDC Only
+DUQ350Q,How long has it been since you last used methamphetamine?,DUQY_I_R,Drug Use - Youth,2015,2016,Questionnaire,RDC Only
+DUQ350U,How long has it been since you last used methamphetamine?,DUQY_I_R,Drug Use - Youth,2015,2016,Questionnaire,RDC Only
+DUQ352,"During your life, altogether how many times have you used methamphetamine?",DUQY_I_R,Drug Use - Youth,2015,2016,Questionnaire,RDC Only
+DUQ360,"During the past 30 days, on how many days did you use methamphetamine?",DUQY_I_R,Drug Use - Youth,2015,2016,Questionnaire,RDC Only
+DUQ370,"The following questions are about the different ways that certain drugs can be used.  Have you ever, even once, used a needle to inject a drug not prescribed by a doctor?",DUQY_I_R,Drug Use - Youth,2015,2016,Questionnaire,RDC Only
+DUQ380A,Which of the following drugs have you injected using a needle?,DUQY_I_R,Drug Use - Youth,2015,2016,Questionnaire,RDC Only
+DUQ380B,Which of the following drugs have you injected using a needle?,DUQY_I_R,Drug Use - Youth,2015,2016,Questionnaire,RDC Only
+DUQ380C,Which of the following drugs have you injected using a needle?,DUQY_I_R,Drug Use - Youth,2015,2016,Questionnaire,RDC Only
+DUQ380D,Which of the following drugs have you injected using a needle?,DUQY_I_R,Drug Use - Youth,2015,2016,Questionnaire,RDC Only
+DUQ380E,Which of the following drugs have you injected using a needle?,DUQY_I_R,Drug Use - Youth,2015,2016,Questionnaire,RDC Only
+DUQ390,How old were you when you first used a needle to inject any drug not prescribed by a doctor?,DUQY_I_R,Drug Use - Youth,2015,2016,Questionnaire,RDC Only
+DUQ400Q,How long ago has it been since you last used a needle to inject a drug not prescribed by a doctor?,DUQY_I_R,Drug Use - Youth,2015,2016,Questionnaire,RDC Only
+DUQ400U,How long ago has it been since you last used a needle to inject a drug not prescribed by a doctor?,DUQY_I_R,Drug Use - Youth,2015,2016,Questionnaire,RDC Only
+DUQ410,"During your life, altogether how many times have you injected drugs not prescribed by a doctor?",DUQY_I_R,Drug Use - Youth,2015,2016,Questionnaire,RDC Only
+DUQ420,Think about the period of your life when you injected drugs the most often.  How often did you inject then?,DUQY_I_R,Drug Use - Youth,2015,2016,Questionnaire,RDC Only
+DUQ430,Have you ever been in a drug treatment or drug rehabilitation program?,DUQY_I_R,Drug Use - Youth,2015,2016,Questionnaire,RDC Only
+SEQN,Respondent sequence number.,DUQY_I_R,Drug Use - Youth,2015,2016,Questionnaire,RDC Only
+CBD071,"The next questions are about how much money {your family spends/you spend} on food. First I'll ask you about money spent at supermarkets or grocery stores. Then we will talk about money spent at other types of stores. When you answer these questions, please do not include money spent on alcoholic beverages. During the past 30 days, how much money {did your family/did you} spend at supermarkets or grocery stores? Please include purchases made with food stamps. (You can tell me per week or per month.)",CBQ_I,Consumer Behavior,2015,2016,Questionnaire,None
+CBD091,About how much money was spent on nonfood items? (You can tell me per week or per month.),CBQ_I,Consumer Behavior,2015,2016,Questionnaire,None
+CBD111,About how much money {did your family/did you} spend on food at these types of stores? Please do not include money you have already told me about. (You can tell me per week or per month.),CBQ_I,Consumer Behavior,2015,2016,Questionnaire,None
+CBD121,"During the past 30 days, how much money {did your family/did you} spend on eating out? Please include money spent in cafeterias at work or at school or on vending machines, for all family members. (You can tell me per week or per month.)",CBQ_I,Consumer Behavior,2015,2016,Questionnaire,None
+CBD131,"During the past 30 days, how much money {did your family/did you} spend on food carried out or delivered? Please do not include money you have already told me about. (You can tell me per week or per month.)",CBQ_I,Consumer Behavior,2015,2016,Questionnaire,None
+SEQN,Respondent sequence number.,CBQ_I,Consumer Behavior,2015,2016,Questionnaire,None
+CBQ505,"{I'll tell you when you will need it.} For the first few questions, please answer yes or no. In the past 12 months, did you buy food from fast food or pizza places? SP interview version: In the past 12 months, did {you/SP} buy food from fast food or pizza places?",DBQ_I,Diet Behavior & Nutrition,2015,2016,Questionnaire,None
+CBQ535,"The last time when you ate out or bought food at a fast-food or pizza place, did you see nutrition or health information about any foods on the menu? SP interview version: The last time when {you/SP} ate out or bought food at a fast-food or pizza place, did {you/he/she} see nutrition or health information about any foods on the menu?",DBQ_I,Diet Behavior & Nutrition,2015,2016,Questionnaire,None
+CBQ540,Did you use the information in deciding which foods to buy? SP interview version: Did {you/SP} use the information in deciding which foods to buy?,DBQ_I,Diet Behavior & Nutrition,2015,2016,Questionnaire,None
+CBQ545,"{Please open your hand card booklet and turn to hand card 1 to answer the next question.} If nutrition or health information were readily available in fast food or pizza places, would you use it often, sometimes, rarely, or never, in deciding what to order? SP interview version: If nutrition or health information were readily available in fast food or pizza places, would {you/SP} use it often, sometimes, rarely, or never, in deciding what to order?",DBQ_I,Diet Behavior & Nutrition,2015,2016,Questionnaire,None
+CBQ550,"[For the following questions, please answer yes or no.] In the past 12 months, did you eat at a restaurant with waiter or waitress service? SP interview version: In the past 12 months, did {you/SP} eat at a restaurant with waiter or waitress service?",DBQ_I,Diet Behavior & Nutrition,2015,2016,Questionnaire,None
+CBQ552,Think about the last time {you/SP} ate at a restaurant with a waiter or waitress. Is it a chain-restaurant?,DBQ_I,Diet Behavior & Nutrition,2015,2016,Questionnaire,None
+CBQ580,"The last time you ate at a restaurant with a waiter or waitress, did you see nutrition or health information about any foods on the menu? SP interview version: Did {you/SP} see nutrition or health information about any foods on the menu?",DBQ_I,Diet Behavior & Nutrition,2015,2016,Questionnaire,None
+CBQ585,Did you use the information in deciding which foods to buy? SP interview version: Did {you/SP} use the information in deciding which foods to buy?,DBQ_I,Diet Behavior & Nutrition,2015,2016,Questionnaire,None
+CBQ590,"{Please look at hand card 1 [again].} If nutrition information were readily available in restaurants with a waiter or waitress, would you use it often, sometimes, rarely, or never, in deciding what to order? SP interview version: If nutrition or health information were readily available in restaurants with a waiter or waitress, would {you/SP} use it often, sometimes, rarely, or never, in deciding what to order?",DBQ_I,Diet Behavior & Nutrition,2015,2016,Questionnaire,None
+CBQ596,Next I'm going to ask a few questions about the nutritional guidelines recommended for Americans by the federal government.  {Have you/Has SP} heard of My Plate?,DBQ_I,Diet Behavior & Nutrition,2015,2016,Questionnaire,None
+CBQ606,{Have you/Has SP} looked up the My Plate plan on the internet?,DBQ_I,Diet Behavior & Nutrition,2015,2016,Questionnaire,None
+CBQ611,{Have you/Has SP} tried to follow the recommendations in the My Plate plan?,DBQ_I,Diet Behavior & Nutrition,2015,2016,Questionnaire,None
+DBD030,How old was {SP} when {he/she} completely stopped breastfeeding or being fed breastmilk?,DBQ_I,Diet Behavior & Nutrition,2015,2016,Questionnaire,None
+DBD041,How old was {SP} when {he/she} was first fed formula?,DBQ_I,Diet Behavior & Nutrition,2015,2016,Questionnaire,None
+DBD050,How old was {SP} when {he/she} completely stopped drinking formula?,DBQ_I,Diet Behavior & Nutrition,2015,2016,Questionnaire,None
+DBD055,"This next question is about the first thing that {SP} was given other than breast milk or formula.  Please include juice, cow's milk, sugar water, baby food, or anything else that {SP} might have been given, even water.  How old was {SP} when {he/she} was first fed anything other than breast milk or formula? (Days)",DBQ_I,Diet Behavior & Nutrition,2015,2016,Questionnaire,None
+DBD061,How old was {SP} when {he/she} was first fed milk?,DBQ_I,Diet Behavior & Nutrition,2015,2016,Questionnaire,None
+DBD381,"During the school year, about how many times a week {do you/does SP} usually get a complete school lunch?",DBQ_I,Diet Behavior & Nutrition,2015,2016,Questionnaire,None
+DBD411,"During the school year, about how many times a week {do you/does SP} usually get a complete breakfast at school?",DBQ_I,Diet Behavior & Nutrition,2015,2016,Questionnaire,None
+DBD895,"Next I'm going to ask you about meals.  By meal, I mean breakfast, lunch and dinner.  During the past 7 days, how many meals {did you/did SP} get that were prepared away from home in places such as restaurants, fast food places, food stands, grocery stores, or from vending machines?  {Please do not include meals provided as part of the school lunch or school breakfast./Please do not include meals provided as part of the community programs you reported earlier.}",DBQ_I,Diet Behavior & Nutrition,2015,2016,Questionnaire,None
+DBD900,How many of those meals {did you/did SP} get from a fast-food or pizza place?,DBQ_I,Diet Behavior & Nutrition,2015,2016,Questionnaire,None
+DBD905,"Some grocery stores sell ""ready to eat"" foods such as salads, soups, chicken, sandwiches and cooked vegetables in their salad bars and deli counters.  During the past 30 days, how often did {you/SP} eat ""ready to eat"" foods from the grocery store?  Please do not include sliced meat or cheese you buy for sandwiches and frozen or canned foods.",DBQ_I,Diet Behavior & Nutrition,2015,2016,Questionnaire,None
+DBD910,"During the past 30 days, how often did you {SP} eat frozen meals or frozen pizzas?  Here are some examples of frozen meals and frozen pizzas.",DBQ_I,Diet Behavior & Nutrition,2015,2016,Questionnaire,None
+DBQ010,Now I'm going to ask you some general questions about {SP's} eating habits.  Was {SP} ever breastfed or fed breastmilk?,DBQ_I,Diet Behavior & Nutrition,2015,2016,Questionnaire,None
+DBQ073A,What type of milk was {SP} first fed?  Was it . . .,DBQ_I,Diet Behavior & Nutrition,2015,2016,Questionnaire,None
+DBQ073B,What type of milk was {SP} first fed?  Was it . . .,DBQ_I,Diet Behavior & Nutrition,2015,2016,Questionnaire,None
+DBQ073C,What type of milk was {SP} first fed?  Was it . . .,DBQ_I,Diet Behavior & Nutrition,2015,2016,Questionnaire,None
+DBQ073D,What type of milk was {SP} first fed?  Was it . . .,DBQ_I,Diet Behavior & Nutrition,2015,2016,Questionnaire,None
+DBQ073E,What type of milk was {SP} first fed? Was it . . .,DBQ_I,Diet Behavior & Nutrition,2015,2016,Questionnaire,None
+DBQ073U,What type of milk was {SP} first fed?  Was it . . .,DBQ_I,Diet Behavior & Nutrition,2015,2016,Questionnaire,None
+DBQ197,"Now I'm going to ask a few questions about milk products.  Do not include their use in cooking.  In the past 30 days, how often did {you/SP} have milk to drink or on {your/his/her} cereal?  Please include chocolate and other flavored milks as well as hot cocoa made with milk.  Do not count small amounts of milk added to coffee or tea.  Would you say...",DBQ_I,Diet Behavior & Nutrition,2015,2016,Questionnaire,None
+DBQ223A,What type of milk was it?  Was it usually . . .,DBQ_I,Diet Behavior & Nutrition,2015,2016,Questionnaire,None
+DBQ223B,What type of milk was it?  Was it usually . . .,DBQ_I,Diet Behavior & Nutrition,2015,2016,Questionnaire,None
+DBQ223C,What type of milk was it?  Was it usually . . .,DBQ_I,Diet Behavior & Nutrition,2015,2016,Questionnaire,None
+DBQ223D,What type of milk was it?  Was it usually . . .,DBQ_I,Diet Behavior & Nutrition,2015,2016,Questionnaire,None
+DBQ223E,What type of milk was it? Was it usually . . .,DBQ_I,Diet Behavior & Nutrition,2015,2016,Questionnaire,None
+DBQ223U,What type of milk was it?  Was it usually . . .,DBQ_I,Diet Behavior & Nutrition,2015,2016,Questionnaire,None
+DBQ229,"The next question is about regular milk use.  A regular milk drinker is someone who uses any type of milk at least 5 times a week.  Using this definition, which statement best describes {you/SP}?...",DBQ_I,Diet Behavior & Nutrition,2015,2016,Questionnaire,None
+DBQ235A,"Now, I'm going to ask you how often {you/SP} drank milk at different times in {your/his/her} life.  How often did {you/SP} drink any type of milk, including milk added to cereal when {you were/s/he was} a child between the ages of 5 and 12 years old?  Would you say...",DBQ_I,Diet Behavior & Nutrition,2015,2016,Questionnaire,None
+DBQ235B,"Now, I'm going to ask you how often {you/SP} drank milk at different times in {your/his/her} life.  How often did {you/SP} drink any type of milk, including milk added to cereal when {you were/s/he was} a teenager between the ages of 13 and 17 years old?  Would you say...",DBQ_I,Diet Behavior & Nutrition,2015,2016,Questionnaire,None
+DBQ235C,"Now, I'm going to ask you how often {you/SP} drank milk at different times in {your/his/her} life.  How often did {you/SP} drink any type of milk, including milk added to cereal when {you were/s/he was} a young adult between the ages of 18 and 35 years old?  Would you say...",DBQ_I,Diet Behavior & Nutrition,2015,2016,Questionnaire,None
+DBQ301,"The next questions are about meals provided by community or government programs.  In the past 12 months, did {you/SP} receive any meals delivered to {your/his/her} home from community programs, ""Meals on Wheels"", or any other programs?",DBQ_I,Diet Behavior & Nutrition,2015,2016,Questionnaire,None
+DBQ330,"In the past 12 months, did {you/SP} go to a community program or senior center to eat prepared meals?",DBQ_I,Diet Behavior & Nutrition,2015,2016,Questionnaire,None
+DBQ360,"During the school year, {do you/does SP} attend a kindergarten, grade school, junior or high school?",DBQ_I,Diet Behavior & Nutrition,2015,2016,Questionnaire,None
+DBQ370,Does {your/SP's} school serve school lunches?  These are complete lunches that cost the same every day.,DBQ_I,Diet Behavior & Nutrition,2015,2016,Questionnaire,None
+DBQ390,"{Do you/Does SP} get these lunches free, at a reduced price, or {do you/does he/she} pay full price?",DBQ_I,Diet Behavior & Nutrition,2015,2016,Questionnaire,None
+DBQ400,Does {your/SP's} school serve a complete breakfast that costs the same every day?,DBQ_I,Diet Behavior & Nutrition,2015,2016,Questionnaire,None
+DBQ421,"{Do you/Does SP} get these breakfasts free, at a reduced price, or {do you/does he/she} pay full price?",DBQ_I,Diet Behavior & Nutrition,2015,2016,Questionnaire,None
+DBQ424,(Do you/Does SP) get a free or reduced price meal at any summer program (he/she) attends?,DBQ_I,Diet Behavior & Nutrition,2015,2016,Questionnaire,None
+DBQ700,"Next I have some questions about {your/SP?s} eating habits.  In general, how healthy is {your/his/her} overall diet?  Would you say . . .",DBQ_I,Diet Behavior & Nutrition,2015,2016,Questionnaire,None
+SEQN,Respondent sequence number.,DBQ_I,Diet Behavior & Nutrition,2015,2016,Questionnaire,None

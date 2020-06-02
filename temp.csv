@@ -1,0 +1,57 @@
+tab_name,table_name,table_desc,var_desc_ewas
+ALB_CR_I,ALB_CR_I,Albumin & Creatinine - Urine,biochemistry
+ALQ_I,ALQ_I,Alcohol Use,alcohol use
+AUQ_I,AUQ_I,Audiometry,audiometry
+CBC_I,CBC_I,Complete Blood Count with 5-Part Differential - Whole Blood,biochemistry
+CBQ_I,CBQ_I,Consumer Behavior,consumer behavior
+CRCO_I,CRCO_I,Chromium & Cobalt,heavy metals
+DLQ_I,DLQ_I,Disability,disability
+DR1IFF_I,DR1IFF_I,"Dietary Interview - Individual Foods, First Day",food component recall
+DR1TOT_I,DR1TOT_I,"Dietary Interview - Total Nutrient Intakes, First Day",food component recall
+DR2IFF_I,DR2IFF_I,"Dietary Interview - Individual Foods, Second Day",food component recall
+DR2TOT_I,DR2TOT_I,"Dietary Interview - Total Nutrient Intakes, Second Day",food component recall
+FLDEP_I,FLDEP_I,Fluoride - Plasma,heavy metals
+FLDEW_I,FLDEW_I,Fluoride - Water,heavy metals
+GLU_I,GLU_I,Plasma Fasting Glucose,biochemistry
+HEPC_I_R,HEPC_I_R,Hepatitis C: Confirmed Antibody (INNO-LIA) - 2016,viral infection
+HIV_I,HIV_I,HIV Antibody Test,viral infection
+HPVC_I_R,HPVC_I_R,Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas High-Risk - Youth,viral infection
+HPVSWC_I,HPVSWC_I,Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas High-Risk,viral infection
+IHGEM_I,I HGEM_I,"Blood mercury: inorganic, ethyl and methyl",heavy metals
+IMQ_I,IMQ_I,Immunization,immunization
+INQ_I,INQ_I,Income,demographics
+INS_I,INS_I,Insulin,biochemistry
+MCQ_I,MCQ_I,Medical Conditions,disease
+OCQ_I,OCQ_I,Occupation,occupation
+OGTT_I,OGTT_I,Oral Glucose Tolerance Test,biochemistry
+OHQ_I,OHQ_I,Oral Health,oral health
+OHXDEN_I,OHXDEN_I,Oral Health - Dentition,oral health
+PAQ_I,PAQ_I,Physical Activity,physical activity
+PBCD_I,PBCD_I,"Blood Lead, Cadmium, Total Mercury, Selenium, and Manganese",heavy metals
+PFAS_I,PFAS_I,Perfluoroalkyl and Polyfluoroalkyl,polyflourochemicals
+PFQ_I,PFQ_I,Physical Functioning,physical functioning
+PHTHTE_I,PHTHTE_I,Phthalates and Plasticizers Metabolites - Urine,phthalates
+RHQ_I,RHQ_I,Reproductive Health,reproductive health
+RHQ_I_R,RHQ_I_R,Reproductive Health - Pregnant Women,reproductive health
+SLQ_I,SLQ_I,Sleep Disorders,sleep
+SMQ_I,SMQ_I,Smoking - Cigarette Use,smoking behavior
+SSMHHT_I,SSMHHT_I,"Mono-2-ethyl-5-hydroxyhexyl terephthalate, mono-2-ethyl-5-carboxypentyl terephthalate, and monooxoisononyl phthalate - Urine (Surplus)",phthalates
+SXQ_I,SXQ_I,Sexual Behavior,sexual behavior
+TRIC_I_R,TRIC_I_R,Trichomonas - Urine - Youth,bacterial infection
+TRICH_I,TRICH_I,Trichomonas - Urine,bacterial infection
+TST_I,TST_I,Sex Steroid Hormone - Serum,hormone
+UADM_I,UADM_I,Aromatic Diamines - Urine,aromatic diamines
+UAS_I,UAS_I,Speciated Arsenics - Urine (Subsample),heavy metals
+UASS_I,UASS_I,Speciated Arsenics - Urine - Special Sample (Subsample),heavy metals
+UCFLOW_I,UCFLOW_I,Urine Flow Rate,urine flow
+UHG_I,UHG_I,Mercury - Urine,heavy metals
+UIO_I,UIO_I,Iodine - Urine,heavy metals
+UM_I,UM_I,Metals - Urine,heavy metals
+UMS_I,UMS_I,Metals - Urine - Special Sample (Subsample),heavy metals
+UTAS_I,UTAS_I,Arsenic - Total - Urine (Subsample),heavy metals
+UTASS_I,UTASS_I,Arsenic - Total - Urine - Special Sample (Subsample),heavy metals
+UVOC_I,UVOC_I,Volatile Organic Compound (VOC) Metabolites - Urine,volatile compounds
+UVOCS_I,UVOCS_I,Volatile Organic Compound (VOC) Metabolites - Urine - Special Sample,volatile compounds
+VOCWB_I,VOCWB_I,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,volatile compounds
+VOCWBS_I,VOCWBS_I,Volatile Organic Compounds and Trihalomethanes/MTBE – Blood – Special Sample,volatile compounds
+WHQ_I,WHQ_I,Weight History,body measures

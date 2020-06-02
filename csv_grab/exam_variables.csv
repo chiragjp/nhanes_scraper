@@ -1,0 +1,174 @@
+﻿Variable Name,Variable Description,Data File Name,Data File Description,Begin Year,EndYear,Component,Use Constraints
+BPAARM,Arm selected:,BPX_I,Blood Pressure,2015,2016,Examination,None
+BPACSZ,Cuff size (cm) (width X length),BPX_I,Blood Pressure,2015,2016,Examination,None
+BPAEN1,Enhancement used first reading,BPX_I,Blood Pressure,2015,2016,Examination,None
+BPAEN2,Enhancement used second reading,BPX_I,Blood Pressure,2015,2016,Examination,None
+BPAEN3,Enhancement used third reading,BPX_I,Blood Pressure,2015,2016,Examination,None
+BPAEN4,Enhancement used fourth reading,BPX_I,Blood Pressure,2015,2016,Examination,None
+BPXCHR,60 sec HR (30 sec HR * 2),BPX_I,Blood Pressure,2015,2016,Examination,None
+BPXDI1,Diastolic:  Blood pressure (first reading) mm Hg,BPX_I,Blood Pressure,2015,2016,Examination,None
+BPXDI2,Diastolic: Blood pressure (second reading) mm Hg,BPX_I,Blood Pressure,2015,2016,Examination,None
+BPXDI3,Diastolic: Blood pressure (third reading) mm Hg,BPX_I,Blood Pressure,2015,2016,Examination,None
+BPXDI4,Diastolic: Blood pressure (fourth reading if necessary) mm Hg,BPX_I,Blood Pressure,2015,2016,Examination,None
+BPXML1,MIL: maximum inflation levels (mm Hg),BPX_I,Blood Pressure,2015,2016,Examination,None
+BPXPLS,60 sec. pulse (30 sec. pulse * 2),BPX_I,Blood Pressure,2015,2016,Examination,None
+BPXPTY,Pulse type,BPX_I,Blood Pressure,2015,2016,Examination,None
+BPXPULS,Pulse regular or irregular?,BPX_I,Blood Pressure,2015,2016,Examination,None
+BPXSY1,Systolic:  Blood pressure (first reading) mm Hg,BPX_I,Blood Pressure,2015,2016,Examination,None
+BPXSY2,Systolic:  Blood pressure (second reading) mm Hg,BPX_I,Blood Pressure,2015,2016,Examination,None
+BPXSY3,Systolic:  Blood pressure (third reading) mm Hg,BPX_I,Blood Pressure,2015,2016,Examination,None
+BPXSY4,Systolic:  Blood pressure (fourth reading if necessary) mm Hg,BPX_I,Blood Pressure,2015,2016,Examination,None
+PEASCCT1,Blood Pressure Comment,BPX_I,Blood Pressure,2015,2016,Examination,None
+SEQN,Respondent sequence number.,BPX_I,Blood Pressure,2015,2016,Examination,None
+BMDAVSAD,Average Sagittal Abdominal Diameter (cm),BMX_I,Body Measures,2015,2016,Examination,None
+BMDBMIC,BMI Category - Children/Youth,BMX_I,Body Measures,2015,2016,Examination,None
+BMDSADCM,Sagittal Abdominal Diameter Comment,BMX_I,Body Measures,2015,2016,Examination,None
+BMDSTATS,Body Measures Component status Code,BMX_I,Body Measures,2015,2016,Examination,None
+BMIARMC,Arm Circumference Comment,BMX_I,Body Measures,2015,2016,Examination,None
+BMIARML,Upper Arm Length Comment,BMX_I,Body Measures,2015,2016,Examination,None
+BMIHEAD,Head Circumference Comment,BMX_I,Body Measures,2015,2016,Examination,None
+BMIHT,Standing Height Comment,BMX_I,Body Measures,2015,2016,Examination,None
+BMILEG,Upper Leg Length Comment,BMX_I,Body Measures,2015,2016,Examination,None
+BMIRECUM,Recumbent Length Comment,BMX_I,Body Measures,2015,2016,Examination,None
+BMIWAIST,Waist Circumference Comment,BMX_I,Body Measures,2015,2016,Examination,None
+BMIWT,Weight Comment,BMX_I,Body Measures,2015,2016,Examination,None
+BMXARMC,Arm Circumference (cm),BMX_I,Body Measures,2015,2016,Examination,None
+BMXARML,Upper Arm Length (cm),BMX_I,Body Measures,2015,2016,Examination,None
+BMXBMI,Body Mass Index (kg/m**2),BMX_I,Body Measures,2015,2016,Examination,None
+BMXHEAD,Head Circumference (cm),BMX_I,Body Measures,2015,2016,Examination,None
+BMXHT,Standing Height (cm),BMX_I,Body Measures,2015,2016,Examination,None
+BMXLEG,Upper Leg Length (cm),BMX_I,Body Measures,2015,2016,Examination,None
+BMXRECUM,Recumbent Length (cm),BMX_I,Body Measures,2015,2016,Examination,None
+BMXSAD1,Sagittal Abdominal Diameter 1st (cm),BMX_I,Body Measures,2015,2016,Examination,None
+BMXSAD2,Sagittal Abdominal Diameter 2nd (cm),BMX_I,Body Measures,2015,2016,Examination,None
+BMXSAD3,Sagittal Abdominal Diameter 3rd (cm),BMX_I,Body Measures,2015,2016,Examination,None
+BMXSAD4,Sagittal Abdominal Diameter 4th (cm),BMX_I,Body Measures,2015,2016,Examination,None
+BMXWAIST,Waist Circumference (cm),BMX_I,Body Measures,2015,2016,Examination,None
+BMXWT,Weight (kg),BMX_I,Body Measures,2015,2016,Examination,None
+SEQN,Respondent sequence number.,BMX_I,Body Measures,2015,2016,Examination,None
+OHDDESTS,Dentition Status Code,OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHDEXSTS,Overall Oral Health Exam Status,OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX01TC,Tooth Count:  Upper right 3rd molar (3M),OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX02CSC,"Coronal Caries:  Upper right 2nd molar (2M) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468"".",OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX02CTC,Coronal Caries:  Upper right 2nd molar (2M) tooth code,OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX02SE,"Dental Sealants:  Upper right 2nd molar (2M) sealant codes.These values can be recorded as a string variable, for example:""0"", ""12"", ""13"".",OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX02TC,Tooth Count:  Upper right 2nd molar (2M),OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX03CSC,"Coronal Caries:  Upper right 1st molar (1M) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468"".",OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX03CTC,Coronal Caries:  Upper right 1st molar (1M) tooth code,OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX03SE,"Dental Sealants:  Upper right 1st molar (1M) sealant codes.These values can be recorded as a string variable, for example:""0"", ""12"", ""13"".",OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX03TC,Tooth Count:  Upper right 1st molar (1M),OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX04CSC,"Coronal Caries:  Upper right 2nd bicuspid/2nd primary molar (2B) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468"".",OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX04CTC,Coronal Caries:  Upper right 2nd bicuspid/2nd primary molar (2B) tooth code,OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX04SE,"Dental Sealants:  Upper right 2nd biscuspid/2nd primary molar (2B) sealant codes.These values can be recorded as a string variable, for example:""0"", ""12"", ""13"".",OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX04TC,Tooth Count:  Upper right 2nd bicuspid/2nd primary molar (2B),OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX05CSC,"Coronal Caries:  Upper right 1st biscuspid/1st primary molar (1B) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468"".",OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX05CTC,Coronal Caries:  Upper right 1st bicuspid/1st primary molar (1B) tooth code,OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX05SE,"Dental Sealants:  Upper right 1st biscuspid/1st primary molar (1B) sealant codes.These values can be recorded as a string variable, for example:""0"", ""12"", ""13"".",OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX05TC,Tooth Count:  Upper right 1st bicuspid/1st primary molar (1B),OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX06CSC,"Coronal Caries:  Upper right cuspid (C) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468"".",OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX06CTC,Coronal Caries:  Upper right cuspid (C) tooth code,OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX06TC,Tooth Count:  Upper right cuspid (C),OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX07CSC,"Coronal Caries:  Upper right lateral incisor (LI) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468"".",OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX07CTC,Coronal Caries:  Upper right lateral incisor (LI) tooth code,OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX07SE,"Dental Sealants:  Upper right lateral incisor (LI) sealant codes.These values can be recorded as a string variable, for example:""0"", ""12"", ""13"".",OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX07TC,Tooth Count:  Upper right lateral incisor (LI),OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX08CSC,"Coronal Caries:  Upper right central incisor (CI) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468"".",OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX08CTC,Coronal Caries:  Upper right central incisor (CI) tooth code,OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX08TC,Tooth Count:  Upper right central incisor (CI),OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX09CSC,"Coronal Caries:  Upper left central incisor (CI) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468"".",OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX09CTC,Coronal Caries:  Upper left central incisor (CI) tooth code,OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX09TC,Tooth Count:  Upper left central incisor (CI),OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX10CSC,"Coronal Caries:  Upper left lateral incisor (LI) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468"".",OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX10CTC,Coronal Caries:  Upper left lateral incisor (LI) tooth code,OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX10SE,"Dental Sealants:  Upper left lateral incisor (LI) sealant codes.These values can be recorded as a string variable, for example:""0"", ""12"", ""13"".",OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX10TC,Tooth Count:  Upper left lateral incisor (LI),OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX11CSC,"Coronal Caries:  Upper left cuspid (C) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468"".",OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX11CTC,Coronal Caries:  Upper left cuspid (C) tooth code,OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX11TC,Tooth Count:  Upper left cuspid (C),OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX12CSC,"Coronal Caries:  Upper left 1st bicuspid/1st primary molar (1B) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468"".",OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX12CTC,Coronal Caries:  Upper left 1st bicuspid/1st primary molar (1B) tooth code,OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX12SE,"Dental Sealants:  Upper left 1st biscuspid/1st primary molar (1B) sealant codes.These values can be recorded as a string variable, for example:""0"", ""12"", ""13"".",OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX12TC,Tooth Count:  Upper left 1st bicuspid/1st primary molar (1B),OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX13CSC,"Coronal Caries:  Upper left 2nd bicuspid/2nd primary molar (2B) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468"".",OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX13CTC,Coronal Caries: Upper left 2nd bicuspid/2nd primary molar (2B) tooth code,OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX13SE,"Dental Sealants:  Upper left 2nd bicuspid/2nd primary molar (2B) sealant codes.These values can be recorded as a string variable, for example:""0"", ""12"", ""13"".",OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX13TC,Tooth Count:  Upper left 2nd bicuspid/2nd primary molar (2B),OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX14CSC,"Coronal Caries:  Upper left 1st molar (1M) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468"".",OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX14CTC,Coronal Caries:  Upper left 1st molar (1M) tooth code,OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX14SE,"Dental Sealants:  Upper left 1st molar (1M) sealant codes.These values can be recorded as a string variable, for example:""0"", ""12"", ""13"".",OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX14TC,Tooth Count:  Upper left 1st molar (1M),OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX15CSC,"Coronal Caries:  Upper left 2nd molar (2M) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468"".",OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX15CTC,Coronal Caries: Upper left 2nd molar (2M) tooth code,OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX15SE,"Dental Sealants:  Upper left 2nd molar (2M) sealant codes.These values can be recorded as a string variable, for example:""0"", ""12"", ""13"".",OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX15TC,Tooth Count:  Upper left 2nd molar (2M),OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX16TC,Tooth Count:  Upper left 3rd molar (3M),OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX17TC,Tooth Count:  Lower left 3rd molar (3M),OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX18CSC,"Coronal Caries:  Lower left 2nd molar (2M) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468"".",OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX18CTC,Coronal Caries:  Lower left 2nd molar (2M) tooth code,OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX18SE,"Dental Sealants:  Lower left 2nd molar (2M) sealant codes.These values can be recorded as a string variable, for example:""0"", ""12"", ""13"".",OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX18TC,Tooth Count:  Lower left 2nd molar (2M),OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX19CSC,"Coronal Caries:  Lower left 1st molar (1M) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468"".",OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX19CTC,Coronal Caries:  Lower left 1st molar (1M) tooth code,OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX19SE,"Dental Sealants:  Lower left 1st molar (1M) sealant codes.These values can be recorded as a string variable, for example:""0"", ""12"", ""13"".",OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX19TC,Tooth Count:  Lower left 1st molar (1M),OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX20CSC,"Coronal Caries:  Lower left 2nd bicuspid/2nd primary molar (2B) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468"".",OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX20CTC,Coronal Caries:  Lower left 2nd bicuspid/2nd primary molar (2B) tooth code,OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX20SE,"Dental Sealants:  Lower left 2nd bicuspid/2nd primary molar (2B) sealant codes.These values can be recorded as a string variable, for example:""0"", ""12"", ""13"".",OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX20TC,Tooth Count:  Lower left 2nd bicuspid/2nd primary molar (2B),OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX21CSC,"Coronal Caries:  Lower left 1st bicuspid/1st primary molar (1B) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468"".",OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX21CTC,Coronal Caries:  Lower left 1st bicuspid/1st primary molar (1B) tooth code,OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX21SE,"Dental Sealants:  Lower left 1st bicuspid/1st primary molar (1B) sealant codes.These values can be recorded as a string variable, for example:""0"", ""12"", ""13"".",OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX21TC,Tooth Count:  Lower left 1st bicuspid/1st primary molar (1B),OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX22CSC,"Coronal Caries:  Lower left cuspid (C) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468"".",OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX22CTC,Coronal Caries:  Lower left cuspid (C) tooth code,OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX22TC,Tooth Count:  Lower left cuspid (C),OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX23CSC,"Coronal Caries:  Lower left lateral incisor (LI) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468"".",OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX23CTC,Coronal Caries:  Lower left lateral incisor (LI) tooth code,OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX23TC,Tooth Count:  Lower left lateral incisor (LI),OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX24CSC,"Coronal Caries:  Lower left central incisor (CI) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468"".",OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX24CTC,Coronal Caries:  Lower left central incisor (CI) tooth code,OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX24TC,Tooth Count:  Lower left central incisor (CI),OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX25CSC,"Coronal Caries:  Lower right central incisor (CI) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468"".",OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX25CTC,Coronal Caries:  Lower right central incisor (CI) tooth code,OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX25TC,Tooth Count:  Lower right central incisor (CI),OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX26CSC,"Coronal Caries:  Lower right lateral incisor (LI) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468"".",OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX26CTC,Coronal Caries:  Lower right lateral incisor (LI) tooth code,OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX26TC,Tooth Count:  Lower right lateral incisor (LI),OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX27CSC,"Coronal Caries:  Lower right cuspid (C) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468"".",OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX27CTC,Coronal Caries:  Lower right cuspid (C) tooth code,OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX27TC,Tooth Count:  Lower right cuspid (C),OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX28CSC,"Coronal Caries:  Lower right 1st bicuspid/1st primary molar (1B) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468"".",OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX28CTC,Coronal Caries:  Lower right 1st bicuspid/1st primary molar (1B) tooth code,OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX28SE,"Dental Sealants:  Lower right 1st bicuspid/1st primary molar (1B) sealant codes.These values can be recorded as a string variable, for example:""0"", ""12"", ""13"".",OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX28TC,Tooth Count:  Lower right 1st bicuspid/1st primary molar (1B),OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX29CSC,"Coronal Caries:  Lower right 2nd bicuspid/2nd primary molar (2B) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468"".",OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX29CTC,Coronal Caries:  Lower right 2nd bicuspid/2nd primary molar (2B) tooth code,OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX29SE,"Dental Sealants:  Lower right 2nd bicuspid/2nd primary molar (2B) sealant codes.These values can be recorded as a string variable, for example:""0"", ""12"", ""13"".",OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX29TC,Tooth Count:  Lower right 2nd bicuspid/2nd primary molar (2B),OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX30CSC,"Coronal Caries:  Lower right 1st molar (1M) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468"".",OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX30CTC,Coronal Caries:  Lower right 1st molar (1M) tooth code,OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX30SE,"Dental Sealants:  Lower right 1st molar (1M) sealant codes.These values can be recorded as a string variable, for example:""0"", ""12"", ""13"".",OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX30TC,Tooth Count:  Lower right 1st molar (1M),OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX31CSC,"Coronal Caries:  Lower right 2nd molar (2M) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468"".",OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX31CTC,Coronal Caries:  Lower right 2nd molar (2M) tooth code,OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX31SE,"Dental Sealants:  Lower right 2nd molar (2M) sealant codes.These values can be recorded as a string variable, for example:""0"", ""12"", ""13"".",OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX31TC,Tooth Count:  Lower right 2nd molar (2M),OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHX32TC,Tooth Count:  Lower right 3rd molar (3M),OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHXIMP,Tooth Count:  Ever had a tooth replaced with a surgical implant?,OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHXRCAR,Root Caries: Whole mouth,OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHXRCARO,Other non-carious root lesions (erosions/abrasions): Whole mouth,OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHXRRES,Root restorations for caries: Whole mouth,OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHXRRESO,Root restoration for reasons other than caries: Whole mouth,OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+SEQN,Respondent sequence number.,OHXDEN_I,Oral Health - Dentition,2015,2016,Examination,None
+OHAPOS,Was the SP in a recumbent (laying down) position for all eligible assessments of the oral health exam?,OHXREF_I,Oral Health - Recommendation of Care,2015,2016,Examination,None
+OHAREC,Overall recommendation for care,OHXREF_I,Oral Health - Recommendation of Care,2015,2016,Examination,None
+OHARNF,No significant findings,OHXREF_I,Oral Health - Recommendation of Care,2015,2016,Examination,None
+OHAROCCI,Clinical impression of soft tissue condition,OHXREF_I,Oral Health - Recommendation of Care,2015,2016,Examination,None
+OHAROCDE,Denture/Partial Denture/Plates,OHXREF_I,Oral Health - Recommendation of Care,2015,2016,Examination,None
+OHAROCDT,Decayed teeth,OHXREF_I,Oral Health - Recommendation of Care,2015,2016,Examination,None
+OHAROCGP,Gum disease/problem,OHXREF_I,Oral Health - Recommendation of Care,2015,2016,Examination,None
+OHAROCOH,Oral hygiene,OHXREF_I,Oral Health - Recommendation of Care,2015,2016,Examination,None
+OHAROTH,Some other finding (specify w/referral letter),OHXREF_I,Oral Health - Recommendation of Care,2015,2016,Examination,None
+OHDEXSTS,Overall Oral Health Exam Status,OHXREF_I,Oral Health - Recommendation of Care,2015,2016,Examination,None
+OHDRCSTS,Recommendation Care Status Code,OHXREF_I,Oral Health - Recommendation of Care,2015,2016,Examination,None
+SEQN,Respondent sequence number.,OHXREF_I,Oral Health - Recommendation of Care,2015,2016,Examination,None

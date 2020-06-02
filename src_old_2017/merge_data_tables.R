@@ -30,8 +30,10 @@ for(ii in 1:length(demoTables)) {
   }
 }
 
+bigData <- left_join(bigData, bind_rows(mortTables), by='SEQN')
+
 #ohxden_c	OHX02CSC	Coronal Caries: Surface condition #2
 #ohxdent	OHX02CSC	Coronal Caries: Surface condition #2 , BIGINT
 #ohxden_g	OHX02CSC	Coronal Caries: Surface condition #2
 
-save(bigData, file='nhanes_schema_merged.Rdata')
+save(bigData, tabDesc, tableNames, file='nhanes_schema_merged.Rdata')

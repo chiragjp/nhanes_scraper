@@ -1,0 +1,100 @@
+﻿Variable Name,Variable Description,Data File Name,Data File Description,Begin Year,EndYear,Component,Use Constraints
+AIALANGA,Language of the MEC ACASI Interview Instrument,DEMO_I,Demographic Variables and Sample Weights,2015,2016,Demographics,None
+DMDBORN4,In what country {were you/was SP} born?,DEMO_I,Demographic Variables and Sample Weights,2015,2016,Demographics,None
+DMDCITZN,{Are you/Is SP} a citizen of the United States? [Information about citizenship is being collected by the U.S. Public Health Service to perform health related research. Providing this information is voluntary and is collected under the authority of the Public Health Service Act. There will be no effect on pending immigration or citizenship petitions.],DEMO_I,Demographic Variables and Sample Weights,2015,2016,Demographics,None
+DMDEDUC2,What is the highest grade or level of school {you have/SP has} completed or the highest degree {you have/s/he has} received?,DEMO_I,Demographic Variables and Sample Weights,2015,2016,Demographics,None
+DMDEDUC3,What is the highest grade or level of school {you have/SP has} completed or the highest degree {you have/s/he has} received?,DEMO_I,Demographic Variables and Sample Weights,2015,2016,Demographics,None
+DMDFMSIZ,Total number of people in the Family,DEMO_I,Demographic Variables and Sample Weights,2015,2016,Demographics,None
+DMDHHSIZ,Total number of people in the Household,DEMO_I,Demographic Variables and Sample Weights,2015,2016,Demographics,None
+DMDHHSZA,Number of children aged 5 years or younger in the household,DEMO_I,Demographic Variables and Sample Weights,2015,2016,Demographics,None
+DMDHHSZB,Number of children aged 6-17 years old in the household,DEMO_I,Demographic Variables and Sample Weights,2015,2016,Demographics,None
+DMDHHSZE,Number of adults aged 60 years or older in the household,DEMO_I,Demographic Variables and Sample Weights,2015,2016,Demographics,None
+DMDHRAGE,HH reference person's age in years,DEMO_I,Demographic Variables and Sample Weights,2015,2016,Demographics,None
+DMDHRBR4,HH reference person's country of birth,DEMO_I,Demographic Variables and Sample Weights,2015,2016,Demographics,None
+DMDHREDU,HH reference person's education level,DEMO_I,Demographic Variables and Sample Weights,2015,2016,Demographics,None
+DMDHRGND,HH reference person's gender,DEMO_I,Demographic Variables and Sample Weights,2015,2016,Demographics,None
+DMDHRMAR,HH reference person's marital status,DEMO_I,Demographic Variables and Sample Weights,2015,2016,Demographics,None
+DMDHSEDU,HH reference person's spouse's education level,DEMO_I,Demographic Variables and Sample Weights,2015,2016,Demographics,None
+DMDMARTL,Marital status,DEMO_I,Demographic Variables and Sample Weights,2015,2016,Demographics,None
+DMDYRSUS,Length of time the participant has been in the US.,DEMO_I,Demographic Variables and Sample Weights,2015,2016,Demographics,None
+DMQADFC,"Did {you/SP} ever serve in a foreign country during a time of armed conflict or on a humanitarian or peace-keeping mission? (This would include National Guard or reserve or active duty monitoring or conducting peace keeping operations in Bosnia and Kosovo, in the Sinai between Egypt and Israel, or in response to the 2004 tsunami or Haiti in 2010.)",DEMO_I,Demographic Variables and Sample Weights,2015,2016,Demographics,None
+DMQMILIZ,"{Have you/Has SP} ever served on active duty in the U.S. Armed Forces, military Reserves, or National Guard? (Active duty does not include training for the Reserves or National Guard, but does include activation, for service in the U.S. or in a foreign country, in support of military or humanitarian operations.)",DEMO_I,Demographic Variables and Sample Weights,2015,2016,Demographics,None
+FIAINTRP,Was an interpreter used to conduct the Family interview?,DEMO_I,Demographic Variables and Sample Weights,2015,2016,Demographics,None
+FIALANG,Language of the Family Interview Instrument,DEMO_I,Demographic Variables and Sample Weights,2015,2016,Demographics,None
+FIAPROXY,Was a Proxy respondent used in conducting the Family Interview?,DEMO_I,Demographic Variables and Sample Weights,2015,2016,Demographics,None
+INDFMIN2,Total family income (reported as a range value in dollars),DEMO_I,Demographic Variables and Sample Weights,2015,2016,Demographics,None
+INDFMPIR,A ratio of family income to poverty guidelines.,DEMO_I,Demographic Variables and Sample Weights,2015,2016,Demographics,None
+INDHHIN2,Total household income (reported as a range value in dollars),DEMO_I,Demographic Variables and Sample Weights,2015,2016,Demographics,None
+MIAINTRP,Was an interpreter used to conduct the MEC CAPI interview?,DEMO_I,Demographic Variables and Sample Weights,2015,2016,Demographics,None
+MIALANG,Language of the MEC CAPI Interview Instrument,DEMO_I,Demographic Variables and Sample Weights,2015,2016,Demographics,None
+MIAPROXY,Was a Proxy respondent used in conducting the MEC CAPI Interview?,DEMO_I,Demographic Variables and Sample Weights,2015,2016,Demographics,None
+RIAGENDR,Gender of the participant.,DEMO_I,Demographic Variables and Sample Weights,2015,2016,Demographics,None
+RIDAGEMN,Age in months of the participant at the time of screening. Reported for persons aged 24 months or younger at the time of exam (or screening if not examined).,DEMO_I,Demographic Variables and Sample Weights,2015,2016,Demographics,None
+RIDAGEYR,Age in years of the participant at the time of screening. Individuals 80 and over are topcoded at 80 years of age.,DEMO_I,Demographic Variables and Sample Weights,2015,2016,Demographics,None
+RIDEXAGM,Age in months of the participant at the time of examination. Reported for persons aged 19 years or younger at the time of examination.,DEMO_I,Demographic Variables and Sample Weights,2015,2016,Demographics,None
+RIDEXMON,"Six month time period when the examination was performed - two categories: November 1 through April 30, May 1 through October 31.",DEMO_I,Demographic Variables and Sample Weights,2015,2016,Demographics,None
+RIDEXPRG,Pregnancy status for females between 20 and 44 years of age at the time of MEC exam.,DEMO_I,Demographic Variables and Sample Weights,2015,2016,Demographics,None
+RIDRETH1,Recode of reported race and Hispanic origin information,DEMO_I,Demographic Variables and Sample Weights,2015,2016,Demographics,None
+RIDRETH3,"Recode of reported race and Hispanic origin information, with Non-Hispanic Asian Category",DEMO_I,Demographic Variables and Sample Weights,2015,2016,Demographics,None
+RIDSTATR,Interview and examination status of the participant.,DEMO_I,Demographic Variables and Sample Weights,2015,2016,Demographics,None
+SDDSRVYR,Data release cycle,DEMO_I,Demographic Variables and Sample Weights,2015,2016,Demographics,None
+SDMVPSU,Masked variance unit pseudo-PSU variable for variance estimation,DEMO_I,Demographic Variables and Sample Weights,2015,2016,Demographics,None
+SDMVSTRA,Masked variance unit pseudo-stratum variable for variance estimation,DEMO_I,Demographic Variables and Sample Weights,2015,2016,Demographics,None
+SEQN,Respondent sequence number.,DEMO_I,Demographic Variables and Sample Weights,2015,2016,Demographics,None
+SIAINTRP,Was an interpreter used to conduct the Sample Person (SP) interview?,DEMO_I,Demographic Variables and Sample Weights,2015,2016,Demographics,None
+SIALANG,Language of the Sample Person Interview Instrument,DEMO_I,Demographic Variables and Sample Weights,2015,2016,Demographics,None
+SIAPROXY,Was a Proxy respondent used in conducting the Sample Person (SP) interview?,DEMO_I,Demographic Variables and Sample Weights,2015,2016,Demographics,None
+WTINT2YR,Full sample 2 year interview weight.,DEMO_I,Demographic Variables and Sample Weights,2015,2016,Demographics,None
+WTMEC2YR,Full sample 2 year MEC exam weight.,DEMO_I,Demographic Variables and Sample Weights,2015,2016,Demographics,None
+BG2K,Census 2000 Block Group,GEO_2000,"Geocoded Data, NHANES 1999-2016 , Census 2000",1999,2016,Demographics,RDC Only
+BG2K,Census 2000 Block Group,GEO_2000,"Geocoded Data, NHANES 1999-2016 , Census 2000",1999,2016,Demographics,RDC Only
+BLOCK2K,Census 2000 Block ID,GEO_2000,"Geocoded Data, NHANES 1999-2016 , Census 2000",1999,2016,Demographics,RDC Only
+BLOCK2K,Census 2000 Block ID - first character is the Census Block Group,GEO_2000,"Geocoded Data, NHANES 1999-2016 , Census 2000",1999,2016,Demographics,RDC Only
+CBSA,CBSA Lowest Level Code. Contains the first of: Metropolitan Division; Micropolitan Area; Metropolitan Area; in this order,GEO_2000,"Geocoded Data, NHANES 1999-2016 , Census 2000",1999,2016,Demographics,RDC Only
+CBSA,Core Based Statistical Area (CBSA) Lowest Level Code,GEO_2000,"Geocoded Data, NHANES 1999-2016 , Census 2000",1999,2016,Demographics,RDC Only
+CNTY2K,Census 2000 FIPS County Code,GEO_2000,"Geocoded Data, NHANES 1999-2016 , Census 2000",1999,2016,Demographics,RDC Only
+CNTY2K,Census 2000 FIPS County Code (3-digit numeric with leading zeros significant),GEO_2000,"Geocoded Data, NHANES 1999-2016 , Census 2000",1999,2016,Demographics,RDC Only
+LAT,Latitude in decimal format with up to 6 decimal precision,GEO_2000,"Geocoded Data, NHANES 1999-2016 , Census 2000",1999,2016,Demographics,RDC Only
+LAT,Latitude (Decimal),GEO_2000,"Geocoded Data, NHANES 1999-2016 , Census 2000",1999,2016,Demographics,RDC Only
+LON,Longitude (Decimal),GEO_2000,"Geocoded Data, NHANES 1999-2016 , Census 2000",1999,2016,Demographics,RDC Only
+LON,Longitude in decimal format with up to 6 decimal precision,GEO_2000,"Geocoded Data, NHANES 1999-2016 , Census 2000",1999,2016,Demographics,RDC Only
+LVL2K,Reference Census 2000 Geocoder RCs (Return Codes) tab,GEO_2000,"Geocoded Data, NHANES 1999-2016 , Census 2000",1999,2016,Demographics,RDC Only
+LVL2K,Census 2000 Geocoder LAT/LONG Geocoding Level Return Code,GEO_2000,"Geocoded Data, NHANES 1999-2016 , Census 2000",1999,2016,Demographics,RDC Only
+RC2K,Census 2000 Geocoder General Return Code,GEO_2000,"Geocoded Data, NHANES 1999-2016 , Census 2000",1999,2016,Demographics,RDC Only
+RC2K,Reference Census 2000 Geocoder RCs (Return Codes) tab,GEO_2000,"Geocoded Data, NHANES 1999-2016 , Census 2000",1999,2016,Demographics,RDC Only
+SEQN,Respondent sequence number.,GEO_2000,"Geocoded Data, NHANES 1999-2016 , Census 2000",1999,2016,Demographics,RDC Only
+SEQN,Respondent sequence number.,GEO_2000,"Geocoded Data, NHANES 1999-2016 , Census 2000",1999,2016,Demographics,RDC Only
+STATE2K,Census 2000 FIPS State Code,GEO_2000,"Geocoded Data, NHANES 1999-2016 , Census 2000",1999,2016,Demographics,RDC Only
+STATE2K,Census 2000 FIPS State Code (2-digit numeric with leading zeros significant),GEO_2000,"Geocoded Data, NHANES 1999-2016 , Census 2000",1999,2016,Demographics,RDC Only
+STM2K,Reference Census 2000 Geocoder RCs (Return Codes) tab,GEO_2000,"Geocoded Data, NHANES 1999-2016 , Census 2000",1999,2016,Demographics,RDC Only
+STM2K,Census 2000 Geocoder Street Matcher Return Code,GEO_2000,"Geocoded Data, NHANES 1999-2016 , Census 2000",1999,2016,Demographics,RDC Only
+TRACT2K,Census 2000 Tract,GEO_2000,"Geocoded Data, NHANES 1999-2016 , Census 2000",1999,2016,Demographics,RDC Only
+TRACT2K,Census 2000 Tract (contains leader zeros with the decimal point implied),GEO_2000,"Geocoded Data, NHANES 1999-2016 , Census 2000",1999,2016,Demographics,RDC Only
+UR,"Urban/Rural Indicator (U = Urban, R = Rural, blank = unknown)  [TIGER/Line RcdType 'S'; UR value]",GEO_2000,"Geocoded Data, NHANES 1999-2016 , Census 2000",1999,2016,Demographics,RDC Only
+UR,Urban/Rural Indicator,GEO_2000,"Geocoded Data, NHANES 1999-2016 , Census 2000",1999,2016,Demographics,RDC Only
+BG2KX,Census 2010 Block Group,GEO_2010,"Geocoded Data, NHANES 1999-2016 , Census 2010",1999,2016,Demographics,RDC Only
+BG2KX,Census 2010 Block Group,GEO_2010,"Geocoded Data, NHANES 1999-2016 , Census 2010",1999,2016,Demographics,RDC Only
+BLOCK2KX,Census 2010 Block ID - first character is the Census Block Group,GEO_2010,"Geocoded Data, NHANES 1999-2016 , Census 2010",1999,2016,Demographics,RDC Only
+BLOCK2KX,Census 2010 Block ID - first character is the Census Block Group,GEO_2010,"Geocoded Data, NHANES 1999-2016 , Census 2010",1999,2016,Demographics,RDC Only
+CBSA,CBSA Lowest Level Code. Contains the first of: Metropolitan Division; Micropolitan Area; Metropolitan Area; in this order,GEO_2010,"Geocoded Data, NHANES 1999-2016 , Census 2010",1999,2016,Demographics,RDC Only
+CBSA,CBSA Lowest Level Code. Contains the first of: Metropolitan Division; Micropolitan Area; Metropolitan Area; in this order,GEO_2010,"Geocoded Data, NHANES 1999-2016 , Census 2010",1999,2016,Demographics,RDC Only
+CNTY2KX,Census 2010 FIPS County Code (3-digit numeric with leading zeros significant),GEO_2010,"Geocoded Data, NHANES 1999-2016 , Census 2010",1999,2016,Demographics,RDC Only
+CNTY2KX,Census 2010 FIPS County Code (3-digit numeric with leading zeros significant),GEO_2010,"Geocoded Data, NHANES 1999-2016 , Census 2010",1999,2016,Demographics,RDC Only
+LAT,Latitude in decimal format with up to 6 decimal precision,GEO_2010,"Geocoded Data, NHANES 1999-2016 , Census 2010",1999,2016,Demographics,RDC Only
+LAT,Latitude in decimal format with up to 6 decimal precision,GEO_2010,"Geocoded Data, NHANES 1999-2016 , Census 2010",1999,2016,Demographics,RDC Only
+LON,Longitude in decimal format with up to 6 decimal precision,GEO_2010,"Geocoded Data, NHANES 1999-2016 , Census 2010",1999,2016,Demographics,RDC Only
+LON,Longitude in decimal format with up to 6 decimal precision,GEO_2010,"Geocoded Data, NHANES 1999-2016 , Census 2010",1999,2016,Demographics,RDC Only
+LVL2KX,Reference Census 2010 Geocoder RCs (Return Codes) tab,GEO_2010,"Geocoded Data, NHANES 1999-2016 , Census 2010",1999,2016,Demographics,RDC Only
+LVL2KX,Reference Census 2010 Geocoder RCs (Return Codes) tab,GEO_2010,"Geocoded Data, NHANES 1999-2016 , Census 2010",1999,2016,Demographics,RDC Only
+RC2KX,Reference Census 2010 Geocoder RCs (Return Codes) tab,GEO_2010,"Geocoded Data, NHANES 1999-2016 , Census 2010",1999,2016,Demographics,RDC Only
+RC2KX,Reference Census 2010 Geocoder RCs (Return Codes) tab,GEO_2010,"Geocoded Data, NHANES 1999-2016 , Census 2010",1999,2016,Demographics,RDC Only
+SEQN,Respondent sequence number.,GEO_2010,"Geocoded Data, NHANES 1999-2016 , Census 2010",1999,2016,Demographics,RDC Only
+SEQN,Respondent sequence number.,GEO_2010,"Geocoded Data, NHANES 1999-2016 , Census 2010",1999,2016,Demographics,RDC Only
+STATE2KX,Census 2010 FIPS State Code (2-digit numeric with leading zeros significant),GEO_2010,"Geocoded Data, NHANES 1999-2016 , Census 2010",1999,2016,Demographics,RDC Only
+STATE2KX,Census 2010 FIPS State Code (2-digit numeric with leading zeros significant),GEO_2010,"Geocoded Data, NHANES 1999-2016 , Census 2010",1999,2016,Demographics,RDC Only
+STM2KX,Census 2010 Geocoder Street Matcher Return Code,GEO_2010,"Geocoded Data, NHANES 1999-2016 , Census 2010",1999,2016,Demographics,RDC Only
+STM2KX,Census 2010 Geocoder Street Matcher Return Code,GEO_2010,"Geocoded Data, NHANES 1999-2016 , Census 2010",1999,2016,Demographics,RDC Only
+TRACT2KX,Census 2010 Tract (contains leader zeros with the decimal point implied),GEO_2010,"Geocoded Data, NHANES 1999-2016 , Census 2010",1999,2016,Demographics,RDC Only
+TRACT2KX,Census 2010 Tract (contains leader zeros with the decimal point implied),GEO_2010,"Geocoded Data, NHANES 1999-2016 , Census 2010",1999,2016,Demographics,RDC Only
+UR2KX,"Urban/Rural Indicator (U = Urban, R = Rural, blank = unknown)[TIGER/Line RcdType 'S'; UR value]",GEO_2010,"Geocoded Data, NHANES 1999-2016 , Census 2010",1999,2016,Demographics,RDC Only
+UR2KX,"Urban/Rural Indicator (U = Urban, R = Rural, blank = unknown)  [TIGER/Line RcdType 'S'; UR value]",GEO_2010,"Geocoded Data, NHANES 1999-2016 , Census 2010",1999,2016,Demographics,RDC Only
